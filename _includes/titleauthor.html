@@ -1,0 +1,14 @@
+<div class="container mt-3">
+  <div class="col-lg-6 mx-auto">
+    <h1 class="text-center display-4" style="word-wrap: break-word;">
+      {{ page.title }}
+    </h1>
+    <p class="text-center authortitle divided ">
+      <!-- Look the author details up from the site config. -->
+      {% assign author = site.data.authors[page.author] %}
+      <!-- Output author details if some exist. -->
+      {% if author %} <span class="entryby">By</span> {{ author.name }}
+    </p>
+    {% endif %}
+  </div>
+</div>

@@ -1,0 +1,45 @@
+<div class="container">
+  <hr />
+  <div class="row  px-1">
+    <div class="col">
+      <h3 class="text-center pb-5 mx-auto">Related Posts</h3>
+      <div class="card-deck">
+        {% if page.url contains 'fall-2019' %} {% assign maxRelated = 2 %} {%
+        assign minCommonTags = 1 %} {% assign maxRelatedCounter = 0 %} {% for
+        fall-2019 in site.fall-2019 %} {% assign sameTagCount = 0 %} {% assign
+        commonTags = '' %} {% for tag in fall-2019.tags %} {% if fall-2019.url
+        != page.url %} {% if page.tags contains tag %} {% assign sameTagCount =
+        sameTagCount | plus: 1 %} {% capture tagmarkup %}
+        <span class="label label-default">{{ tag }}</span> {% endcapture %} {%
+        assign commonTags = commonTags | append: tagmarkup %} {% endif %} {%
+        endif %} {% endfor %} {% if sameTagCount >= minCommonTags %}
+        <!-- Card -->
+        <div class="card">
+          <!-- Card image -->
+            <a href="{{ site.baseurl }}{{ fall-2019.url }}">
+          <div class="tomato text-light" style="padding: 1.6rem 1rem;text-align: center;">
+            <!-- Title -->
+            <h2 class="card-header-title mb-3">{{ fall-2019.title }}</h2>
+            <!-- Subtitle -->
+            <p class="card-header-subtitle mb-0">by {{ fall-2019.author }}</p>
+          </div>
+           </a>
+          <div class="card-body text-center">
+            <!-- Text -->
+            <p class="category">{{ fall-2019.tags }}</p>
+            <p class="card-text">{{ fall-2019.excerpt }}</p>
+            <!-- Link -->
+
+              <h5><a href="{{ site.baseurl }}{{ fall-2019.url }}" class="related-post-links">Read more<i class="fas fa-angle-double-right ml-2"></i></a></h5>
+
+          </div>
+        </div>
+        <!-- Card -->
+        {{ post.content | markdownify | strip_html | truncatewords: 50 }} {%
+        assign maxRelatedCounter = maxRelatedCounter | plus: 1 %} {% if
+        maxRelatedCounter >= maxRelated %} {% break %} {% endif %} {% endif %}
+        {% endfor %} {% else %} //Related posts code for usual posts {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

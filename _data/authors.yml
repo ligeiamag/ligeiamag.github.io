@@ -1,0 +1,43 @@
+# Author details.
+Herman Hesse:
+    name: Herman Hesse
+    email: robert@sorryapp.com
+    bio: Herman Hesse was a German-born poet, novelist, and painter. His best-known works include <em>Demian</em>, <em>Steppenwolf</em>, <em>Siddhartha</em>, and <em>The Glass Bead Game</em>, each of which explores an individual's search for authenticity, self-knowledge and spirituality. In 1946, he received the Nobel Prize in Literature.
+    image: /assets/img/herman.jpg
+    twitter:
+Percy Bysshe Shelley:
+    name: Percy Bysshe Shelley
+    email: robin@sorryapp.com
+    web: http://twitter.com/robingeall
+    bio: Percy Bysshe Shelley was one of the major English Romantic poets, who is regarded by some as among the finest lyric and philosophical poets in the English language, and one of the most influential.
+    image: /assets/img/percy.jpg
+Matt Lee:
+    name: Matt Lee
+    email: robin@sorryapp.com
+    web: http://twitter.com/robingeall
+Robert Hayden:
+    name: Robert Hayden
+    email: robin@sorryapp.com
+    web: http://twitter.com/robingeall
+    bio: Robert Hayden was an American poet, essayist, and educator. He served as Consultant in Poetry to the Library of Congress from 1976 to 1978, a role today known as US Poet Laureate. He was the first African-American writer to hold the office.
+    image: /assets/img/robert_hayden.jpg
+William Blake:
+    name: William Blake
+    email: robin@sorryapp.com
+    web: http://twitter.com/robingeall
+    bio: William Blake was an English poet, painter, and printmaker. Largely unrecognised during his lifetime, Blake is now considered a seminal figure in the history of the poetry and visual arts of the Romantic Age.
+    image: /assets/img/william_blake.jpg
+Coach Mcguirk:
+      name: Coach Mcguirk
+      email: robin@sorryapp.com
+      web: http://twitter.com/robingeall
+      bio: Coach Mcguirk is an incompetent soccer coach and an alcoholic.
+      image: /assets/img/coach_mcguirk.jpg
+Sean Sam:
+    name: Sean Sam
+    email: robin@sorryapp.com
+    web: http://twitter.com/robingeall
+Laura Marello:
+    name: Laura Marello
+    email: robin@sorryapp.com
+    web: http://twitter.com/robingeall

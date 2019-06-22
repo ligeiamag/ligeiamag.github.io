@@ -1,0 +1,21 @@
+<figure class="my-5 py-5">
+  <img
+    src="{{ '/assets/img/assets/divider.svg' | prepend: site.baseurl }}"
+    class="rounded-circle mx-auto d-block"
+    style="max-height:60px;"
+  />
+</figure>
+
+  <div class="d-flex flex-row-reverse border-top pb-3 post-share pt-2">
+  <div class="p-2">
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" id="facebook-link">
+      <span class="fab fa-facebook-f" aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="p-2">
+    <a  href="https://twitter.com/intent/tweet?&text={{ page.url | prepend: site.url }}" target="_blank" id="twitter-link">
+      <span class="fab fa-twitter" aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="p-2"><p>SHARE:</p></div>
+</div>

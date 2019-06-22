@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+    <copyright>All rights reserved.</copyright>
+    <description>{{ site.description }}</description>
+    <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
+      {% for collection in site.collections %}
+
+
+{% assign sorted = site[collection.label] | sort: 'date') | reverse | limit:20 %}
+{% for item in sorted %}
+
+<item>
+          <title>{{ item.title | xml_escape }}</title>
+          <description>{{ item.excerpt | xml_escape }}</description>
+          <pubDate>{{ item.date | date_to_xmlschema }}</pubDate>
+          <link>{{ item.url | absolute_url }}</link>
+          <guid isPermaLink="true">{{ item.url | absolute_url }}</guid>
+        </item>
+    {% endfor
+  %}{% endfor
+  %}</channel>
+</rss>
