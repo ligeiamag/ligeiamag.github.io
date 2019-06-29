@@ -1,21 +1,19 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta name="robots" content="noindex">
+  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:url" content="{{ page.url | absolute_url }}">
     <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="{{ page.url | absolute_url }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
-    <meta name="twitter:site" content="{{ site.title }}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
     {% if site.twitter_username %}
-    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+    <meta name="twitter:site" content="@{{ site.twitter_username }}">
     {% endif %}
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <style>
@@ -24,7 +22,6 @@
       }
     </style>
   <link rel="stylesheet" href="{{ '/assets/css/main2.css' | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ '/assets/css/animation.css' | prepend: site.baseurl }}">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png?v=yyLNzPqqgx' | prepend: site.baseurl }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png?v=yyLNzPqqgx' | prepend: site.baseurl }}">
