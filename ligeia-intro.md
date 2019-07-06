@@ -131,6 +131,15 @@ title: Ligeia by Edgar Allan Poe
 	      those shining, those divine orbs! they became to me twin stars of Leda,
 	      and I to them devoutest of astrologers.
 	    </p>
+<div class="u-release my-5">
+    <div class="container">
+    <blockquote class="blockquote">
+    <p class="h2">She, the outwardly calm, the ever-placid
+		Ligeia, was the most violently a prey to the tumultuous vultures of stern
+		passion.</p>
+    </blockquote>
+</div>
+</div>
 	    <p>
 	      There is no point, among the many incomprehensible anomalies of the
 	      science of mind, more thrillingly exciting than the fact&mdash;never, I
@@ -350,6 +359,13 @@ title: Ligeia by Edgar Allan Poe
 	      successor of the unforgotten Ligeia&mdash;the fair-haired and blue-eyed
 	      Lady Rowena Trevanion, of Tremaine.
 	    </p>
+			<div class="u-release my-5">
+			    <div class="container">
+			    <blockquote class="blockquote">
+			    <p class="h2">In each of the angles of the chamber stood on end a gigantic sarcophagus of black granite.</p>
+			    </blockquote>
+			</div>
+			</div>
 	    <p>
 	      There is no individual portion of the architecture and decoration of that
 	      bridal chamber which is not now visibly before me. Where were the souls of
@@ -504,6 +520,14 @@ title: Ligeia by Edgar Allan Poe
 	      thoughts of the one only and supremely beloved, I remained gazing upon the
 	      body of Rowena.
 	    </p>
+			<div class="u-release my-5">
+					<div class="container">
+					<blockquote class="blockquote">
+					<p class="h2">I listened&mdash;in
+		      extremity of horror. The sound came again&mdash;it was a sigh.</p>
+					</blockquote>
+			</div>
+			</div>
 	    <p>
 	      It might have been midnight, or perhaps earlier, or later, for I had taken
 	      no note of time, when a sob, low, gentle, but very distinct, startled me
