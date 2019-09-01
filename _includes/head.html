@@ -12,6 +12,7 @@
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:card" content="summary">
+{% if page.image %}<meta name="twitter:image" content="{{ page.image | prepend: site.baseurl }}" />{% endif %}
     <meta name="twitter:url" content="{{ page.url | absolute_url }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
