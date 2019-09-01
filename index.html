@@ -1,34 +1,42 @@
 ---
 layout: frontpage
 title: Home
+image: '/assets/img/fall2019_og/ligeia.jpg'
+width: 800
+height: 418
 ---
 
-<div class="container h-100">
-  <div class="row align-items-center h-100">
-    <div class="col-sm-6 mx-auto">
-      <a href="{{ '/ligeia-intro' | prepend: site.baseurl }}" class="frontpagelink">
-        <h2 class="mainpagename  pt-2 pt-md-5">
-          Ligeia Magazine
-        </h2>
-        <div class="z-depth">
-          <img src="{{ '/assets/img/ligeia_clarke.jpg' | prepend: site.baseurl }}" class="img-fluid d-block mx-auto" alt="Responsive image" />
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-11 col-md-8 col-lg-7 mx-auto  pt-4 pt-md-5">
+
+      <a href="{{ '/fall-2019' | prepend: site.baseurl }}" class="frontpagelink">
+      <div class="d-flex align-items-baseline">
+        <div class="">
+          <h1>Ligeia</h1>
         </div>
-        <footer class="blockquote-footer">
-          <cite title="Source Title">
-            Ligeia
-          </cite> by Harry Clarke, 1919
-        </footer>
-      </a>
+        <div>
+          <p class="bio-content pl-3">Fall 2019 / Issue 01</p>
+        </div>
+      </div>
+
+                <img src="{{ '/assets/img/fall2019/surpriseandthecanary.jpg' | prepend: site.baseurl }}" class="img-fluid d-block mx-auto" alt="Laurel Hausler Painting" />
+  </a>
+                <footer class="blockquote-footer">
+                  <cite title="Source Title">
+                    Surprise and the Canary
+                  </cite> by <a href="https://www.laurelhausler.com/" target="_blank">Laurel Hausler</a>
+                </footer>
+
     </div>
   </div>
 </div>
-
 <!-- Scripts -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <script src="{{ '/assets/js/vendor/modernizr-3.6.0.min.js' | prepend: site.baseurl }}"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <script>
 	window.jQuery || document.write('<script src="{{ '/assets/js/vendor/jquery-3.3.1.min.js' | prepend: site.baseurl }}"><\/script>')
 </script>
@@ -40,7 +48,7 @@ title: Home
 	   };
 	   ga.q = [];
 	   ga.l = +new Date();
-	   ga("create", "UAXXXX", "auto");
+       ga("create", "UA-117928825-2", "auto");
 	   ga("send", "pageview");
 </script>
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>

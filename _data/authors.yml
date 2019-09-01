@@ -1,43 +1,71 @@
 # Author details.
-Herman Hesse:
-    name: Herman Hesse
-    email: robert@sorryapp.com
-    bio: Herman Hesse was a German-born poet, novelist, and painter. His best-known works include <em>Demian</em>, <em>Steppenwolf</em>, <em>Siddhartha</em>, and <em>The Glass Bead Game</em>, each of which explores an individual's search for authenticity, self-knowledge and spirituality. In 1946, he received the Nobel Prize in Literature.
-    image: /assets/img/herman.jpg
-    twitter:
-Percy Bysshe Shelley:
-    name: Percy Bysshe Shelley
-    email: robin@sorryapp.com
-    web: http://twitter.com/robingeall
-    bio: Percy Bysshe Shelley was one of the major English Romantic poets, who is regarded by some as among the finest lyric and philosophical poets in the English language, and one of the most influential.
-    image: /assets/img/percy.jpg
 Matt Lee:
     name: Matt Lee
-    email: robin@sorryapp.com
-    web: http://twitter.com/robingeall
-Robert Hayden:
-    name: Robert Hayden
-    email: robin@sorryapp.com
-    web: http://twitter.com/robingeall
-    bio: Robert Hayden was an American poet, essayist, and educator. He served as Consultant in Poetry to the Library of Congress from 1976 to 1978, a role today known as US Poet Laureate. He was the first African-American writer to hold the office.
-    image: /assets/img/robert_hayden.jpg
-William Blake:
-    name: William Blake
-    email: robin@sorryapp.com
-    web: http://twitter.com/robingeall
-    bio: William Blake was an English poet, painter, and printmaker. Largely unrecognised during his lifetime, Blake is now considered a seminal figure in the history of the poetry and visual arts of the Romantic Age.
-    image: /assets/img/william_blake.jpg
-Coach Mcguirk:
-      name: Coach Mcguirk
-      email: robin@sorryapp.com
-      web: http://twitter.com/robingeall
-      bio: Coach Mcguirk is an incompetent soccer coach and an alcoholic.
-      image: /assets/img/coach_mcguirk.jpg
+    web: http://mattleewrites.com
+    bio: <strong>Matt Lee</strong> is an actor, teacher, and writer based in Maryland. His work has been featured at <em>Sleaze Mag</em>, <em>Tragickal</em>, <em>SOFT CARTEL</em>, <em>Philosophical Idiot</em>, and <em>fluland</em>, among other venues. He has written and produced numerous works for the stage with Maryland Ensemble Theatre. He tweets <a href="https://twitter.com/Gallows_Ticket" target="_blank">@Gallows_Ticket</a>. For more info visit <a href="http://mattleewrites.com" target="_blank">mattleewrites.com</a>
 Sean Sam:
     name: Sean Sam
-    email: robin@sorryapp.com
-    web: http://twitter.com/robingeall
 Laura Marello:
     name: Laura Marello
-    email: robin@sorryapp.com
-    web: http://twitter.com/robingeall
+    bio: <strong>Laura Marello</strong> is the author of <em>Gauguin’s Moon</em>, <em>Maniac Drifter</em>, <em>The Tenants of the Hotel Biron</em>, <em>Gender of Inanimate Objects and Other Stories</em>, <em>Claiming Kin</em>, and <em>Balzac’s Robe</em>.  She has been a Fine Arts Work Center Provincetown Fellow, Stegner Fellow, and National Endowment for the Arts Grant recipient.
+Lauren Milici:
+    name: Lauren Milici
+    bio: <strong>Lauren Milici</strong> is a Jersey-born, Florida raised poet and writer based in West Virginia. She has an MFA in Creative Writing from West Virginia University. When she isn’t crafting sad poems about sex, she’s either writing or shouting into the void about film, TV, and all things pop culture.
+Esther Ra:
+    name: Esther Ra
+    bio: <strong>Esther Ra</strong> is an advocate, educator, and the author of <em>book of untranslatable things</em> (Grayson Books, 2018), which received the 2018 Grayson Books Chapbook Award. Her work has also been published or is forthcoming in <em>Rattle</em>, <em>The Rumpus</em>, and <em>Border Crossing</em>, among others. She is the recipient of the Women Writing War Poetry Award, as well as The RAR William Wantling Prize for Poetry. An external relations officer for Saejowi, Esther currently works to support medical and mental health services for North Korean refugees in Seoul. She is deeply interested in the quiet beauty of the ordinary and the space between different cultures. Find her online at <a href="https://gracefulorchid.wordpress.com/" target="_blank">gracefulorchid.wordpress.com</a>.
+Susan Hu:
+    name: Susan Hu
+    bio: <strong>Susan Hu</strong> is a writer, poet, editor whose works previously appeared in <em>Lumen</em>. She is a self-professed bibliophile and recent graduate from Towson University (with an M.S. in Professional Writing). She posts about her daily obsession with food on Instagram @moody_foodie_ and can be reached via email at shuishan2114@gmail.com.
+Ahja Fox:
+    name: Ahja Fox
+    bio: <strong>Ahja Fox</strong> can be found around Denver, Colorado reading at various events, cheering on her community, or co-hosting Art of Storytelling. She is an assistant poetry editor for <em>Copper Nickel</em> and <em>Homology Lit</em> and publishes in online and print journals like <em>Five:2:One, LEVELER, Driftwood Press, Rigorous, Okay Donkey, The Perch (Yale),</em> and more. She has also been included in the <em>2018 Punch Drunk Anthology, YANYR Anthology,</em> and <em>Reclaim:An Anthology of Women’s Poetry.</em> Follow and contact Ahja on Instagram or Twitter at aefoxx.
+Laura Arciniega:
+    name: Laura Arciniega
+    bio: <strong>Laura Arciniega</strong> holds an MDiv from Beeson Divinity School. Her work has appeared in <em>Saint Katherine Review</em>, <em>is this up</em>, <em>FIVE:2:ONE Magazine</em>, and elsewhere. Laura lives in Southern California with her husband and son. Find her online at <a href="https://lauraaliciaarciniega.wordpress.com/"  target="_blank">lauraaliciaarciniega.wordpress.com</a> and on Twitter @LauraAArciniega.
+Sean Kilpatrick:
+    name: Sean Kilpatrick
+    bio: <strong>Sean Kilpatrick</strong> wrote <em>Shock Test…A Night of Truth:Bill Hicks &amp; Timothy McVeigh Meet at Waco w/ Guest Lecturers:William Cooper &amp; Ted Kaczynski</em> and is published in <em>Expat Press</em>, <em>Hobart</em>, <em>fluland</em>, <em>surfaces</em>, <em>Soft Cartel</em>, <em>tragickal</em>, <em>Terror House Magazine</em>, <em>Diagram</em>, and <em>Sludge</em>.
+Matt Jones:
+    name: Matt Jones
+    bio: <strong>Matt Jones's</strong> prose has appeared in <em>The Southern Review</em>, <em>New England Review</em>, <em>The Threepenny Review</em>, and elsewhere. He has received support from the Ohio Arts Council, the Vermont Studio Center, and the Sitka Center for Art and Ecology. More of his work can be found at <a href="https://www.mattjonesfiction.com/" target="_blank">www.mattjonesfiction.com/</a>.
+Ed Obermeyer:
+    name: Ed Obermeyer
+    bio: Find him at <a href="http://www.edobermeyer.com/" target="_blank">Ed Obermeyer.</a>
+Elizabeth Martinez:
+    name: Elizabeth Martinez
+Jess E. Jelsma:
+    name: Jess E. Jelsma
+    bio: <strong>Jess E. Jelsma</strong> is a PhD candidate at the University of Cincinnati, where she works as an Assistant Editor for the <em>Cincinnati Review</em>. Her recent work appears in <em>The Arkansas International</em>, <em>The Normal School</em>, <em>The Southern Review</em>, and <em>Quarterly West</em>. Find her online at <a href="http://jessejelsma.com/" target="_blank">jessejelsma.com</a> or @jessejelsma.
+Emily Tuszynska:
+    name: Emily Tuszynska
+    bio: <strong>Emily Tuszynska’s</strong> poetry can be found in many journals, recently including <em>The Georgia Review</em>, <em>Poetry Northwest</em>, <em>The Southern Review</em>, and <em>Water-Stone Review</em>. She lives with her family in Virginia, just outside Washington DC.
+Rebecca Gransden:
+    name: Rebecca Gransden
+    bio: <strong>Rebecca Gransden</strong> lives on an island in the United Kingdom. She is published at <em>Burning House Press</em>, <em>X-R-A-Y</em>, <em>Soft Cartel</em>, <em>FIVE:2:ONE</em>, <em>Muskeg</em>, and <em>The Cabinet of Heed</em>, among others. Her books are <em>anemogram.</em>, <em>Rusticles</em>, and <em>Sea of Glass</em>.
+Kathleen Nelo:
+    name: Kathleen Nelo
+    bio: <strong>Kathleen Nelo</strong> is a former literature and French student turned paper maven. She is a graduate of York College of Pennsylvania, and her poetry and reviews have a wide publication history.  For more reviews, musings, and pictures of dogs, visit her on Instagram at Apollonia in August (@apolloniainaugust).
+Lily Smith:
+    name: Lily Smith
+    bio: Lily Smith is a Thai-American poet from Athens, GA. She is currently studying psychology at the University of Massachusetts Lowell and hopes to receive her master's degree in the near future. Lily enjoys shaking down the patriarchy, combating stigma, and her pets Kinsey, Nova, and Kitty Bean.
+    image:
+Tim Neil:
+    name: Tim Neil
+    bio: Tim Neil is an actor, writer, and teaching artist, whose work has previously appeared in <em>Grub Street</em>, and is upcoming in <em>Washington Square Review</em>.
+    image:
+James Nulick:
+    name: James Nulick
+    bio: <strong>James Nulick</strong> is a writer based in Seattle. He is the author of <em>Haunted Girlfriend</em> and <em>Valencia</em>.
+Ursula Pike:
+    name: Ursula Pike
+    bio: <strong>Ursula Pike</strong> (Karuk) lives in Austin, Texas, and her work has appeared in <em>Yellow Medicine Review</em>, <em>World Literature Today</em>, <em>O’Dark 30</em>, and the <em>Ocotillo Review</em>. She has an MFA in Creative Nonfiction from the Institute of American Indian Arts. Her travel memoir about living in Bolivia, <em>An Indian Among Los Indios</em>, will be published by Heyday Books in late 2020/Early 2021.
+Kelsey Ipsen:
+    name: Kelsey Ipsen
+    bio: Kelsey Ipsen lives in France with her husband and half-wild cat. Her work can be found, or is forthcoming, in <em>PANK</em>, the <em>Molotov Cocktail</em>, <em>Cheap Pop</em> and <em>Hobart</em>.
+Jack Livingston:
+    name: Jack Livingston
+    bio: Jack Livingston is a multi-media artist, writer and critic. He has exhibited his work nationally for over forty years. He is a recipient of an NEA artist award and a Warhol Grit Fund Grant. Livingston is a contributor to Bmoreart.com, an arts and culture review. He currently lives in Baltimore, MD.
+Christine Yates:
+    name: Christine Yates
+    bio: Christine Yates both tutors and studies at Towson University. She’s a <em>Ligeia Magazine</em> comrade as well as a writing intern with <em>The Pop Topic</em>. Reach out <a href="https://twitter.com/MissyChrissay" target="_blank">@MissyChrissay</a>

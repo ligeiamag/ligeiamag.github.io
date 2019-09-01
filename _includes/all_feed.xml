@@ -15,7 +15,7 @@
 <item>
           <title>{{ item.title | xml_escape }}</title>
           <description>{{ item.excerpt | xml_escape }}</description>
-          <pubDate>{{ item.date | date_to_xmlschema }}</pubDate>
+
           <link>{{ item.url | absolute_url }}</link>
           <guid isPermaLink="true">{{ item.url | absolute_url }}</guid>
         </item>

@@ -4,11 +4,9 @@
     {% include head.html %}
   </head>
   <body>
-    <div>
     {% include nav.html %}
     {{ content }}
     {% include footer.html %}
     <link rel="stylesheet" href="{{ '/assets/css/app.css' | prepend: site.baseurl }}" />
-  </div>
   </body>
 </html>

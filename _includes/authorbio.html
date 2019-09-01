@@ -1,19 +1,13 @@
+
 {% assign author = site.data.authors[page.author] %}
 <!-- Card -->
-<div class="card testimonial-card pb-2">
+<div class="border-top">
   <!-- Background color -->
-  <div class="card-up bg-dark"></div>
-  {% if author.image %}
-  <!-- Avatar -->
-  <div class="avatar mx-auto white">
-    <img src="{{ author.image | prepend: site.baseurl }}" class="rounded-circle" alt="woman avatar" />
-  </div>
-  {% endif %}
+
   <!-- Content -->
-  <div class="card-body text-center">
+  <div class="py-3">
     <!-- Name -->
-    <h4 class="card-title authorname">{{author.name}}</h4>
-    <p>{{author.bio}}</p>
+    <p class="bio-content">{{author.bio}}</p>
   </div>
 </div>
 <!-- Card -->

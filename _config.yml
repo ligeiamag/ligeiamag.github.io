@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ligeia Magazine
-email: ligeiamag@gmail.com
+email: editors@ligeiamagazine.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ligeia Magazine promotes overlooked works and brings new and upcoming writers to light.
+    Ligeia Magazine is a literary site seeking voices beyond the conventional; grimy and proud of it, we live to discover overlooked curiosities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ligeiamagazine.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LigeiaMag
@@ -26,6 +26,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  fall-2019:
+    output: true
 permalink: pretty
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
