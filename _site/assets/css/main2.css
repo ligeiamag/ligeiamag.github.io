@@ -59,7 +59,7 @@ body {
   }
 }
 
-p, p.entrytitle, #results-container, .entryby, nav, footer, .authortitle, #search-input, .issuename, form {
+p, p.entrytitle, #results-container, .entryby, nav, footer, .authortitle, #search-input, .issuename, form, table, th, td {
   font-family: 'linux_libertine','eb_garamond12', Georgia, serif;
 }
 
