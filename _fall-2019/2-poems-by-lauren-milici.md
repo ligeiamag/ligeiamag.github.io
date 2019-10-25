@@ -1,11 +1,11 @@
 ---
 layout: poems
-title: 2 Poems
+title: We're Not, But We Could Be
 author: Lauren Milici
 tags: [poetry]
 excerpt: ... A glowing white house / tucked beneath the trees / & the too-quiet hallway / that leads to your door ...
 date: 2019-06-12
-description: 2 Poems by Lauren Milici - We're Not, But We Could Be, Eve Was Framed
+description: A poem by Lauren Milici - We're Not, But We Could Be, Eve Was Framed
 issue: fall-2019
 image: '/assets/img/fall2019_og/lauren.jpg'
 width: 640
@@ -50,25 +50,4 @@ height: 427
 <p class="poemline">It whispers, <em>I am going as slowly as I can.</em> </p>
 
 <p class="poemline">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;It’s never loved, but it’s learning. </p>
-</div>
-
-<figure class="my-5 py-3">
-  <img src="{{ '/assets/img/seperator.png' | prepend: site.baseurl }}" class="d-block" style="max-height:15px;" />
-</figure>
-
-## Eve Was Framed
-<div class="stanza">
-<p class="poemline">Today, a boy says, <em>good news: I love you again,</em></p>
-
-<p class="poemline">as if this were a gift. As if all men were God.</p>
-
-<p class="poemline">Instead, church bells. A forgotten hymn from the Book of Revelation&mdash;</p>
-
-<p class="poemline">something that hurts in a way John could never find a name for.</p>
-
-<p class="poemline">Luckily, the past is never dead. It's not even past.</p>
-
-<p class="poemline">In a memory, the surgeon hands me a warm bag of my own blood.</p>
-
-<p class="poemline">Say this aloud. It will not protect you.</p>
 </div>
