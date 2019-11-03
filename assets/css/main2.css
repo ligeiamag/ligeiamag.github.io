@@ -1,6 +1,11 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+
+
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap');
+
+
    @font-face {
        font-family: 'linux_libertine';
        src: url('../fonts/linux/linlibertine_rah-webfont.woff2') format('woff2'),
@@ -59,7 +64,7 @@ body {
   }
 }
 
-p, p.entrytitle, #results-container, .entryby, nav, footer, .authortitle, #search-input, .issuename, form, table, th, td {
+p, p.entrytitle, #results-container, .entryby, nav, footer, .authortitle, #search-input, .issuename, form, table, th, td,  .issuename {
   font-family: 'linux_libertine','eb_garamond12', Georgia, serif;
 }
 
@@ -80,6 +85,17 @@ p.category, p.relatedpostauthor {
 
 }
 
+nav {
+letter-spacing: .05rem;
+}
+
+p.entrytype, h3, .footer-menu, nav, p.category, .front-issue-name {
+  font-family: 'linux_libertine', Georgia, serif;
+}
+
+p.entrytype {
+  font-weight: bold;
+}
 .authortitle {
   font-style: italic;
 }
@@ -87,6 +103,7 @@ p.category, p.relatedpostauthor {
 /* Related Posts */
 p.category {
   text-transform: capitalize;
+  font-weight: bold;
 }
 p.relatedpost {
   font-size: 1.2rem;
@@ -139,6 +156,7 @@ blockquote {
 }
 .issuename {
   text-transform: uppercase;
+    letter-spacing: .05rem;
 }
  .entryby {
   text-transform: lowercase;
@@ -189,6 +207,11 @@ p.firstparagraph:first-child::first-letter {
 
 .bio-content {
   font-size:90%;
+}
+
+.front-issue-name {
+  font-size: 90%;
+  letter-spacing: .05rem;
 }
 
 h2 {
