@@ -62,7 +62,7 @@ height: 418
 
   <div class="row">
     <div class="col-md px-4 px-md-3">
-		<img src="{{ '/assets/img/winter2019/fields.jpg' | prepend: site.baseurl }}"   class="img-fluid  rounded" alt="Art By Logan Hicks" />
+		<img src="{{ '/assets/img/winter2019/fields.jpg' | prepend: site.baseurl }}"   class="img-fluid  rounded" alt="Art By Elizabeth Ashe" />
 			<footer class="blockquote-footer mb-3"> <cite title="Source Title">Franconia Field</cite> by <a href="http://www.elizabethashe.com/" target="_blank">Elizabeth Ashe.</a> Acrylic on canvas.</footer>
     </div>
 		<div class="col-md px-4 px-md-3">
