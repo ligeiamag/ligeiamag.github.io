@@ -6,8 +6,8 @@
 
 
       <div class="card-deck">
-        {% for collection in site.collections %}
-            {% assign sorted = site[collection.label] | where_exp:"item", "item.url != page.url" | sample: 2 %}
+
+            {% assign sorted = site[page.collection] | where_exp:"item", "item.url != page.url" | sample: 2 %}
             {% for item in sorted %}
                 <!-- Card -->
                 <div class="card">
@@ -33,7 +33,7 @@
                 <!-- Card -->
                 {{ post.content | markdownify | strip_html | truncatewords: 50 }}
                 {% endfor %}
-                {% endfor %}
+
 
       </div>
     </div>

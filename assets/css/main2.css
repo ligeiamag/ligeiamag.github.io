@@ -142,6 +142,13 @@ p.relatedpost {
   hyphenate-limit-zone: 8%;
 }
 
+
+.bookquote  {
+  padding-left: 1.5rem;
+}
+
+
+
 blockquote {
   font-style: italic;
   color: #dc3545;
@@ -287,6 +294,13 @@ img.cell {
       color: #fff;
       font-family: Georgia;
 }
+
+/* Ebook Cover Mockup */
+
+.ebook {
+  max-height:25rem;
+}
+
 
 /* For Full Width Images in Posts (need to test in IE)  */
 .full-width-image {
