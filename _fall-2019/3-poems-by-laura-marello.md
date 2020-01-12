@@ -175,7 +175,7 @@ climbs screens</p>
 <p class="poemline">naps
 in the sun</p>
 <p class="poemline">&nbsp;&nbsp;&nbsp;her
-senses away</p>
+senses awake</p>
 <p class="poemline">to
 any and all conspiracies</p>
 <p class="poemline">leveraged
