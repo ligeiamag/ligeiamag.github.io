@@ -97,8 +97,7 @@ castrated kook decried as a heretic (this has been flipped by now and
 will likely flip again, fatalistically, uselessly, with better tech
 available during each revolution). People of his order read the Greeks
 (half in defiance of church sanctions, half to improve them), drank
-their knowledge pickled at overcrowded and ultimately useless
-universities (thank goodness things changed), learned vast quantities,
+their knowledge pickled at overcrowded and ltimately fruitless universities (thank goodness things changed), learned vast quantities,
 being autodidacts, and better yet, viciously mocked the overfed,
 anti-Christian Christians who ran the orders and schools that they, the
 goliards, and their kind, swiftly abandoned to go wander the big marsh
@@ -181,7 +180,7 @@ eking by on whatever cynical program was stuck in them. MFA’d
 bricklayers with a headshot more worked on than their sentences, as
 toothless as their agents, they are trained in the semi-literate
 phenomena of relatability, a salesmanship of originality, an X-factor
-affiliated beyond any hint of the biblio-onamnism that might wound
+affiliated beyond any hint of the biblio-onanism that might wound
 profit. Few creatives are allowed to teach anything aside from this
 countertop fallacy: that quality equals readability, well-rounded
 minimalism, and expository intrigue, or, failing this con, try dry
