@@ -97,7 +97,7 @@ castrated kook decried as a heretic (this has been flipped by now and
 will likely flip again, fatalistically, uselessly, with better tech
 available during each revolution). People of his order read the Greeks
 (half in defiance of church sanctions, half to improve them), drank
-their knowledge pickled at overcrowded and ltimately fruitless universities (thank goodness things changed), learned vast quantities,
+their knowledge pickled at overcrowded and ultimately fruitless universities (thank goodness things changed), learned vast quantities,
 being autodidacts, and better yet, viciously mocked the overfed,
 anti-Christian Christians who ran the orders and schools that they, the
 goliards, and their kind, swiftly abandoned to go wander the big marsh
