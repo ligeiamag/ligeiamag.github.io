@@ -4,9 +4,17 @@
     {% include head.html %}
   </head>
   <body>
-    {% include nav.html %}
-    {{ content }}
-    {% include footer.html %}
+  <div class="outerwrapper">
+    <div class="firstwrapper">
+      <main class="wrapper">
+      {% include nav.html %}
+      {{ content }}
+      </main>
+      {% include footer.html %}
+    </div>
+  </div>
+      {% include scripts.html %}
+
     <link rel="stylesheet" href="{{ '/assets/css/app.css' | prepend: site.baseurl }}" />
   </body>
 </html>

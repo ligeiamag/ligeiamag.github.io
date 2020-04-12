@@ -1,6 +1,7 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+
    @font-face {
        font-family: 'linux_libertine';
        src: url('../fonts/linux/linlibertine_rah-webfont.woff2') format('woff2'),
@@ -53,42 +54,57 @@ body {
   font-size: 1.4rem;
 }
 
+.text-danger {
+  color: #be3d48 !important;
+}
+
 @media (max-width: 575.98px) {
   body, blockquote {
     font-size: 1.125rem !important;
   }
 }
 
-p, p.entrytitle, #results-container, .entryby, nav, footer, .authortitle, #search-input, .issuename, form, table, th, td,  .issuename {
-  font-family: 'linux_libertine','eb_garamond12', Georgia, serif;
+p, p.entrytitle, #results-container, .entryby, footer, .authortitle, #search-input, .issuename, form, table, th, td,  .issuename {
+  font-family: 'linux_libertine', Georgia, serif;
 }
 
 body, p.entrytype, p.mast,  .archivefont {
-  font-family: 'linux_libertine_capismallcaps','eb_garamond_sc12_regular', Verdana, sans-serif;
+  font-family: 'linux_libertine','linux_libertine_capismallcaps', Georgia, serif;
 }
 
 .mainpagename {
-  font-family: 'linux_libertine_capismallcaps', 'eb_garamond_sc12_regular', Verdana, sans-serif;
+  font-family: 'linux_libertine', 'linux_libertine_capismallcaps', Georgia, serif;
   font-weight: normal !important;
   word-wrap: break-word;
 }
+
 .light-weight {
   font-weight: 400;
 }
 p.category, p.relatedpostauthor {
-  font-family:  'linux_libertine_capismallcaps','eb_garamond_sc12_regular', Georgia, serif;
+    font-family: 'linux_libertine', Georgia, serif;
+}
 
+.front-page-title {
+    font-family: 'linux_libertine', Georgia, serif;
+    text-transform: uppercase;
+    letter-spacing: .12rem;
 }
 
 nav {
-letter-spacing: .05rem;
+    font-family:  'linux_libertine', Georgia, serif;
+    letter-spacing: .12rem;
+    font-size:1.1rem;
+  }
+
+.datetype {
+  font-size: 1rem;
+  text-transform: capitalize;
+
 }
 
-p.entrytype, h3, .footer-menu, nav, p.category, .front-issue-name {
+p.entrytype, h3, h2, .footer-menu, p.category {
   font-family: 'linux_libertine', Georgia, serif;
-}
-
-p.entrytype {
   font-weight: bold;
 }
 .authortitle {
@@ -97,14 +113,22 @@ p.entrytype {
 
 /* Related Posts */
 p.category {
-  text-transform: capitalize;
+  text-transform: uppercase;
   font-weight: bold;
+  font-size: 1rem;
 }
 p.relatedpost {
   font-size: 1.2rem;
 }
 .flexmeup {
   min-height: 100vh;
+}
+
+.ligeia-title {
+  text-transform: uppercase;
+  letter-spacing: .18rem;
+  font-weight: normal;
+  word-wrap: break-word;
 }
 
 .fictionpost p {
@@ -151,7 +175,7 @@ p.relatedpost {
 
 blockquote {
   font-style: italic;
-  color: #dc3545;
+  color: #be3d48;
 }
 .blockquote p.h2 {
   line-height: 2.2rem;
@@ -190,6 +214,15 @@ p.entrytitle {
 p.poemline {
   margin-bottom: 0rem;
 }
+.reidel-open {
+  text-indent: 3rem;
+  font-style: italic;
+  margin-bottom:0rem;
+}
+.reidel-close{
+  text-indent: 16rem;
+  font-style: italic;
+}
 
 /* Post Styles */
 
@@ -214,6 +247,8 @@ p.firstparagraph:first-child::first-letter {
 .front-issue-name {
   font-size: 90%;
   letter-spacing: .05rem;
+  font-family: 'linux_libertine', Georgia, serif;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -277,11 +312,6 @@ img.cell {
   width: 100%;
 }
 
-.tomato {
-  background-color: #dc3545;
-}
-
-
 /* Jumbotron */
 .jumbotron {
   margin-bottom: 1rem !important;
@@ -299,6 +329,12 @@ img.cell {
 
 .ebook {
   max-height:25rem;
+}
+
+/* For Poetry with Formatting Problems */
+
+.poetryfont {
+  font-size:1.3rem;
 }
 
 
@@ -320,7 +356,7 @@ a {
 }
 
 .post-share a:hover {
-  color:#dc3545
+  color:#be3d48
 }
 
 .link-posts a:hover, .link-posts a:active, .link-posts a:focus, .link-pages a:hover, .link-pages a:active, .link-pages a:focus {
@@ -331,23 +367,23 @@ a {
     outline-width: 0;
 }
 
-.link-posts a:link, a.related-post-links {
+.link-posts a:link {
   border-bottom: 1px solid black;
   text-decoration: none;
   color:#343a40;
 }
-.link-pages a:link, footer a:link {
+.link-pages a:link {
   border-bottom: 1px solid transparent;
   transition: border-bottom 500ms;
   text-decoration: none;
   color:#343a40;
 }
 
-.link-posts a:visited,.link-pages a:visited, footer a:visited {
+.link-posts a:visited,.link-pages a:visited {
   color: #343a40;
 }
 
-.link-pages a:hover,  footer a:hover {
+.link-pages a:hover {
     border-bottom: 1px solid black;
 }
 
@@ -369,6 +405,45 @@ a.frontpagelink  {
   text-decoration: none !important;
 }
 
+/* Footer Fonts and colors */
+
+
+
+.footer-background {
+  background-color: #0f0f0f;
+  padding: 4rem 0rem 4rem .5rem;
+}
+
+
+footer p {
+  color: #fff;
+}
+
+footer a:link {
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 500ms;
+  text-decoration: none;
+  color:#aaa;
+}
+
+footer a:visited {
+  color: #aaa;
+}
+
+footer a:hover {
+    color: white;
+}
+
+footer ul, footer p {
+  font-size: 1rem;
+}
+
+footer ul {
+  list-style-type: none;
+  padding-left: 0rem;
+}
+
+
 .footer-list li a i, .post-share a#twitter-link, .post-share a#facebook-link
  {
   color: rgba(0,0,0,.5);
@@ -383,6 +458,28 @@ a.frontpagelink  {
 .footer-list li a i:active, .post-share a#twitter-link:active, .post-share a#facebook-link:active {
 color: rgba(0,0,0,.7);
         }
+
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0,0,0,.9);
+  }
+
+.link-posts a.postsissuereturn {
+  text-decoration: none;
+  border-bottom: none;
+  color: #be3d48;
+  font-weight: bold;
+  font-family: 'linux_libertine','linux_libertine_capismallcaps', Georgia, serif;
+  font-size: 1.3rem;
+}
+ a.postsissuereturn:hover {
+    border-bottom: 1px solid black;
+}
+
+/* related post box */
+
+
+
 
 /* Footer List */
 ul.footer-menu {
@@ -428,7 +525,7 @@ ul.footer-menu > li {
   padding: 0rem;
 }
 .contributors li {
-  font-family: 'linux_libertine','eb_garamond12', Georgia, serif;
+  font-family: 'linux_libertine', Georgia, serif;
 }
 
 /* Icon 1 */
@@ -587,6 +684,9 @@ button.navbar-toggler:focus {
 .filtered-image {
   filter: brightness(60%);
 }
+.filtered-image-2 {
+  filter: brightness(90%);
+}
 /* Image Shadow */
 
 @media (min-width: 768px) {
@@ -604,8 +704,6 @@ button.navbar-toggler:focus {
 }
 }
 
-
-
 /* Font for Footer Links Names */
 
 .divided::after {
@@ -614,7 +712,7 @@ button.navbar-toggler:focus {
   display: block;
   width: 152px;
   height: 12px;
-  margin: 0.5em auto 0;
+  margin: 1em auto 0;
   background: url(../img/assets/divider.svg) no-repeat top center;
 }
 .navbar-light .navbar-toggler {
@@ -678,16 +776,45 @@ hr.feature-style {
   }
 }
 
-/* Card CSS */
+/* Card CSS
+
+.card-box {
+  border: 10px solid;
+    border-image-source: url(../img/assets/border.jpg);
+    border-image-slice: 50 50;
+}
+*/
 
 .card-main-info {
-  padding: 1.6rem 1rem;text-align: center;
+  padding: 1.6rem 1rem;
+}
+
+.card-text {
+  font-size:1.2rem;
+}
+.tomato {
+  background-color: #be3d48;
+  color: #fff;
+}
+
+div.card-body p a.related-post-links {
+  border-bottom: none;
+  text-decoration: none;
+  color:#2C3736;
+  font-family: 'linux_libertine', serif;
+  font-size:1.2rem;
+  font-weight: bold;
+}
+
+a.related-post-links i.fas.fa-angle-double-right {
+  color:#be3d48;
+  font-size:1.1rem;
 }
 /* Front Page Buttons * /
 /**** BTN No. 12 ****/
 .custom-btn {
   padding: 10px 25px;
-  font-family: "Roboto", sans-serif;
+  font-family: Georgia, serif;
   font-weight: 500;
   background: transparent;
   outline: none !important;
@@ -721,3 +848,35 @@ hr.feature-style {
 .btn-12:active {
   top: 2px;
 }
+
+/*
+============
+Footer Flex
+===========
+*/
+.outerwrapper {
+  display:flex;
+    flex-direction: column;
+    display: -ms-flexbox;
+    -ms-flex-direction: column;
+}
+.firstwrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+/* Without OVerflow hidden, the spacing will be messed up on Internet Explorer */
+.wrapper {
+    flex: 1 0 auto;
+      overflow: hidden;
+}
+@-moz-document url-prefix() {
+ .wrapper {
+      flex: 1;
+    }
+}
+/*
+============
+End Footer Flex
+===========
+*/

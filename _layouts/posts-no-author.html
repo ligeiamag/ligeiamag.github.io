@@ -4,21 +4,27 @@
     {% include head.html %}
   </head>
   <body>
-
-    {% include nav.html %}
-    <section class="link-posts">
-      {% include postsintro.html %}
-      <div class="container">
-          <div class="row">
-              <div class="col-lg-6 mx-auto px-4 px-lg-0">
-          {{ content }}
-                {% include socialshare.html %}
+    <div class="outerwrapper">
+     <div class="firstwrapper">
+      <main class="wrapper">
+          {% include nav.html %}
+          <section class="link-posts">
+            {% include postsintro.html %}
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto px-4 px-lg-0">
+                {{ content }}
+                      {% include socialshare.html %}
+                    </div>
+                </div>
               </div>
-          </div>
-        </div>
-          {% include relatedposts.html %}
-  </section>
-     {% include footer.html %}
+                {% include relatedposts.html %}
+        </section>
+    </main>
+    {% include footer.html %}
+    </div>
+    </div>
+    {% include scripts.html %}
     <link rel="stylesheet" href="{{ '/assets/css/app.css' | prepend: site.baseurl }}"/>
 
   </body>

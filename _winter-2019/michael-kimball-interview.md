@@ -308,7 +308,7 @@ that so many other people seemed to find relatively easy).
 focus on *Us* since the book profoundly affected me. If *Us* had a theme
 song, what would it be?**
 
-<span id="_gjdgxs" class="anchor"></span>I was obsessed with Bon
+I was obsessed with Bon
 Iver's *For Emma, Forever Ago* and listened to it when I revised *How
 Much of Us There Was* into *Us*. I become even more obsessed with that
 album when I learned that Justin Vernon usually gets his music first,

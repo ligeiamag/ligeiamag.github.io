@@ -3,13 +3,17 @@
     <div class="row h-100">
       <div class="col text-center my-auto pb-4">
         <div class="m-2 p-2 m-md-3 p-md-3">
-          <h5 class="text-center issuename pb-5">
-            <a href="/{{ page.issue | prepend: site.baseurl }}">{{ page.issue | replace: '-', ' '}}</a>
-          </h5>
+
+          {% if page.long %}
+          <h1 class="text-center mainpagename">
+            {{ page.title }}
+          </h1>
+          {% else %}
           <h1 class="text-center display-4 mainpagename">
             {{ page.title }}
           </h1>
-          <p class="text-center authortitle divided">
+          {% endif %}
+          <p class="text-center authortitle mb-1">
             <!-- Look the author details up from the site config. -->
             {% assign author = site.data.authors[page.author] %}
             <!-- Output author details if some exist. -->
@@ -18,6 +22,7 @@
             {% if author %} <span class="entryby">{% if page.reviewer %} reviewed {% endif %}By</span> {{ author.name }}
           </p>
           {% endif %}
+          <p class="divided datetype"><a class="postsissuereturn" href="/{{ page.issue | prepend: site.baseurl }}">{{ page.issue | replace: '-', ' '}}</a></p>
         </div>
       </div>
     </div>

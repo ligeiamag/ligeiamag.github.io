@@ -97,7 +97,8 @@ castrated kook decried as a heretic (this has been flipped by now and
 will likely flip again, fatalistically, uselessly, with better tech
 available during each revolution). People of his order read the Greeks
 (half in defiance of church sanctions, half to improve them), drank
-their knowledge pickled at overcrowded and ultimately fruitless universities (thank goodness things changed), learned vast quantities,
+their knowledge pickled at overcrowded and ultimately useless
+universities (thank goodness things changed), learned vast quantities,
 being autodidacts, and better yet, viciously mocked the overfed,
 anti-Christian Christians who ran the orders and schools that they, the
 goliards, and their kind, swiftly abandoned to go wander the big marsh
@@ -180,7 +181,7 @@ eking by on whatever cynical program was stuck in them. MFA’d
 bricklayers with a headshot more worked on than their sentences, as
 toothless as their agents, they are trained in the semi-literate
 phenomena of relatability, a salesmanship of originality, an X-factor
-affiliated beyond any hint of the biblio-onanism that might wound
+affiliated beyond any hint of the biblio-onamnism that might wound
 profit. Few creatives are allowed to teach anything aside from this
 countertop fallacy: that quality equals readability, well-rounded
 minimalism, and expository intrigue, or, failing this con, try dry
@@ -191,6 +192,16 @@ uber-nominalist enigma-text that ousted the belles-lettres system.
 Romanticism rejected God in favor of the artist’s innards and found we
 could remain sublime, but the mechanized slaughter of the twentieth
 century put the atom too high on its throne.
+
+
+<div class="u-release my-5">
+    <div class="container">
+    <blockquote class="blockquote">
+    <p class="h2">&#8220;There is no difference between violence and art.&#8221;</p>
+    </blockquote>
+</div>
+</div>
+
 
 **While we're on the subject of language, I'd like to dig into the
 singular diction you've developed. Particularly in *Goliards*, much of
@@ -417,6 +428,16 @@ different style because what unites us is the same thing that propelled
 humanity into and through its many conundrums: obsession. With editing,
 I edit others the same as I edit myself, with extreme prejudice. I’m
 rarely approached to edit. Most beginners just want a polish.
+
+<div class="u-release my-5">
+    <div class="container">
+    <blockquote class="blockquote">
+    <p class="h2">&#8220;Millennials really aimed a cannon at the wall and climbed in ...&#8221;</p>
+    </blockquote>
+</div>
+</div>
+
+
 
 **Wrapping up, what's next for Sean Kilpatrick? You mentioned filming
 some selections from *Goliards*. I fantasize about mounting a stage

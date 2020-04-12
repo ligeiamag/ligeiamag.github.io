@@ -198,201 +198,405 @@
     "url"      : "/winter-2019/iotas-a-martine/",
     "author"    : "A. Martine"
     }
-  ,
+    ,
   
   {
     "title"    : "2 Poems",
     "url"      : "/winter-2019/2-poems-by-john-sibley-williams/",
     "author"    : "John Sibley Williams"
     }
-  ,
+    ,
   
   {
     "title"    : "Short Supply",
     "url"      : "/winter-2019/short-supply-elizabeth-fergason/",
     "author"    : "Elizabeth Fergason"
     }
-  ,
+    ,
   
   {
     "title"    : "The Dead Grandmother Essay",
     "url"      : "/winter-2019/the-dead-grandmother-essay-erik-anderson/",
     "author"    : "Erik Anderson"
     }
-  ,
+    ,
   
   {
     "title"    : "Frank",
     "url"      : "/winter-2019/frank-robert-libbey/",
     "author"    : "Robert Libbey"
     }
-  ,
+    ,
   
   {
     "title"    : "In the Shadow of Their Wings",
     "url"      : "/winter-2019/in-the-shadow-of-their-wings-kathryn-kulpa/",
     "author"    : "Kathryn Kulpa"
     }
-  ,
+    ,
   
   {
     "title"    : "Demeter",
     "url"      : "/winter-2019/demeter-alla-vilnyanskaya/",
     "author"    : "Alla Vilnyanskaya"
     }
-  ,
+    ,
   
   {
     "title"    : "Sean",
     "url"      : "/winter-2019/sean-sf-wright/",
     "author"    : "S.F. Wright"
     }
-  ,
+    ,
   
   {
     "title"    : "Cherry Wood’s House Husband",
     "url"      : "/winter-2019/cherry-woods-husband-matt-dube/",
     "author"    : "Matt Dube"
     }
-  ,
+    ,
   
   {
     "title"    : "Death Box",
     "url"      : "/winter-2019/death-box-marc-alan-di-martino/",
     "author"    : "Marc Alan Di Martino"
     }
-  ,
+    ,
   
   {
     "title"    : "Cosplay or Die",
     "url"      : "/winter-2019/cosplay-or-die-christopher-s-bell/",
     "author"    : "Christopher S. Bell"
     }
-  ,
+    ,
   
   {
     "title"    : "I See You (Excerpt)",
     "url"      : "/winter-2019/i-see-you-br-yeager/",
     "author"    : "B.R. Yeager"
     }
-  ,
+    ,
   
   {
     "title"    : "The Peacock That Could Fly",
     "url"      : "/winter-2019/the-peacock-that-could-fly-lucy-zhang/",
     "author"    : "Lucy Zhang"
     }
-  ,
+    ,
   
   {
     "title"    : "2 Poems",
     "url"      : "/winter-2019/2-poems-by-ds-maolalai/",
     "author"    : "DS Maolalai"
     }
-  ,
+    ,
   
   {
     "title"    : "2 Poems",
     "url"      : "/winter-2019/2-poems-by-edward-lee/",
     "author"    : "Edward Lee"
     }
-  ,
+    ,
   
   {
     "title"    : "2 Poems",
     "url"      : "/winter-2019/2-poems-by-robert-okaji/",
     "author"    : "Robert Okaji"
     }
-  ,
+    ,
   
   {
     "title"    : "A Self-Portrait",
     "url"      : "/winter-2019/a-self-portrait-hibah-shabkhez/",
     "author"    : "Hibah Shabkhez"
     }
-  ,
+    ,
   
   {
     "title"    : "Amazing Things Are Happening Here",
     "url"      : "/winter-2019/amazing-things-are-happening-here-reviewed-by-sean-sam/",
     "author"    : "Sean Sam"
     }
-  ,
+    ,
   
   {
     "title"    : "Coconuts",
     "url"      : "/winter-2019/coconuts-estrella-del-valle/",
     "author"    : "Estrella del Valle (translated by Toshiya Kamei)"
     }
-  ,
+    ,
   
   {
     "title"    : "Cold Feet",
     "url"      : "/winter-2019/cold-feet-ana-vidosavljevic/",
     "author"    : "Ana Vidosavljevic"
     }
-  ,
+    ,
   
   {
     "title"    : "Drain Songs",
     "url"      : "/winter-2019/drain-songs-reviewed-by-matt-lee/",
     "author"    : "Matt Lee"
     }
-  ,
+    ,
   
   {
     "title"    : "Iliamna Lake Monster",
     "url"      : "/winter-2019/iliamna-lake-monster-richard-stevenson/",
     "author"    : "Richard Stevenson"
     }
-  ,
+    ,
   
   {
     "title"    : "Skin Memory",
     "url"      : "/winter-2019/skin-memory-reviewed-by-ashley-wagner/",
     "author"    : "Ashley Wagner"
     }
-  ,
+    ,
   
   {
     "title"    : "Swamp Graveyard",
     "url"      : "/winter-2019/swamp-graveyard-john-grey/",
     "author"    : "John Grey"
     }
-  ,
+    ,
   
   {
     "title"    : "Tao Te Ching (Ursula K. Le Guin rendition)",
     "url"      : "/winter-2019/tao-te-ching-reviewed-by-kathleen-nelo/",
     "author"    : "Kathleen Nelo"
     }
-  ,
+    ,
   
   {
     "title"    : "Rhinoceros Hunter",
     "url"      : "/winter-2019/rhinoceros-hunter-travis-madden/",
     "author"    : "Travis Madden"
     }
-  ,
+    ,
   
   {
     "title"    : "Jeannie Vanasco Interview",
     "url"      : "/winter-2019/jeannie-vanasco-interview/",
     "author"    : "Sean Sam"
     }
-  ,
+    ,
   
   {
     "title"    : "Michael Kimball Interview",
     "url"      : "/winter-2019/michael-kimball-interview/",
     "author"    : "Matt Lee"
     }
-  ,
+    ,
   
   {
     "title"    : "Sean Kilpatrick Interview",
     "url"      : "/winter-2019/sean-kilpatrick-interview/",
     "author"    : "Matt Lee"
+    }
+    ,
+  
+  
+  {
+    "title"    : "Cairo Unfolding (Excerpt)",
+    "url"      : "/spring-2020/cairo-unfolding-damien-ark-excerpt-from-fucked-up/",
+    "author"    : "Damien Ark"
+    }
+  ,
+  
+  {
+    "title"    : "3 Stories",
+    "url"      : "/spring-2020/3-stories-monica-brashears/",
+    "author"    : "Monica Brashears"
+    }
+  ,
+  
+  {
+    "title"    : "Fool on the Hill",
+    "url"      : "/spring-2020/fool-on-the-hill-dan-cardoza/",
+    "author"    : "Dan A. Cardoza"
+    }
+  ,
+  
+  {
+    "title"    : "The Beautiful Sister",
+    "url"      : "/spring-2020/the-beautiful-sister-james-nulick/",
+    "author"    : "James Nulick"
+    }
+  ,
+  
+  {
+    "title"    : "A Pit",
+    "url"      : "/spring-2020/a-pit-grant-maierhofer/",
+    "author"    : "Grant Maierhofer"
+    }
+  ,
+  
+  {
+    "title"    : "Amy Jo Burns Interview",
+    "url"      : "/spring-2020/amy-jo-burns-interview/",
+    "author"    : "Ashley Wagner"
+    }
+  ,
+  
+  {
+    "title"    : "Here is survival, intimate",
+    "url"      : "/spring-2020/here-is-survival-intimate-amie-norman-walker/",
+    "author"    : "Amie Norman Walker"
+    }
+  ,
+  
+  {
+    "title"    : "The Forgotten Room",
+    "url"      : "/spring-2020/the-forgotten-room-matt-schumacher/",
+    "author"    : "Matt Schumacher"
+    }
+  ,
+  
+  {
+    "title"    : "2 Poems",
+    "url"      : "/spring-2020/2-poems-brett-harrington/",
+    "author"    : "Brett Harrington"
+    }
+  ,
+  
+  {
+    "title"    : "An Audience at the Cumberlisheen Regional Historical Society, 19th August 2018, 4:12pm",
+    "url"      : "/spring-2020/an-audience-gregory-jones/",
+    "author"    : "Gregory Jones"
+    }
+  ,
+  
+  {
+    "title"    : "Apples of the Earth",
+    "url"      : "/spring-2020/apples-of-the-earth-melissa-wiley/",
+    "author"    : "Melissa Wiley"
+    }
+  ,
+  
+  {
+    "title"    : "Cocooned",
+    "url"      : "/spring-2020/cocooned-candace-hartsuyker/",
+    "author"    : "Candace Hartsuyker"
+    }
+  ,
+  
+  {
+    "title"    : "Absence as Blessing",
+    "url"      : "/spring-2020/absence-as-blessing-caitlin-thomson/",
+    "author"    : "Caitlin Thomson"
+    }
+  ,
+  
+  {
+    "title"    : "2 Poems",
+    "url"      : "/spring-2020/2-poems-jai-hamid-bashir/",
+    "author"    : "Jai Hamid Bashir"
+    }
+  ,
+  
+  {
+    "title"    : "Brain Bloom",
+    "url"      : "/spring-2020/brain-bloom-diana-kolpak/",
+    "author"    : "Diana Kolpak"
+    }
+  ,
+  
+  {
+    "title"    : "On the Stick-Thin Person Wearing a Baggy Black Hoodie with a Big-Ass Skull on the Back",
+    "url"      : "/spring-2020/on-the-stick-thin-person-tim-neil/",
+    "author"    : "Tim Neil"
+    }
+  ,
+  
+  {
+    "title"    : "Open Mic Night",
+    "url"      : "/spring-2020/open-mic-night-marc-alan-di-martino/",
+    "author"    : "Marc Alan Di Martino"
+    }
+  ,
+  
+  {
+    "title"    : "Screwing Butterflies",
+    "url"      : "/spring-2020/screwing-butterflies-oormila-prahlad/",
+    "author"    : "Oormila Vijayakrishnan Prahlad"
+    }
+  ,
+  
+  {
+    "title"    : "2 Poems",
+    "url"      : "/spring-2020/2-poems-samuel-t-franklin/",
+    "author"    : "Samuel T. Franklin"
+    }
+  ,
+  
+  {
+    "title"    : "2 Poems",
+    "url"      : "/spring-2020/2-poems-carrie-greenlaw/",
+    "author"    : "Carrie Greenlaw"
+    }
+  ,
+  
+  {
+    "title"    : "Migueleña",
+    "url"      : "/spring-2020/miguelena-ee-rodriguez/",
+    "author"    : "E.E. Rodriguez"
+    }
+  ,
+  
+  {
+    "title"    : "The Three-Breasted Carol",
+    "url"      : "/spring-2020/the-three-breasted-carol-james-reidel/",
+    "author"    : "James Reidel"
+    }
+  ,
+  
+  {
+    "title"    : "My Life Among the Borg",
+    "url"      : "/spring-2020/my-life-among-the-borg-gregg-williard/",
+    "author"    : "Gregg Williard"
+    }
+  ,
+  
+  {
+    "title"    : "Surgical Text",
+    "url"      : "/spring-2020/surgical-text-mike-corrao/",
+    "author"    : "Mike Corrao"
+    }
+  ,
+  
+  {
+    "title"    : "Visitors",
+    "url"      : "/spring-2020/visitors-skyler-jaye/",
+    "author"    : "Skyler Jaye"
+    }
+  ,
+  
+  {
+    "title"    : "Worm Farm",
+    "url"      : "/spring-2020/worm-farm-julie-steward/",
+    "author"    : "Julie Steward"
+    }
+  ,
+  
+  {
+    "title"    : "B.R. Yeager Interview",
+    "url"      : "/spring-2020/br-yeager-interview/",
+    "author"    : "Matt Lee"
+    }
+  ,
+  
+  {
+    "title"    : "Imaginary Museums",
+    "url"      : "/spring-2020/imaginary-museums-nicolette-polek-review/",
+    "author"    : "Matt Lee"
+    }
+  ,
+  
+  {
+    "title"    : "2 Stories",
+    "url"      : "/spring-2020/2-stories-james-mcadams/",
+    "author"    : "James McAdams"
     }
   
   

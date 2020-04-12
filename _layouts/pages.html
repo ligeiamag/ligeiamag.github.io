@@ -4,12 +4,19 @@
     {% include head.html %}
   </head>
   <body>
+    <div class="outerwrapper">
+      <div class="firstwrapper">
+        <main class="wrapper">
+          {% include nav.html %}
+          <section class="link-pages">
+          {{ content }}
+        </section>
+      </main>
+      {% include footer.html %}
+    </div>
+    </div>
+      {% include scripts.html %}
 
-    {% include nav.html %}
-    <section class="link-pages">
-    {{ content }}
-  </section>
-     {% include footer.html %}
     <link rel="stylesheet" href="{{ '/assets/css/app.css' | prepend: site.baseurl }}"/>
 
   </body>
