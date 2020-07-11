@@ -4,7 +4,7 @@ title: Benjamin DeVos Interview
 description: In this conversation, Benjamin DeVos discusses Apocalypse Party and his own novels, including Human Fish.
 author: Sean Sam
 tags: [interview]
-excerpt: ... this stuff serious writers are trying to do will always have some purpose or matter in the grand scheme of things...
+excerpt: ... I see us growing exponentially over the next few years. We've put out six books, and so far we have five more planned for 2021 ...
 date: 2020-03-30
 issue: summer-2020
 interview: author of Human Fish

@@ -4,7 +4,7 @@ title: Diarmuid Hester Interview
 description: In this conversation, Grant Maierhofer talks with Diarmuid Hester about his book, Wrong:A Critical Biography of Dennis Cooper
 author: Grant Maierhofer
 tags: [interview]
-excerpt: ... this stuff serious writers are trying to do will always have some purpose or matter in the grand scheme of things...
+excerpt: ... I hate the tendency in a lot of biographies to reduce the work to the life...
 date: 2020-03-20
 issue: summer-2020
 interview: author of WRONG&#58; A Critical Biography of Dennis Cooper
