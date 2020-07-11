@@ -1,0 +1,581 @@
+---
+layout: posts-no-author
+title: Grant Maierhofer Interview
+description: In this conversation, Grant Maierhofer discusses his collection, Works.
+author: Matt Lee
+tags: [interview]
+excerpt: ... this stuff serious writers are trying to do will always have some purpose or matter in the grand scheme of things...
+date: 2020-03-21
+issue: summer-2020
+interview: author of Works
+image: '/assets/img/summer2020/grant.jpg'
+width: 600
+height: 900
+---
+
+What the hell is a *book* anyway? The more I read them, the less I'm
+certain. A living object? A consciousness preserved? A glorified
+paperweight? When I thought I'd gotten close to figuring it out, Grant
+Maierhofer came along and punted my brain into the stratosphere. I'm
+grateful he did.
+
+Maierhofer's name should be familiar to anyone following the underground
+lit scene in this Godforsaken country. His output includes short story
+collections, novels that do not behave like novels, and brick shaped
+tomes of "ambient nonfiction." No matter the guise, Maierhofer displays
+remarkable dexterity, pushing the confines of language into unexplored
+territory that would make Burroughs blush.
+
+The good people at 11:11 Press have collected Maierhofer's early
+writings in the ambitious new collection *Works*, an omnibus of b-sides
+and rarities, if you will. This follows last year's excellent *Drain
+Songs* (FC2), which yours truly had the good fortune of
+[*reviewing*](https://www.ligeiamagazine.com/winter-2019/drain-songs-reviewed-by-matt-lee/){:target="_blank"}.
+On the heels of his latest release, I corresponded with Grant to discuss
+experimental literature, science fiction, and writing in the face of
+pure abjection.
+
+<figure class="mb-4 py-4">
+  <img src="{{ '/assets/img/seperator.png' | prepend: site.baseurl }}" class="mx-auto d-block" style="max-height:15px;" />
+</figure>
+
+**Let's kick it off. *Gag* was my introduction to your writing and
+I've been hooked since. I remember it being such a breath of fresh air
+at the time. Reading that book restored a bit of my faith in
+contemporary American literature. Before that I'd only heard mutterings
+online about *Flamingos*, but hadn't read it yet. Naturally I was
+excited to see you've got an extensive back catalogue. Can you trace a
+brief history of the texts compiled in *Works* for us? How did you
+decide what to anthologize?**
+
+That's very kind of you to say and very nice to hear. With *Gag, Clog,*
+and *Peripatet* there's such a particular relationship with Inside the
+Castle and John Trefry as an editor that I've wondered what it'd be like
+for someone to read those and then the other stuff. I can't put my
+finger on it but with John the editing experience is unlike anything
+else and I've always felt different about those books because he pushes
+the work into such a unique space. The books collected in *Works*
+probably represent the most formative pieces of writing for me.
+*Postures* is the first time where I'd taken autobiographical source
+material but focused way more on sentences as the thing in writing a
+novel or fiction in general. *Flamingos* is the book I wrote when I
+found out I was having a daughter and wanted to make a sort of statement
+about what I thought fiction could do as an art form. The stories are
+new and old, updated and cut, some from *Marcel* as that's OOP (the
+others are as well, which brought this about as much as anything), as
+well as more recent attempts at genre writing, and short fiction is
+where I sort of figured out how to approach the bigger projects. And
+then, sort of coming full circle, the *PX138 3100-2686 User's Manual* is
+a project I started quite a while ago, working with the musician Lorn,
+where he was creating *The Maze to Nowhere*, and the manual I wrote was
+going to be liner notes for the project. That was put aside for a while,
+accepted at Solar Luxuriance, put aside again then accepted at Inside
+the Castle, but then I completely rewrote it and it became *Clog*, so
+there is sort of a nice ouroboros model to the book. The manual was also
+where I figured out how to do the sort of stuff I did in *Gag* and
+*Clog*, with translation and converting text to code and back again and
+automatic cut up things and the like. We had the first three books and
+Andrew at 11:11 felt like something in the Inside the Castle vein would
+be nice, so I emailed Lorn and asked if he still had that original file,
+and it all came together. Even typing this I'm happy there seems to be a
+uniformity to the book I wasn't consciously thinking about.
+
+**What strikes me about *Works* (and your writing in general) is the
+staggering stylistic range. You explore a lot of vastly different
+terrain, often in the same book. No matter the approach, you bring an
+unmistakable vision and versatility. I'm reminded of the famous John
+Peel quip about The Fall---"always different, always the same."
+*Postures* and *PX138 3100-2686 User's Manual* might seem world's apart
+at first glance, but I definitely sense that ouroboros connection you
+mentioned. I know the term "experimental fiction" gets overplayed, but
+I consider you to be a writer who truly does experiment with language.
+Is "experimental fiction" an arbitrary label or a proud tradition or
+both? What drives you to push the boundaries of fiction?**
+
+Again, very grateful for your reading. I think a phrase like
+"experimental fiction" is tough because it skips over figures like
+Melville and probably only refers to the 1960s-onward in terms of either
+critics calling writing that, or writers owning that with a press like
+Fiction Collective in its first iteration. I don't know where I first
+saw this, but I remember someone in the "transgressive" tradition having
+an issue with it too, I think because of its religious connotation, and
+it aligns Dennis Cooper fairly randomly with someone like Bukowski even
+though I don't think they aspire(d) to the same things in writing at
+all. I think it's useful insofar as it allows someone to connect a
+writer's work on a timeline, and the notion of each book as an
+experiment is nice because it allows for failures to kind of be swept up
+into the whole enterprise. If I were talking to someone at FedEx, while
+shipping a book, and they asked what I write, I might even use the term
+as I think it would either dispel their interest or solidify it (most
+people would probably think of Joyce, or Pynchon, or "difficult" writers
+on hearing the phrase, so it can be useful to at least hint to somebody
+they might not care for a book of mine and that's ok).
+
+In terms of what drives me, I think that I was very moved by a large
+enough corpus of writing at just the right time (after sobering up,
+sixteen and seventeen, when I truly felt a need for writing and reading
+and lucked out in finding artists I admire) that I developed a sense of
+fiction (and really any sort of writing) as a life force for certain
+types of people, and so over time the notion that I could in turn
+contribute to the spirit of this thing has carried me through all these
+various projects. Often I'm a very reactive writer, so I'll think of the
+work of others that's moved me or even the shell of a text that just
+proved immersive and curious as a reader, or student, or critic, and
+I'll expand this into a project of my own. Sometimes, with books like
+*Clog*, the feeling of iconoclasm is enough, of disruption. I read *The
+Place of Dead Roads* around the period I just mentioned, and I remember
+feeling this sense of permission as a beginning writer. Even if a work
+of mine isn't the thing in and of itself, the hope is that there's
+something there for someone else to take and blow the whole thing to
+pieces or something. That's enough to justify the experimenting, and the
+rest of it is this blend of something to express, and a consistent
+belief in the power of language in our lives. What the power does I'm a
+little less certain, but I've been affected by it enough to trust it's
+worthy.
+
+**Yeah, I feel like it gets tricky when "experimental lit" is used as
+a catchall. Most people wouldn't apply that term to someone like
+Melville even though *Pierre* is way more out there than most of what
+gets called experimental these days. Nice to hear *Dead Roads* had such
+an impact on you. I remember shoplifting a copy of that book from
+Borders when I was 16 or so, ha! Similarly had my mind blown. I thought,
+"Wow, people can write like this? I should try that!"**
+
+**The lineage to Burroughs is definitely evident in your new book,
+especially in *Bleach* with stories like "Interzone." Those writers
+who blur the lines of literary fiction and science fiction always
+resonate with me---Burroughs, Ballard, Delany, etc. In his introduction
+to *Bleach*, Brian Evenson writes about how you play with genre, using
+the techniques of experimental fiction to mutate otherwise familiar
+conventions. What are the uses and limits of genre? How would you
+respond to the snobs who stick their noses up at anything sci-fi
+adjacent?**
+
+I think that genre is incredibly important and significant because if
+you look at almost any era of genre writing there's a thriving tradition
+of writers within it challenging the limits of what a book can be. With
+Delany, no question, and then with Simenon or Highsmith, for crime, or
+Theodore Sturgeon for SF. I think the first writer to actually explode
+my sense of what genre writing could be was probably Jim Thompson, whose
+work I just fell in love with at eighteen or so. Before that I'd
+conceived of genre writing as all fitting into this formula that more
+closely reflected an episode of *Law and Order* or something rather than
+something anarchic and expressive. Thompson felt like reading John Fante
+or something but it was almost better because he'd also shown clear
+concern for engaging the reader wherever possible, whether it's plot or
+visceral images or whatever. Then discovering stuff like *A Sweet Sweet
+Summer* by Jane Gaskell sort of continued this feeling of realizing the
+experimenting that happened within genre and I think Delany kind of
+finalized everything. What's nice though is I'm able to read stuff like
+Delany's *The Mad Man* (my favorite of his I think) and it feels like a
+continuation of reading *Dhalgren*, or even his *The Motion of Light in
+Water* (in my opinion one of the greatest memoirs ever written) and the
+experience feels connected to his genre work.
+
+I think that right now there's a weird dynamic with SF because of
+Silicon Valley. The figures there are often referring to science fiction
+as inspiration and that's the only thing I might sort of stop paying
+attention to w/r/t genre. I haven't noticed as much snobbery from
+elsewhere regarding genre I guess because I tend to learn about and
+engage with genre stuff with others who are just excited about the work
+being done. I do think it's a problem especially in terms of learning
+how to write (academically or otherwise) and in that area I'm far more
+drawn to David Foster Wallace's approach of teaching popular works to
+show there's just as much experimentation and ambition there as there is
+in Carver or whoever else is taught as standard in writing programs.
+Genre literature is also one strand of literature that seems to have
+figured out how to compensate its writers fairly well. Money can't
+really be a reason to write with things as they are, but even for
+publishing a story or two of science fiction there's been more
+compensation than I've received for a year's royalties. And on top of
+that I felt as engaged and taken with the process of writing those
+stories as I have with anything I've written.
+
+**Man, Thompson is a God. *Savage Night* is one of my all-time
+favorites. Delany's trajectory is pretty incredible when you look at
+the early, pulpy sci-fi/fantasy stuff next to something like *Hogg.*
+Absolutely agree that you can tell it's all an extension of the same
+imagination though. People shouldn't scoff at reading something
+mainstream or popular. I always got a kick out of DFW being a Tom Clancy
+fan. I admire a lack of pretension.**
+
+**In contrast to something like the *Gag*/*Clog*/*Peripatet* trilogy,
+much of *Works* has a more concrete narrative quality. Nothing I would
+call "traditional" by any stretch, but perhaps more structurally
+familiar. With that in mind, you've created some wonderfully weird and
+sometimes disturbing individuals whose headspace we get to inhabit. How
+do you approach developing a character, whether it's the semi
+autobiographical X from *Postures*, the disembodied voices of
+*Flamingos*, the serial killer in the title story of *Bleach*, or even
+the all-consuming saw in *PX138 3100-2686 User's Manual*? What makes for
+a compelling character in fiction?**
+
+I think when it comes to developing a character, or even just a vague
+perspective, for the most part it has to start with voice, which in turn
+has to start with language. Often that means one sentence, usually an
+opening, which is somehow curious. I remember working on "Everybody's
+Darling," which is collected in *Drain Songs*, and it all emanated from
+the line "I suppose I took to wearing mother's unders" and there was
+maybe more to it than that, or the final version changed, but that line
+almost just seemed like a fun body to inhabit. And from there some more
+lines come, and it becomes clear it's a story about a person in
+mourning. That line, too, had a connection to reading, as I was thinking
+of the first (I think it's first, anyway) story in *Venus Drive* with
+the strange maternal stuff at her bedside.
+
+That's sort of one way it'll happen, I'll need to find a vessel for some
+language I'm interested in, and once I start to nag at that a little bit
+it'll either start to go somewhere, or it won't, in which case it might
+be a fragment of a novel, or it might be abandoned.
+
+With X, though, since I'm not exactly inventing situations but creating
+an amalgam of lived experience and imaginary stuff, it's almost the
+opposite. The language comes easily as I'm just riffing, the lowest
+possible stakes at the beginning, and hopefully I've got enough that I
+can start to rewrite that, and through three or four full rewrites I'll
+start to really focus on the language, and the reshaping will come
+naturally enough after that.
+
+In terms of what makes for a compelling character in fiction, for me,
+there usually has to be some focus on the language, some oddity that
+comes through there, that makes it compelling. I'd connect this from the
+often nameless characters in Lish-edited or Lish-inspired writers'
+works, to the wanderers in *Dhalgren*, even through to someone like
+Hannibal Lecter in those novels, there's a sense that language is a tool
+to heed, to respect and follow, and these characters are brought into
+existence by respecting the language they seem to need to be written out
+by someone. Often the quickest way to sense this is the language, but it
+isn't always the case as there's much to enjoy in writers only
+glancingly interested in prose. I think in my favorite characters form
+and content are so bound up as to be unnoticeable separately. I'm
+thinking of books like *The Trick is to Keep Breathing*, which sort of
+enacts the drama of a mental illness memoir on the page, or even the
+diaries of May Sarton, or the referential and fragmented narration in
+Tan Lin's work, we can sense the author's presence usually, and in
+compelling fictional characters (or nonfictional really) seem to occur
+when the author is transcribing as much as composing.
+
+**Interesting how an author's voice and a character's voice can bend
+against one another. It becomes a kind of paradox where the author is
+both organically channelling and consciously manufacturing language.
+Some characters seem like they almost demand to be realized. Our job
+then is to pick up those idiosyncrasies and decipher what this imaginary
+consciousness is trying to communicate.**
+
+**Speaking of process, I think it's safe to say you're a prolific
+author. You've put out more books in five years than some do in a
+lifetime. It's also clear to me that even at their most abstract
+you've dedicated a lot of time to writing and revising these texts. Do
+you stick to a strict regimen when you're working on a book? How do you
+make time for creative endeavors while juggling family and career
+obligations?**
+
+Usually when I'm working on something I'll write it in short bursts,
+maybe two or three a day, but when I feel my wheels spinning a little
+bit I'll need to stop and then it might start up again better the next
+day or I'll wait a bit before getting back into it. I guess that's the
+method with shorter things. Otherwise it'll depend on my relationship
+with who's putting the book out, and whether an agreement was made
+before the thing was totally finalized or not. With John at Inside the
+Castle every book was basically collaborative, where I sent him
+something at the outset and through working together the final book was
+reached after a number of months. With ITNA, who first published
+*Flamingos* they were nice enough to work with me based on a document
+assembled after reading and loving Matthew Roberson's *1998.6,* that was
+an absolute mess, and bring Travis Jeppesen on board to edit the thing
+into what finally became the text as it is now. Right now I'm working on
+a book on professional wrestling with Reaktion Books that was accepted
+conditionally based on an outline, and that's taken the majority of my
+time, and I work on it a little bit most days.
+
+I don't write every day, and I don't think that's a prerequisite for
+anything as a writer, and the same goes for reading religiously to be
+honest. If a writer feels less compelled to read, as all people do these
+days, then I think following that is more important than imposing strict
+rules on yourself, because you're more likely to write something
+reflective of the world and the people in it that way. Not that that's a
+necessity in writing, I just like the idea of people angry about books
+and writing and reading or at least disenchanted with it writing books,
+as I'm way more likely to read those as they seem more honest.
+
+In terms of making time, I tend to email myself pieces of projects
+lately. This wrestling book is vaguely academic so I'll often bring up a
+couple of PDFs or something and peruse them and then send myself
+sequences of emails throughout the day that I'll assemble when my kids
+go to sleep. I have three kids under 5 so those moments throughout the
+day are few and far between, but usually there's enough if you're not
+too particular about having to sit at a desk to get anything substantial
+done. Then there's that time in the evening which I'll either use a bit
+or spend watching tv with my wife or something but those small moments
+have proven enough to keep going. I know some people are adamant that
+you need to be at the desk or you need to be super selfish with your
+time or something to really do anything as a writer or artist, but
+honestly the writers and artists who make do while living real lives
+mean way more to me anyway---Mierle Laderman Ukeles, or Christine Schutt
+are great examples and have served very well as direct inspirations on
+however I've managed to do anything.
+
+**Hadn't realized Jeppesen edited *Flamingos*! I'm a big fan of *The
+Suiciders*. Refreshing to hear you don't set a rigid work schedule.
+Seems somewhat robotic/masochistic to force yourself to read or write,
+as well as less genuine. I like the anecdote about Schutt writing
+*Nightwork* while her kids were asleep---hence the title.**
+
+**I noticed *Works* is rife with allusions to films, particularly French
+cinema---Renoir, Godard, Cocteau. These are filmmakers whose work has a
+certain literary quality, especially Cocteau since he dabbled in both
+worlds. What is your relationship with film and how does it intersect
+with your writing? Do you see any parallels between cinema and
+literature?**
+
+Yeah, Schutt is just unbelievable in every respect, very grateful her
+writing exists. I think the film stuff probably hooked me before
+literature. I remember when I still did drugs I would often skip school
+and take a box of Benadryl and whatever else was around and watch movies
+and I think aside from punk shows it was the first time I remember
+feeling like I was engaging something aesthetically powerful. Cocteau I
+think I read first and then watched his movies, so it probably wound up
+doubly inspiring as a result. I remember reading his journals *Past
+Tense* and his book on opium and it just floored me how engaged he
+seemed in any medium he touched. The same goes for Pasolini. They're
+both poets in the old sense I think, and Pasolini's Trilogy of Life is
+probably as informative for me as any work of literature. It's
+constantly referential and human and hilarious. I think a lot of my
+favorite contemporary writers are very inflected by films, especially
+that 60s French stuff for someone like Dennis Cooper, or DeLillo, or
+even Rachel Kushner. I imagine that down the line the parallels between
+film and fiction or literature will be more clearly established, as the
+kind of writing I'm into feels very contemporary and very responsive to
+the perceived death of the field and the same has sort of happened to
+film of late.
+
+The nice thing about film is it's mostly held onto its role as this
+thing people from all walks of life will seek out for being sort of
+experimental and arty, with stuff like *Uncut Gems* or *Portrait of a
+Lady on Fire* or even back to *Prisoners* and *The Master*. These are
+all films a huge number of people saw and were happy to engage as
+artworks in the same theaters where *Trolls 2* or whatever were also
+shown. There's something nice about that, like going to check out Oakley
+Hall's *Warlock* from the public library and finding out someone in your
+small town has it checked out. It seems like people do wish that books
+held that sort of sway and I guess I understand but it's also nice to
+feel like you're accessing something special and content to remain
+outside the world itself.
+
+**I'm getting flashbacks to my own teenage phase of doing triple c's
+and watching Fulci movies. Those were the days... I think the
+accessibility of film allows for more "high art" to crossover into the
+mainstream. It's pretty wild seeing recent movies like *The Lighthouse*
+or *Parasite* playing in theaters. Interesting time to be alive, to say
+the least.**
+
+**The midwest features prominently in a lot of your work. I must confess
+I've spent little time out there---I'm an east coaster. I feel like
+middle America gets a bad rap for whatever reason. I'm always curious
+how the geography surrounding an author can seep into their writing.
+Have those landscapes and cultures influenced your perspective? What
+does the midwest symbolize to you?**
+
+The Midwest is very strange, because on the one hand it's known for this
+very self-deprecating niceness, and on the other it's produced as many
+noted serial killers as the Pacific Northwest. I live in the Pacific
+Northwest now, and I think its main differences from the Midwest have to
+do with landscape. I think probably the biggest effect landscape and
+culture have had on me have had to do with recovery and the like. Going
+to rehab in the Midwest where there is this massive thriving recovery
+community affected how I see things, and definitely how I write, as I
+first really started writing while in treatment, in Minnesota, which is
+sometimes called the Land of 10,000 Treatment Centers.
+
+I think, in addition to this, there's a sense of wanting to stand behind
+the stories and things that make your place of origin significant for
+you. I think that places like LA, or New York City, or the south more
+broadly have received so much coverage in literature that there is this
+feeling of wanting to convey this place I come from so it gets its due.
+Lots of brilliant writers have come from the Midwest, though, so there
+is a tradition to engage with, but I think everybody tends to pull from
+this sense of memory they have and want to give that back in their
+writing.
+
+I think, with that in mind, the Midwest symbolizes a lot of strange
+failures of promise. The niceness counteracted by police violence and
+circumstances in places like Chicago where the government has all but
+given up on helping communities there torn apart by violence. The
+sweethearts you might meet buying bread on Sunday morning versus the
+legacy of Ed Gein. Even the reason lots of immigrants came to the
+Midwest, the promise of logging and farming advertised in Germany and
+Poland and elsewhere but when they arrived the ground was full of stumps
+and the logging boom had already started moving further westward.
+Underneath that too though there is an enduring magic to it, a warmth.
+That section near *The Great Gatsby*, where he's talking about taking
+the trains home in the winter in his youth, and passing these sleepy
+towns and feeling good that he's of this place, that's still there for
+me.
+
+**Recently reread *The Great Gatsby* for the first time since high
+school and found it incredibly disturbing in a way I hadn't remembered.
+It was like, "Wow, these rich people are just pure evil." Sadly this
+country is still run by a soulless upper class with unlimited access to
+wealth and power. Probably why that book has remained so relevant over
+the years.**
+
+**In David Vichnar's masterful
+[*afterword*](https://www.3ammagazine.com/3am/the-work-that-matters-seven-notes-on-grant-maierhofers-works/){:target="_blank"}
+to *Works*, there's an excerpt from your "Research Notes" for
+*Flamingos* where you mention that language is a type of lie we use to
+paint different versions of the same reality. Literature can be a means
+to counter "shifting definitions" since language can often manipulate
+people in dangerous ways. This has become so pronounced lately, as
+language has often served to divide us or placate us. Data about the
+Coronavirus pandemic meant to save lives is rendered "conspiracy
+theory." Peaceful protestors get depicted as "riotous thugs." I've
+been thinking a lot about what purpose art can serve in support of the
+fight against police brutality and racism. I'm trying to resist the
+voice in my head saying, "Your writing is irrelevant in the face of
+state sanctioned murder and an ever mounting COVID-19 death toll and a
+fascist administration trying to strip us of the most basic human
+rights." This year has forced me to reconsider the purpose of art in
+general. As writers, how can we use our craft to combat oppression and
+inequality? Is all writing political? Or was Artaud right about all
+writing being pigshit?**
+
+I've thought about Chaucer on a lot of occasions lately for a lot of
+different reasons, but it applies pretty well here. What's nice about
+*The Canterbury Tales* is they're a literature born of the Black Plague.
+Several works have stood the test of time that were written around the
+time or about the subject of the Black Plague. That's important because
+Chaucer's work isn't only steeped in death. It's a book about a bunch of
+weirdos telling stories while they make this walk to honor a hero while
+everything is literally and figuratively falling apart around them. It
+reminds me of that amazing monologue Francis Ford Coppola gives at the
+end of *Hearts of Darkness*, talking about the universal stories that
+exist and what he was trying to do with *Apocalypse Now*. The first
+winter of man and this sense that everything was going to fall apart and
+die and life was over, but then spring came and life flourished and was
+better again. Like Chaucer, he's talking about telling stories and
+creating art in the face of total misery and abjection, staring at the
+hideous state of things on the tail of the Vietnam War and all this
+ugliness about humanity being unearthed simultaneously. The same is true
+of literature focused on the holocaust, on slavery, on anything that's
+brought civilization face to face with its ugliest tendencies and forced
+a reckoning to boil. This means that this stuff serious writers are
+trying to do will always have some purpose or matter in the grand scheme
+of things. With the means to write and publish at everyone's fingertips
+it also means that not everything will be helmed as this era's
+*Canterbury Tales* or even *In Our Time*, but the effort will always
+matter.
+
+I think in terms of all writing being political, it's maybe useful to
+think that all things *can* be political, or *can have* political
+implications, because outright asserting that all writing is political,
+for instance, is a mental trap that seems very difficult to be able to
+escape from as the person trying to write something. I feel like even a
+while ago you could more comfortably come up with things having zero
+political implication, like when reading your question I thought about
+whether pouring a glass of tap water is political, and was immediately
+reminded of Flint, Michigan. Maybe that means things have always held
+more political implication than we've realized, which is why I'm
+comfortable with the idea that everything can. I think writing is but
+I'm more likely to give it credit in terms of its political implications
+than see them as purely negative. I think, sort of connecting with your
+first question, that when the language of the world is attempting to
+skew things for us, and tell us things are a certain way, that writing
+as an artform can serve to enhance our relationship with language and
+understand things more fully. The world's language is chaotic, sales,
+paranoia, money, whatever. Literary language can respond to this by
+being restrained, or rambling, concise or Proustian, and like Abstract
+Expressionism can represent things that another painting of a pot of
+flowers cannot.
+
+Artaud's interesting because he's romanticized nowadays but when you
+actually look at the circumstances of his life it's pretty abysmal. We
+hear a lot about how treatment for those with mental illness has
+improved, and that's definitely true, and Artaud was someone who lived
+through some of the absolute worst of it, and what he managed to write
+in spite of that is truly astounding. I think perhaps Artaud was
+responding to things like the Lost Generation, and this romantic view of
+the human spirit, and he saw through much of it, and his declaration of
+writing as pigshit is bound up in that, that man is sort of just as
+despicable as any animal we apparently lord over, and our writing might
+as well be scrawled on the walls of a prison in shit. I think it's also
+bound up in his desires for the theater, a more confrontational and
+abject thing to be thrown in the face of the general populace instead of
+pored over by bored students. I do think that there should be something
+despicable and human in the work, for it to really matter, some level of
+the human ugliness we're capable of. There should be that risk or
+vulnerability somewhere, otherwise it's tough to stick with it.
+
+**Damn, what an incredibly (and unsurprisingly) thoughtful response. I
+was reading about how the Black Plague ultimately triggered the
+renaissance. Italy was so badly hit that it forced a shift in
+worldview---people had been confronted by all this death and they
+started being more concerned with their lives on earth than the
+spiritual afterlife, leading to advances in medicine, technology, art,
+etc. I wonder if we make art because of or in spite of the ugliness of
+humanity. It is pretty badass that a person can suffer untold atrocities
+and still create something beautiful or meaningful. Even Artaud for all
+his vitriol was sort of "saved" later in his life when he landed in a
+hospital where they had him practice art therapy instead of
+electroshock. I think language does hold a lot of power and the better
+we understand its nuances and complexities, the less likely we are to
+succumb to its manipulative potential. Helps us to think more
+critically, therefore (hopefully) leading us away from extremity. The
+best political art challenges our assumptions and demands us to confront
+human nature at its worst, while also allowing us to imagine a better
+future.**
+
+**I understand you teach (or taught) composition. I wanted to wrap up
+our conversation by asking what advice you would offer a fledgling
+writer. Someone like X, perhaps, who's hungry to write a masterpiece
+but disenchanted with academia and publishing. What do you wish someone
+had told you when you first started out?**
+
+Very grateful for all your kindness here. I'm still teaching, mainly
+composition and technical writing sorts of courses, but I've been lucky
+to teach some creative writing here and there. I think there would be
+two primary things I would tell someone like X, where maybe the ambition
+and desire to do something significant can seem to outweigh the actual
+work at hand for those first couple of years or so. The first, would be
+to focus on sentences as much as you possibly can. When I started
+writing I did it because I loved literature, and I loved the feeling
+certain books gave me. I thought, as a result, that the thing to focus
+on was that feeling, and if you could have that energy carrying you
+through the writing process then you would arrive at an end object as
+powerful as the books you love. I do think that's part of it, but when
+I'd go back to edit that stuff it would feel so awkward and
+uncomfortable because I hadn't really thought about language or
+sentences. In my case this unfortunately meant that I still pushed so
+hard that some of that writing was published, but you live and you learn
+I guess.
+
+I first tried focusing on sentences for their sake alone around when I'd
+finished a draft of *Postures,* and from then on I've remained concerned
+about the language of what I'm doing. It took me a while though to
+realize that a huge reason I had such a response to certain writers was
+because they'd paid close attention to language and done interesting
+things with it, it wasn't just because the writers cared about art in
+the same way I did and that energy translated. There's a wonderful and
+easy-to-read book by Virginia Tufte called *Artful Sentences* that I'd
+recommend to any writer at any point in their life. It illustrates what
+I'm talking about better than I ever could. The second thing that I
+would recommend would be to review books, to some degree, in some
+capacity, so as to try and become a member of the many various
+communities devoted to all types of literature there now are. I started
+reviewing stuff at HTMLGIANT way back when, and have continued to try
+and do so wherever possible. You get free books which is nice, and you
+help others all while exploring what literature is doing at present.
+Some places even pay you for it, I'm told, but regardless it's a
+fulfilling thing and seeing what your peers are doing is exciting. If
+you want a model of how to do this, follow the efforts of Mike Corrao.
+He's a critic with the best of them and seems to publish a new review
+every day that he isn't also publishing a new book, which is often. He's
+a literary citizen with the best of them and he shows how writing isn't
+all solitary drudgery hidden away from things, it can be social and
+dynamic. I'm reasonably sure that if you are able to do some variation
+of both of these things that you will get writing done you feel good
+about, and will just as likely get published.
+
+***Works* is available from 11:11 Press
+[*here*](https://1111press.com/works){:target="_blank"}.**
+
+<img src="{{ '/assets/img/summer2020/grant.jpg' | prepend: site.baseurl }}" class="img-fluid mx-auto my-4 d-block" alt="Grant Author Photo"/>

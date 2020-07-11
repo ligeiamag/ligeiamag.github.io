@@ -598,7 +598,238 @@
     "url"      : "/spring-2020/2-stories-james-mcadams/",
     "author"    : "James McAdams"
     }
+  ,
   
   
-
+  {
+    "title"    : "Light Always Remembers",
+    "url"      : "/summer-2020/light-always-remembers-lana-hechtman-ayers/",
+    "author"    : "Lana Hechtman Ayers"
+    }
+  ,
+  
+  {
+    "title"    : "No Man’s Land",
+    "url"      : "/summer-2020/no-mans-land-camille-ferguson/",
+    "author"    : "Camille Ferguson"
+    }
+  ,
+  
+  {
+    "title"    : "White Sheets",
+    "url"      : "/summer-2020/white-sheets-emily-jahn/",
+    "author"    : "Emily Jahn"
+    }
+  ,
+  
+  {
+    "title"    : "3 Poems",
+    "url"      : "/summer-2020/3-poems-leela-srinivasan/",
+    "author"    : "Leela Srinivasan"
+    }
+  ,
+  
+  {
+    "title"    : "A Brief Medical History",
+    "url"      : "/summer-2020/a-brief-medical-history-krysta-lee-frost/",
+    "author"    : "Krysta Lee Frost"
+    }
+  ,
+  
+  {
+    "title"    : "cactus bush",
+    "url"      : "/summer-2020/cactus-bush-cassandra-eddington/",
+    "author"    : "Cassandra Eddington"
+    }
+  ,
+  
+  {
+    "title"    : "Carmilla",
+    "url"      : "/summer-2020/carmilla-matilda-young/",
+    "author"    : "Matilda Young"
+    }
+  ,
+  
+  {
+    "title"    : "Colony",
+    "url"      : "/summer-2020/colony-john-grey/",
+    "author"    : "John Grey"
+    }
+  ,
+  
+  {
+    "title"    : "Delicious",
+    "url"      : "/summer-2020/delicious-kristin-garth/",
+    "author"    : "Kristin Garth"
+    }
+  ,
+  
+  {
+    "title"    : "Good Story",
+    "url"      : "/summer-2020/good-story-gale-acuff/",
+    "author"    : "Gale Acuff"
+    }
+  ,
+  
+  {
+    "title"    : "Offering",
+    "url"      : "/summer-2020/offering-levi-masuli/",
+    "author"    : "Levi Masuli"
+    }
+  ,
+  
+  {
+    "title"    : "SCROLL",
+    "url"      : "/summer-2020/scroll-dior-j-stephens/",
+    "author"    : "Dior J. Stephens"
+    }
+  ,
+  
+  {
+    "title"    : "Soft Spots in the Night Sky",
+    "url"      : "/summer-2020/soft-spots-in-the-night-sky-william-doreski/",
+    "author"    : "William Doreski"
+    }
+  ,
+  
+  {
+    "title"    : "Mesh-Gate",
+    "url"      : "/summer-2020/mesh-gate-mike-corrao/",
+    "author"    : "Mike Corrao"
+    }
+  ,
+  
+  {
+    "title"    : "Immersion",
+    "url"      : "/summer-2020/immersion-vivian-montgomery/",
+    "author"    : "Vivian Montgomery"
+    }
+  ,
+  
+  {
+    "title"    : "Triptych Américas",
+    "url"      : "/summer-2020/triptych-americas-marco-etheridge/",
+    "author"    : "Marco Etheridge"
+    }
+  ,
+  
+  {
+    "title"    : "George",
+    "url"      : "/summer-2020/george-jack-carneal/",
+    "author"    : "Jack Carneal"
+    }
+  ,
+  
+  {
+    "title"    : "Little Cracks",
+    "url"      : "/summer-2020/little-cracks-jie-wang/",
+    "author"    : "Jie Wang"
+    }
+  ,
+  
+  {
+    "title"    : "Later that Day",
+    "url"      : "/summer-2020/later-that-day-james-pate/",
+    "author"    : "James Pate"
+    }
+  ,
+  
+  {
+    "title"    : "Wrestling in the Movies",
+    "url"      : "/summer-2020/wrestling-in-the-movies-jonathan-rylander/",
+    "author"    : "Jonathan Rylander"
+    }
+  ,
+  
+  {
+    "title"    : "3 Stories",
+    "url"      : "/summer-2020/3-stories-daniel-beauregard/",
+    "author"    : "Daniel Beauregard"
+    }
+  ,
+  
+  {
+    "title"    : "Float and Disappear",
+    "url"      : "/summer-2020/float-and-disappear-cathy-ulrich/",
+    "author"    : "Cathy Ulrich"
+    }
+  ,
+  
+  {
+    "title"    : "Morning After",
+    "url"      : "/summer-2020/morning-after-hailey-mcallister-brasier/",
+    "author"    : "Hailey McAllister-Brasier"
+    }
+  ,
+  
+  {
+    "title"    : "3 Stories",
+    "url"      : "/summer-2020/3-stories-maria-s-picone/",
+    "author"    : "Maria S. Picone"
+    }
+  ,
+  
+  {
+    "title"    : "A New Phase",
+    "url"      : "/summer-2020/a-new-phase-ellie-gordon/",
+    "author"    : "Ellie Gordon"
+    }
+  ,
+  
+  {
+    "title"    : "Informed Consent",
+    "url"      : "/summer-2020/informed-consent-claudine-griggs/",
+    "author"    : "Claudine Griggs"
+    }
+  ,
+  
+  {
+    "title"    : "Security Screenings",
+    "url"      : "/summer-2020/security-screenings-peter-gutierrez/",
+    "author"    : "Peter Gutiérrez"
+    }
+  ,
+  
+  {
+    "title"    : "The Stochasticity of You",
+    "url"      : "/summer-2020/the-stochasticity-of-you/",
+    "author"    : "Jordan Faber"
+    }
+  ,
+  
+  {
+    "title"    : "A Fair Amount of Ghosts",
+    "url"      : "/summer-2020/a-fair-amount-of-ghosts-zach-murphy/",
+    "author"    : "Zach Murphy"
+    }
+  ,
+  
+  {
+    "title"    : "Diarmuid Hester Interview",
+    "url"      : "/summer-2020/diarmuid-hester-interview/",
+    "author"    : "Grant Maierhofer"
+    }
+  ,
+  
+  {
+    "title"    : "Grant Maierhofer Interview",
+    "url"      : "/summer-2020/grant-maierhofer-interview/",
+    "author"    : "Matt Lee"
+    }
+  ,
+  
+  {
+    "title"    : "Benjamin DeVos Interview",
+    "url"      : "/summer-2020/benjamin-devos-interview/",
+    "author"    : "Sean Sam"
+    }
+  ,
+  
+  {
+    "title"    : "Hurricane Season",
+    "url"      : "/summer-2020/hurricane-season-review-fernanda-melchor/",
+    "author"    : "Matt Lee"
+    }
+  
+  
   ]

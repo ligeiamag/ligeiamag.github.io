@@ -224,6 +224,10 @@ p.poemline {
   font-style: italic;
 }
 
+.jahn-indent{
+  text-indent:3.5rem;
+}
+
 /* Post Styles */
 
 p.firstparagraph:first-child::first-letter {
@@ -795,6 +799,10 @@ hr.feature-style {
 .tomato {
   background-color: #be3d48;
   color: #fff;
+}
+
+.card-box {
+  border: 5px double #808080;
 }
 
 div.card-body p a.related-post-links {
