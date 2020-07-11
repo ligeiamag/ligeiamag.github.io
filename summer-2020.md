@@ -2,9 +2,9 @@
 layout: pages
 title: Summer 2020
 description: Issue 04 of Ligeia Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
-image:
-width:
-height:
+image: '/assets/img/summer2020/luanne.jpg'
+width: 600
+height: 746
 ---
 <div class="jumbotron jumbotron-fluid padding-main">
 	<div class="container h-100">
