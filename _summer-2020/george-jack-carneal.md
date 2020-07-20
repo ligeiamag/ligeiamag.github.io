@@ -36,30 +36,6 @@ animal. He appeared not to recognize me.
   <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
 </figure>
 
-One bitterly cold and snowy morning a few years ago, I returned from
-a walk with my dog, a one and a half year-old English Springer Spaniel
-named George. My wife Chris was at work and, having dropped off my two
-sons at school, the day lay spread out before me, open and welcoming.
-There was writing to do, but it could wait. I grabbed a book and
-hunkered down in my favorite chair, and considered building a fire.
-George circled his bed next to me, laid down, crossed his paws, yawned,
-and fell asleep.
-
-About ten minutes later, George rose awkwardly from his bed and lurched
-sideways. My first response was to laugh. I thought the dope was having
-a bad dream. But within seconds I recognized he was instead having a
-seizure. Eyes wild, George fell on his side and began to run in place,
-his normally floppy muzzle instead constricted in an insane rictus. Ten,
-maybe fifteen seconds had passed since he'd first risen from his bed.
-Not knowing what else to do, I leapt up and ran into the other room
-until the seizure passed, my heart hammering in my chest, my mouth dry.
-After another minute, I approached him as one might approach a wild
-animal. He appeared not to recognize me.
-
-<figure class="my-4 py-3 ">
-  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
-</figure>
-
 At the vet's office, I told the doctor what had happened, and
 included what I considered an essential detail: George had sniffed an
 empty solvent can in the alley that morning during our walk.
