@@ -43,7 +43,7 @@ height: 426
 <p class="poemline">hours opening my skin, like Narcissus digging for something</p>
 <p class="poemline">beneath his own reflection. There are three pills I take</p>
 <p class="poemline">before bed, sometimes four. I think I have been numbed</p>
-<p class="poemline">pharmaceuticals, but fear the alternative. During emergencies,</p>
+<p class="poemline">by pharmaceuticals, but fear the alternative. During emergencies,</p>
 <p class="poemline">I am calm: the first time I am pulled over, the first time </p>
 <p class="poemline">my sister stiffened and convulsed, her lips turned blue.</p>
 <p class="poemline">When I cannot think a complete thought, I blame</p>
