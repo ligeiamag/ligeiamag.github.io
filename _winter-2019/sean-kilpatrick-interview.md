@@ -92,7 +92,7 @@ universal, the idea is a reality distinct from the individual
 constituting it: universalia sunt realia. Nominalists retorted:
 universals are mere notions of the mind, individuals alone are real,
 universalia sunt nomina, denying celestial abstractions. In the
-mid-12^th^ century, your nominalist, like Peter Abelard, was often a
+mid-12th century, your nominalist, like Peter Abelard, was often a
 castrated kook decried as a heretic (this has been flipped by now and
 will likely flip again, fatalistically, uselessly, with better tech
 available during each revolution). People of his order read the Greeks

@@ -228,6 +228,20 @@ p.poemline {
   text-indent:3.5rem;
 }
 
+.andres-indent1{
+  text-indent:1.1rem;
+}
+.andres-indent2{
+  text-indent:3rem;
+}
+
+.footnotes{
+  font-size: 85%;
+}
+
+.shortspace {
+  padding: .25rem 0rem;
+}
 /* Post Styles */
 
 p.firstparagraph:first-child::first-letter {

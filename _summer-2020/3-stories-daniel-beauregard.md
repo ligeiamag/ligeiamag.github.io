@@ -83,7 +83,7 @@ cheese that have bubbled and burst away, forgotten. We'll never make
 it---you ought to listen to us. We know for sure. We focus intently on
 one of the holes until it becomes clear in our optic viewfinder and
 ready our tweezers for extraction---the first time we saw this we were
-fucking amazed---and just as if we were playing Operation^®^ we reach in
+fucking amazed---and just as if we were playing Operation® we reach in
 slowly without touching the sides of the pores. If the tweezers come in
 too strong or loud it spooks the little versions of ourselves burrowed
 deep within. It's like this: everybody has more than a million pores and
