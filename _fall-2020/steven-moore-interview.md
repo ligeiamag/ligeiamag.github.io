@@ -9,8 +9,8 @@ date: 2020-09-11
 issue: fall-2020
 interview: author of Alexander Theroux&#58; A Fan’s Notes
 image: '/assets/img/fall2020/stevenmoore.jpg'
-width: 300
-height: 450
+width: 667
+height: 1000
 ---
 
 
