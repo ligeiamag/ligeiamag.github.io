@@ -105,7 +105,7 @@ away on grass and blackberries. I imagine the sleeping goats at night
 satiated and full, while the man lies awake in his tent hungering for
 more.
 
-On Friday we went to Swedish Hospital and saw Lynda Sisley on the 12th
+On Friday we went to Swedish Hospital and saw Lynda on the 12th
 floor---the same floor where I had seen Randy Hale. We called it the
 Penthouse. Lynda was sound asleep rolled in a ball---her head bald from
 three rounds of chemo. She will be there for a month, and then they will
