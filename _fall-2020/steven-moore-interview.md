@@ -8,7 +8,7 @@ excerpt: ... I do indeed feel the role of the critic has changed, and not for th
 date: 2020-09-11
 issue: fall-2020
 interview: author of Alexander Theroux&#58; A Fan’s Notes
-image: '/assets/img/fall2020/stevenmoore.jpg'
+image: '/assets/img/fall2020/stevenmoore12345678.jpg'
 width: 667
 height: 1000
 ---
@@ -270,4 +270,4 @@ choice between maximalism or minimalism, I'll tolerate Theroux's
 excesses.
 
 
-<img src="{{ '/assets/img/fall2020/stevenmoore.jpg' | prepend: site.baseurl }}" class="img-fluid mx-auto my-4 d-block" alt="Steven Moore image"/>
+<img src="{{ '/assets/img/fall2020/stevenmoore12345678.jpg' | prepend: site.baseurl }}" class="img-fluid mx-auto my-4 d-block" alt="Steven Moore image"/>
