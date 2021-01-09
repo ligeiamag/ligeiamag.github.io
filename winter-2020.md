@@ -42,7 +42,7 @@ height: 418
 		<div class="col-md px-4 px-md-3">
 		<img src="{{ '/assets/img/winter2020/space.jpg' | prepend: site.baseurl }}" class="img-fluid rounded" alt="Art By Courtney Applequist" />
 			<footer class="blockquote-footer mb-3"> <cite title="Source Title">The Space Between</cite> by <a href="https://courtneyapplequist.com/" target="_blank">Courtney Applequist</a> | <a href="https://www.instagram.com/courtneyapplequistart/" target="_blank">@courtneyapplequistart</a></footer>
-		<img src="{{ '/assets/img/winter2020/d.jpg'  | prepend: site.baseurl }}"   class="img-fluid  rounded" alt="Art by Ed Becker" />
+		<img src="{{ '/assets/img/winter2020/dArtBecker.jpg'  | prepend: site.baseurl }}"   class="img-fluid  rounded" alt="Art by Ed Becker" />
 			<footer class="blockquote-footer mb-3"> <cite title="Source Title">D</cite> by Ed Becker.</footer>
 		</div>
 		<div class="col-md px-4 px-md-3">
