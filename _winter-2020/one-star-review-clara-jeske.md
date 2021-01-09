@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: One-Star Review
-description: An essay by Clara Jeske—Yolanda
+description: An essay by Clara Jeske—One-Star-Review
 author: Clara Jeske
 tags: [nonfiction]
 excerpt: ... I have never been afraid or unsettled in graveyards ...
