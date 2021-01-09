@@ -41,6 +41,14 @@ layout: null
     "url"      : "{{ site.baseurl }}{{ fall-2020.url }}",
     "author"    : "{{ fall-2020.author | escape }}"
     }
+  ,
+  {% endfor %}
+  {% for winter-2020 in site.winter-2020 %}
+  {
+    "title"    : "{{ winter-2020.title | escape }}",
+    "url"      : "{{ site.baseurl }}{{ winter-2020.url }}",
+    "author"    : "{{ winter-2020.author | escape }}"
+    }
   {% if forloop.last == false %},{% endif %}
   {% endfor %}
   ]

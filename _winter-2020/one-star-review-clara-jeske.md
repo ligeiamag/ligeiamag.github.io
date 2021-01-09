@@ -1,0 +1,500 @@
+---
+layout: posts
+title: One-Star Review
+description: An essay by Clara Jeske—Yolanda
+author: Clara Jeske
+tags: [nonfiction]
+excerpt: ... I have never been afraid or unsettled in graveyards ...
+date: 2020-12-04
+issue: winter-2020
+image: '/assets/img/winter2020_og/jeske.jpg'
+width: 426
+height: 640
+---
+
+
+*Biddison Cementary is at the end of my block. It is HISTORIC
+LANDMARK..I brought my home seven years ago and I have never seen ANYONE
+COME OUT and up keep the grounds.if there are any FAMILY MEMBERS out
+there Please show respect and contact the city to Help keep up the
+grounds... Its a Eye sore.*
+
+<footer class="blockquote-footer mb-5 mt-0" style="color:#212529"> one-star review for Biddison Family Cemetery in Baltimore, Maryland,
+left three years ago</footer>
+
+
+I have never been afraid or unsettled in graveyards. In recent years,
+I've loved them for the fact that they force me to be peaceful. During
+the day, living people in a graveyard are washed-out and quieted.
+Funeral voices are black-toned murmurs. Dog-walkers and joggers exercise
+mutely. Visitors solemnly offer flowers to graves and bread to pond
+ducks. And I, scatter-brained and the middle-child-of-six-kids kind of
+talkative, can sink into that quiet with no acknowledgment. No demands
+on my presence. I also love them for their history, and not just in
+names of the deceased. The space of a cemetery itself carries a story.
+That feels especially true in abandoned ones---cracked stone, fading
+epitaphs, and the reasons why people leave graves to crumble.
+
+This Google Maps review is one of only seven left for Biddison Family
+Cemetery, a small, abandoned green space in northeast Baltimore,
+Maryland. At the junction of Forrester Avenue and Oaklyn Avenue in the
+Waltherson neighborhood, this little pocket hosts at least fifty-five
+dead.
+
+And the above reviewer is correct: it is an "Eye sore." Many of the
+graves are cracked or fully separated from their plinths, sprawled
+against tree roots or the dirt. When I visited Biddison on July 14th,
+2020, I'd expected to see that much. What I didn't expect to see was a
+pile of brown paper bags piled against the south side of the fence,
+overflowing with recycling and flies. The words NATTY DADDY shouted from
+a blue aluminum can at the top of one of the bags, and a fly plodded
+idly along its rim. I later tried to find out if the intersection of
+Biddison Lane and Forrester Avenue is a designated recycling drop point,
+but nothing I found from Baltimore City Public Works indicates that it
+is.
+
+On the outside of the northwest section of the fence, an intact white
+sink bowl rested upside-down on the sweating cushions of a once-white,
+now-forgotten couch. Grass encroached slowly around their bases. The
+headboard of a bedframe leant over them both, resting against the face,
+and from a distance its shape was not unlike that of a historical marker
+sign. Less than ten feet from it all, tombstones touching one hundred
+years old and more gathered moss. I framed pictures with the household
+bits in the foreground, fence in the middle ground, graves at the back.
+
+There isn't a gate, merely an opening in the fence, and the bags were
+piled in such a way that they didn't block it at all. Access to Biddison
+Family Cemetery is unfettered, though you wouldn't know its name just by
+being there---there's no sign, no marker. You'd have to check Google
+Maps on the site itself to get a name, or perhaps search one of the
+names of the dead. On Maps, you can read all seven of the reviews, which
+average 3.4 out of 5 stars. A couple of them say that the site was kept
+up by neighbors twenty and more years ago, but complain that there's
+been no organized effort in recent years to keep the cemetery clean.
+
+Douglas firs, red maples, and black walnuts grow in and outside the
+cemetery, casting a welcome shade that stands in stark contrast to the
+sunny neighborhood sidewalks. In the thick, humid carpet of Maryland air
+on a summer morning, I was certain it was already in the upper eighties,
+and I was glad of the cover. Swarms of gnats chased each other through
+dusty sunlight.
+
+Before I started scribbling any notes, I texted my mother a screenshot
+of my Google Maps location, explaining where I was---something I'd
+neglected to do when I left the house in the wake of sunrise. The
+unspoken message was: "in case something happens." I knew roughly where
+I was---Bel Air---and I didn't expect anything from this quiet street.
+But I grew up spoon-fed the notion that Baltimore is not safe, so I
+texted my mother.
+
+I knew why I was there: I wanted to write about cemeteries. Mostly
+abandoned ones. I didn't know what I wanted to say yet; I was there as a
+journalist, documenting my own fascinations. Grass and branches crunched
+underfoot as I wandered among the tombstones, and I stepped around a few
+water bottles caked in dirt, plastic crunched into leaves. I snapped
+careful pictures of every headstone, giving special care to the toppled
+ones, the cracked ones, the ones so worn it would be a challenge to read
+the words even with digital enhancements.
+
+Other than the majority of Biddisons, there were Forresters, McCauleys,
+Barbers, a knit set of white families marrying and descending down to
+the most recent: Eva Biddison, buried in 1961. As far as I could read,
+the oldest plot belonged to John L. Burgan, born in 1771 and deceased in
+a year obscured by vines. I thought I read a "15" under the leaves, but
+I didn't want to tear the growth away. I didn't want to disturb anything
+in this still, pocketed breath of space. The decay simultaneously
+saddened and fascinated me, and I saw myself as an observer---a kind of
+journalist---there to document the strange wonder of graves left to
+topple mere yards away from single-family homes built in 1930.
+
+The fencing there seemed almost to have a life of its own---in many
+places the iron twisted and bent in bulbous, wild shapes. At the north
+end of the cemetery, the side facing Forrester Avenue, the fence broke
+away from the northwest corner post and leaned out toward the road,
+leaving a gap big enough to walk through. The buckled metal gestured
+drunkenly toward the street, toward the homes, beckoning me to leave the
+dead and get on with my day. I didn't. Not immediately. I tread back
+among the graves and took more notes, determined to find a story.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+*I respect this place a lot. It is a peaceful place to ride your bicycle
+and enjoy the beautiful pond with deer which regularly can be seen here.
+The graves are well maintained. There is older graves which goes back to
+the early 1911's which is the oldest i have seen. The only problem is
+the roads which are very bumpy and need to be repaved.*
+
+<footer class="blockquote-footer mb-5 mt-0" style="color:#212529"> four-star review for Parkwood Cemetery in Pikesville, Maryland, left
+two years ago</footer>
+
+
+In a different summer, before my senior year of undergrad, I fell
+spiritually in love with graveyards---for the first and only time. On a
+buggy Friday afternoon in late August 2018, a friend invited me to hang
+out as a sort of last hurrah before my fall semester started the
+following week. A self-identified night witch, he owned multiple tarot
+decks and had hexed at least one of his exes. He wanted to show me "his"
+cemetery: Parkwood Cemetery in Parkville, Maryland, a hilly expanse
+holding, I'd guess, at least several thousand graves. The place doesn't
+have a website so I can't even say its acreage, but it's huge by the
+standards of someone who's lived in jammed-up suburbs all her life. This
+was his safe place, he told me. He'd read the cards under the stars
+there.
+
+We meandered through lanes named after trees. Some areas of the cemetery
+were churned-up masses of pale brown earth littered with dirt and rock
+piles, empty work machines left to rest until the next work week began.
+Signs that people still worked there, that others were yet to buried.
+Muddy tire tracks streaked across some of the paved walkways. But it was
+easy, with all the hills and rolls of the landscape, to crest over a
+rise and block the view of these eyesores.
+
+We ended up sitting together under the boughs of a tree I wish I could
+name. There were no plots on this patch of grass, and nearby there was a
+semi-stagnant pond moved only by the spray of a single fountain at its
+center. Charming, but still not otherworldly. I don't know why we
+elected not to sit in the white gazebo at the pond's edge, with its
+dulled white paint and black roof shingles.
+
+We settled into the knotted roots, bark at our backs and hundreds of
+graves rolling before us. We smoked marijuana out of an apple, his idea,
+a feat I hadn't known was possible. As he expertly dug a bowl into its
+flesh with a pocket knife, I watched a man throwing a frisbee to his dog
+the next field over, certain he'd see---what? Two white
+twenty-somethings eating an apple under a tree? I picked at my cuticles
+and waited to get high so that I wouldn't fear anymore. I knew the
+likelihood of a white man noticing two kids smoking, much less doing
+anything about it, was slim to none. Still, I bit my nails.
+
+With a couple of hits, I forgot about the man and the dog and left my
+ragged nails alone. More aware of the wood knots pricking my skin, but
+more grateful for them. The afternoon thickened around us and though I
+don't remember much of what we talked about, I'm certain it was all
+dreamy, dusky conversation about Life. The kind where you're certain
+you've solved the world's problems in the moment, only to find with
+sobriety that you were just high and thinking of society as a sandbox
+dream.
+
+At the peak of my high, I pulled a small lined notebook and a pen from
+my purse and doodled. Many months later, when I wanted the notebook for
+more practical reasons, I ripped out that page and tossed it. I wish I
+hadn't. I wish I hadn't destroyed the wide-eyed deer I drew, its antlers
+mantled in vines and flowers, inspired by the woods behind us and the
+almost godly feeling that made my fingers itch to create.
+
+His cemetery, he said. I wanted to feel it was mine, too.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+*No more deep lines for the / Marble brow, / Do sorrow no bitter
+awakening /Now, but the strife and pain / And grief will cease, / For
+nought can disturb that / "Perfect peace.*
+
+<footer class="blockquote-footer mb-5 mt-0" style="color:#212529; text-align: right;"> epitaph for Rev. Thomas W. Brown, buried in Biddison Family Cemetery <br />
+Born Aug. 16 1837, Died July 30, 1917 </footer>
+
+
+Biddison Family Cemetery is in the Waltherson neighborhood of Baltimore,
+consisting of some 2,500 homes with a reported population of 6,965
+people, which astounds me. It's about 0.657 square miles of Baltimore,
+and when I look at a map of its streets it just doesn't make sense that
+so many people fit there. The houses I saw on those streets were mostly
+smaller, three bed, two bath, and when I pulled up before 8:00, they
+were mostly still blanketed in sleep. The Amazon truck and the woman who
+greeted me were the only signs of waking life.
+
+At the time I visited in July, only fourteen of the neighborhood's homes
+were listed on Zillow as foreclosed or in pre-foreclosure. The highest
+listing price for any home was 270k, the lowest 130k. It's a 67%
+majority black area with a pretty even distribution of all age groups,
+and apparently a lot of dog walkers. It's a quintessential "nice, quiet
+neighborhood" in a city, really---what real estate sites might call
+"sparse suburban," a phrase that makes me feel a bit twitchy. But jargon
+aside, it *was* nice, and even if anyone had been awake to see me poking
+through the Biddison Cemetery, I truly don't think they would have
+cared. I'd been taught to feel instinctively nervous in most parts of
+Baltimore, but neither the dead nor the living there made me feel
+afraid. I was discomfited by graves left to crumble in the middle of the
+suburbs, but that discomfort was, at first, academic.
+
+In sobriety, I don't consider myself religious/spiritual. I feel totally
+at peace among tombstones because I believe the dead are fully,
+completely gone. I'm deeply skeptical of ghosts, don't truck with
+demons, and refuse to believe in an afterlife because the concept of
+eternity terrifies me. I'm not really that afraid of death; I fear the
+pain that may accompany dying, not the departure. I walk through a
+graveyard and though I know each grave may come with its own story of
+grief, I'm happy believing that the dead are free of that pain. I'm
+happy knowing the living have a place to visit and process their losses.
+
+Those hard lines started blurring for me in Biddison. It was harder to
+tread clean lines around graves when at least half the stones had
+cracked from their foundations and lay in the grass. It wasn't fear or
+superstition that pricked the back of my mind---it was not knowing where
+grave boundaries were. Every spare inch of earth could have been a
+resting place. Time had taken over and no one had stepped in. As I
+studied names from the 19th century and tried to find a narrative, the
+research corner of my mind kept asking---why *had* they been left
+behind?
+
+Graveyards can be exhumed because city planners approve construction
+projects on sites with cemeteries, and the bodies must go. Or,
+construction workers are laying foundations and discover human remains,
+which calls up legal questions about how to handle unidentified,
+unexpected bones. Flooding can churn up the earth and send coffins
+floating down streets, and plots are moved to higher, drier ground. And
+in some cases, historical cemeteries are moved and preserved because
+they can be better maintained in a different location.
+
+That last reason likely comes with a much higher bill than the others.
+State laws on moving graves differ. For much older sites, or for ones
+with possible historical significance, dig teams might be legally
+required to bring in a team of archaeologists before anything can be
+reinterred. They have to carefully disinter and catalogue each remain
+and stone and submit a report of findings. All of these people get a
+paycheck.
+
+In the case of the Biddison Family cemetery, it would probably have
+fallen to one of the family to foot that expense if they'd wanted to
+take their ancestors elsewhere. Eva Biddison was the last to be buried
+in the cemetery in 1963, and the last of the family estate was sold off
+around that time. I can only assume the rest of the Biddisons had
+already scattered. That would be no surprise---a lot of white people
+left Baltimore in the 1960s and 70s, as industrial jobs collapsed and
+families fled for true suburbia. As the city changed around the
+cemetery, somebody would have had to step in to see it maintained over
+the decades. There were apparently no Biddisons left to do it, no
+McCauleys or Forresters, or if there were, they didn't care to.
+
+Human remains, by right, belong to next of kin. When the last of the
+Biddison estate was sold off, the family had no property claims left in
+Baltimore, but I wonder if they could have made claims for the bones or
+for the headstones. I wonder if they would have wanted to foot that
+bill, or if they couldn't afford to.
+
+I don't know who actually owns Biddison Family Cemetery, but at first,
+that didn't bother me. I was fascinated that centuries of history could
+fall apart, with only a badly warped fence and some bags of recycling as
+a barrier between graves and Amazon delivery trucks. I wanted someone
+else to appreciate the romance of old tombs with me.
+
+I'm happy believing that graveyards are spaces for the living, spaces
+that invite contemplation and a suspension of whatever business haunts
+us outside. I still prefer to walk between graves rather than cut across
+them. But that's out of deference to how American society regards
+graves, not out of my own superstition; as far as I'm concerned, the
+dead are dust. Yet I still keenly felt the lack of care in each broken
+headstone at Biddison, because that meant the living had given up on
+them.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+*Played in this cementary in the 60s.Love the old tomestones.Wish I knew
+more history of the area.I grew up in Gardenville and remembet the old
+mansion on Biddison Lane before it burned down.I heard from some of the
+older residents that it was farms and the Biddisons and Foresters owned
+alot of the land.I knew Mr.Buck Henninger whose wife had been born in
+their housr on Belair & Biddison Ln.She remembered when Belair Rd was a
+dirt road and a stream went thru it*
+
+<footer class="blockquote-footer mb-5 mt-0" style="color:#212529"> five-star review of Biddison Family Cemetery, left three years ago</footer>
+
+At home in the safety of my computer chair, doing site research about
+Biddison Family Cemetery, I ran into a problem.
+
+There was nothing interesting to say about it. Not from a historical
+perspective, anyway.
+
+There were a couple of factoids I thought I could spin into a narrative.
+One of the oldest Maryland Biddisons, Abraham---born 1789, died
+1834---owned the land between what we now know as Harford and Belair
+Road. A piece titled "Men in the Street: The Biddisons" from the
+February 5, 1950 edition of the *Baltimore Sun* alleges that Abraham
+allowed Native Americans to pitch tents on his land and use the springs
+as they passed through. It's a nice thought.
+
+Abraham's son, John Shrim, was allegedly such a strong Confederate
+sympathizer during the Civil War that he was locked in Fort McHenry in
+Baltimore for its duration. He was described as an "unconstitutional
+rebel" right up to the end of his life, in either 1895 or '96. John S.
+Biddison, his grandson, was a Maryland State Senator.
+
+But none of these items made the story I wanted, was convinced I'd find.
+I let snippets and paragraphs gather dust after hours spent poking
+through online archives of *The Baltimore Sun,* searching keyword
+"Biddison" and begging for something amazing. I tried the essay again
+from a different angle, writing about Baltimore City itself, and that
+didn't work either because I don't entirely belong to it. I've lived
+outside it all my life in the cushion of majority-white suburbs. My
+childhood and teenage trips there were limited to art museums, concerts,
+and the Inner Harbor. I love Baltimore, but that love isn't colored by
+enough personal conflict to make a point.
+
+I wanted, I think, the mysticism I felt inside a tunnel of grave
+markers---I wanted to convince myself of spirits and lost, transcendent
+history. But if the trick to that is apple smoke and buying into
+ideologies that aren't mine, I can't touch that place again.
+
+The inhabitants of Waltherson, specifically on Forrester Avenue, may
+enjoy the cemetery for the bit of green space it offers. Or, they may
+consider it an eyesore. But its history isn't their own. I may love the
+trails of moss on weathered stone and grieve for cracked epitaphs, but
+no one else has to. The white family that once owned all the land of the
+neighborhood, centuries ago, pulled up their roots and left bones
+behind. The people who live there aren't obligated by any law or
+emotions to take care of that green space.
+
+Cemeteries are businesses. Groundskeepers, office workers, funeral
+directors. There is a cash flow to keeping weeds away from grandparents'
+graves, to renting the forklifts that lower caskets into the earth.
+There is no money in maintaining Biddison for the people who live on
+Forrester Avenue, there are no emotional ties. There are only two
+reasons, I think, that anyone in Waltherson might begin to bother about
+Biddison: general respect for the dead, and that it's an eyesore.
+
+Neither of those motivations seem to be strong enough---at least right
+now. The more I dug and twisted into Biddison's existence and
+abandonment, the more I kept asking myself: why should they be?
+
+Respect for the dead is for the benefit of the living, I think. Don't
+speak ill of the dead. Don't walk over someone's grave. It's beautiful
+to honor someone's passing and to continue to honor their memories; that
+is a very personal responsibility. But in public and privately owned
+cemeteries, we've opted to share that responsibility; we've created
+strange gardens that depend on employed personnel to function. Our
+deceased have to go somewhere.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+*My dad was buried there 8 years ago. The forklift battery was not
+charged the night before. My fathers casket swayed in the air until my
+husband assisted to fix it.\\
+My mother's chapel ceremony was yesterday. We followed the office
+personnel along with visitors for the burial, following a car which
+advertised "chocolates and nail salons" down to the chapel. So
+unprofessional. They did not even have a professional vehicle. We could
+not drive to the sight, because the roads were so muddy. We had to walk
+from the chapel to the burial area....\\
+I will look into having both my mom and my dad removed from this
+cemetary.*
+
+<footer class="blockquote-footer mb-5 mt-0" style="color:#212529">partial one-star review for Parkwood Cemetery, left five years ago</footer>
+
+My comfort in graveyards, I now realize, depends largely on their sense
+of order. I love the abandoned ones, but they set me vibrating with
+curiosity and a desperate need to search old census records---less
+peaceful, more manic. The peace of lines upon lines of headstones,
+dotted with flags and flowers rustling in quiet breezes, depends upon a
+clear line of ownership. A state, a church, or a private company owns
+and maintains a graveyard, creates a deliberate atmosphere, cultivates a
+place of rest and contemplation. Groundskeepers pull weeds, trim hedges,
+keep nature at bay so that the names of the dead stay prominent.
+
+And when they don't, people complain. When I began my cemetery project,
+it struck me as almost funny that you can review a cemetery in the same
+way you do a restaurant, a store, or a doctor's office. But of course,
+death is a business. It makes sense.
+
+On that evening in Parkwood Cemetery, I thought I touched something
+transcendent. Sitting next to a self-identified witch, drugged thoughts
+chasing my pen, I was special, gleaning insight from the dead. I was
+scribbling their last names in my notebook in the hopes that later, I
+could use those names in stories. I didn't have cuticle skin in my teeth
+anymore. Now, I don't know if I actually understood what he meant when
+he said Parkwood had a safe, welcoming energy to it---that the spirits
+there were friendly---or if I was just riding his wave for a little
+while. Either way, I was gloriously alive.
+
+We eventually brushed the dirt from our legs and went walking as the sun
+set. I scratched more names into my notebook as evening draped around
+us, telling my friend that I was sure to write something with those
+names soon. I never have. I tore out the list along with my doodles.
+
+We wandered to the memorial wall for veterans and a tunnel that had
+arches at either end. Their wrought iron gates were unlocked, the bars
+threaded with bouquets of flowers, and we slipped through along with
+shafts of gold-orange sunlight. The walls there are squared off with
+dozens of names, each section with a small iron ring in the bottom right
+corner that is tempting to yank even though the stone is all sealed. I
+still don't know if the sections hold ashes, coffins, or nothing.
+
+My friend insisted that the energy in there felt wrong almost
+immediately. He waited for me outside while I turned in circles and took
+pictures. Then I agreed that I felt an unwelcome, clammy sense of
+darkness where I stood---I conceded to a spiritual energy that didn't
+even make my hair stand on end, and I left. I still have those pictures.
+There's nothing sinister to me now in sunset light over the names of the
+dead; I agreed because I was coasting down the tail end of my high and I
+wanted to hold onto a mysticism I could already feel fading. In truth, I
+could have stayed there until darkness and felt perfectly safe. But
+then, I would have been the logical, easy skeptic, and I didn't want
+that. I wanted the magic.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+*I went to visit my grandparents today after not being on the state for
+a few years. The graves are so overgrown and unkempt that I could barely
+find them. Others have all but been taken back by the weeds and are
+completely buried. It's disgusting. I shouldn't have to dig my
+grandfather's grave out from under weeds!*
+
+<footer class="blockquote-footer mb-5 mt-0" style="color:#212529">one-star review for Parkwood Cemetery in Pikesville, Maryland, left two
+years ago</footer>
+
+
+I've returned to Parkwood Cemetery several times since that high August
+night. My college campus is less than fifteen minutes from the grounds,
+and on a few days when I had many hours to kill between or before
+classes, I went there to wander, read, and decompress on my own.
+
+Though my friend called Parkwood "his," it's privately owned. On my
+sporadic visits I see the evidence of that---the construction machines,
+the lack of dead bouquets around graves. Whether it's owned well is
+another matter. Quite a few people are indignant about the treatment
+they've gotten from the office staff, the way their deceased relatives
+were handled, the way the grounds are maintained.
+
+They have someone to complain to. Even if those complaints are never
+resolved, there is a chain of command and ownership towards which the
+bereaved can direct their anger.
+
+Biddison lacks such a steward. People still complain about the place,
+but to no one. The keepers of that cemetery are long gone, and with
+that, they gave up taking care of their families' graves, and the
+stories that went with them. That responsibility, I guess, doesn't just
+pass on to the next people, the ones who happen to live nearby. I can
+try to dig a story from the cracked stones left behind. I can grieve for
+the neglect and wish others would care, but in the end, the romantic in
+me concedes to the logical. There isn't, I think, any inherent
+spirituality in an abandoned grave or an intact one---Biddison just lost
+the people who cared for it, and so the graves lost their importance. No
+one to foot the bill for cleaning the graves or removing the bones.
+
+The last time I went to Parkwood, it was on a brisk day in late February 2019.
+Warm enough to be outside with a coat and gloves on, but nippy enough that my nose still turned red and got runny. I had a couple of
+hours before my evening graduate class about the theory of creativity.
+So, I bundled into the gazebo that my friend and I had scorned on that
+night and I read the assigned essays for the night on my phone, but not
+before drinking in all the names and jokes that had been scribbled and
+carved all over the gazebo's benches and beams. How many couples had
+kissed here, giggled here, whispered in sunset light? Or how many strays
+like me had wandered in and left a name just to prove they were there?
+
+When I got too chilly to stay sitting, I creaked to my feet and began
+the walk back to my car. At the top of one of the hills, I looked down
+saw a fleet of cars parked on an empty stretch of grass, a white tent,
+and a huddle of people in black. Under the gray sky, I watched. I felt
+no grand sense of spiritual communion, no sense that my soul owned a
+part of those grounds. The haunting strains of Taps lofted up to where I
+stood, and I was rooted to the spot long after the last trumpet note
+died away.

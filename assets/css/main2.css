@@ -214,6 +214,9 @@ p.entrytitle {
 p.poemline {
   margin-bottom: 0rem;
 }
+.nick p {
+    margin-bottom: 0rem;
+}
 .reidel-open {
   text-indent: 3rem;
   font-style: italic;
