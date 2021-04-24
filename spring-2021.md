@@ -80,8 +80,8 @@ height: 418
 
 	<div class="row">
 	  <div class="col-md px-4 px-md-3">
-		<img src="{{ '/assets/img/spring2021/garden.jpg' | prepend: site.baseurl }}" class="img-fluid rounded" alt="Art by Ed Becker"/>
-			<footer class="blockquote-footer mb-3"> <cite title="Source Title">Garden of Earthly Delights</cite> by Ed Becker.</footer>
+		<img src="{{ '/assets/img/spring2021/garden.jpg' | prepend: site.baseurl }}" class="img-fluid rounded" alt="Art by Ed Ramsburg"/>
+			<footer class="blockquote-footer mb-3"> <cite title="Source Title">Garden of Earthly Delights</cite> by Ed Ramsburg.</footer>
 	  </div>
 		<div class="col-md px-4 px-md-3">
 			<p class="mb-3  entrytype text-danger h3">Interviews</p>

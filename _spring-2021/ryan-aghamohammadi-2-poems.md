@@ -1,46 +1,16 @@
 ---
 layout: poems
 tags: [poetry]
-title: 3 Poems
+title: 2 Poems
 author: Ryan Aghamohammadi
 excerpt: ... Answers are means of filling in blanks // until we die ...
 date: 2019-06-06
-description: 3 poems by Ryan Aghamohammadi—Back to Rats, Gawain, Blank Ghazal<strong></strong>
+description: 2 poems by Ryan Aghamohammadi, Gawain, Blank Ghazal
 issue: spring-2021
 image: '/assets/img/spring2021_og/aghamohammadi.jpg'
 width: 640
-height: 417
+height: 425
 ---
-
-## Back to Rats
-<div class="stanza">
-<p class="poemline">Felt a little sick to my stomach. Slept in jeans.</p>
-<p class="poemline">I brushed my teeth with ginger ale and found a rat</p>
-<p class="poemline">behind the couch. My mother told me about a killer</p>
-<p class="poemline">who hid his bodies in the river. Rats like water too,</p>
-<p class="poemline">didn’t you know? I too want to die and go out swimming,</p>
-<p class="poemline">flotsam along the stretch of forested interstate highway.</p>
-</div>
-<div class="stanza">
-<p class="poemline">We went for a ride. A sign for a travel agency read</p>
-<p class="poemline">PLEASE GO AWAY. I wanted to say LET’S PULL OVER</p>
-<p class="poemline">AND STAY but nothing came out of my mouth except</p>
-<p class="poemline">some Orbit. An ex-friend said no one really cares</p>
-<p class="poemline">about the dead. I was so mad I left the cafe.</p>
-<p class="poemline">My family never stops talking about the dead. I never</p>
-</div>
-<div class="stanza">
-<p class="poemline">learned to shut my stupid mouth so now I’d like</p>
-<p class="poemline">some duct tape. I wish I knew the difference between</p>
-<p class="poemline">really liking someone and hoping they won’t die</p>
-<p class="poemline">but, then again, who really gets to decide that?</p>
-<p class="poemline">It’s the same with rats. There’s some ballet about a princess</p>
-<p class="poemline">who hit a rat king with a slipper dead. I laughed.</p>
-</div>
-
-<figure class="my-5 py-3">
-  <img src="{{ '/assets/img/seperator.png' | prepend: site.baseurl }}" class="d-block" style="max-height:15px;" />
-</figure>
 
 
 ## Gawain
