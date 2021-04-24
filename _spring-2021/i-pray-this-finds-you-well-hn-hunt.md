@@ -1,0 +1,579 @@
+---
+layout: posts
+title: I Pray This Finds You Well
+description: A short story by H.N. Hunt – I Pray This Finds You Well
+author: H.N. Hunt
+tags: [fiction]
+excerpt: ... Our ship departs today for what the captain assures us ...
+date: 2021-04-06
+issue: spring-2021
+image: '/assets/img/spring2021_og/hunt.jpg'
+width: 640
+height: 426
+---
+
+June 9th
+
+Dearest Evangeline,
+
+Our ship departs today for what the captain assures us will only be a
+six month voyage. I have my doubts but I am not the captain and though I
+am to be the bosun, my word counts for little around here.
+
+I cannot promise how often to write. Several of my shipmates have
+learned I can write and I fear I am to be press-ganged into handling
+correspondences for them. I think I am the lesser of all evils insofar
+as they are concerned.
+
+That brings me to our crew, I suppose. As you know this is to be my
+first trip with this captain. I think him too optimistic and the first
+mate too quick to jump to punishments. I shall be the one doling out
+these punishments and with any luck the captain shall temper them.
+
+I have walked the ship and find her well provisioned though that is not
+my jurisdiction. Still, the state of provisions is important and I am
+pleased to see them so well handled. I have met most of the crew, minus
+the few late arrivals that the captain and the first mate are
+negotiating for.
+
+Tomorrow it shall be six months behind the mast though as I have said I
+hold reservations in regards to this. We make for the land they call
+Tierra del Fuega and I must admit it has an ominous ring to it. If our
+trip is successful, we shall reconnoiter with the Essex, a goodly ship
+from Nantucket and already held lucky in the eyes of those that sail
+her. From there it shall be exchanging supplies for her repair and then
+we shall set sail to return home.
+
+The ship, the *Angelis* is a goodly ship herself though this shall be
+her first voyage. I attended the christening ceremony yestermorn and it
+seemed half of Boston turned out to see her. I hope to bring you to
+Boston on my safe return. You shall like it here, I am sure. The town is
+growing though not yet at the rate of our home. They are a close
+community here but I have found they are not as suspicious of outsiders
+as I have found Nantucket to be. I think we will enjoy a life together
+there. I know it, Evangeline.
+
+I do worry for you but I shall write you as often as I can. I think of
+you often and I only wish I could have arranged for you to come here
+sooner. I wish I might have seen you and you might have seen me off. I
+shall think of you whensoever I might be able to do so without
+jeopardizing the safety of the ship.
+
+All my love and ever yours,
+
+Seth P. Kilcuddy
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+June 12th
+
+Evangeline,
+
+The crew has settled into our tasks. The first few days were more spent
+in moments of confusion than was necessary. The green hands have taken
+to the work well but there is always an adjustment to be made. To
+summarize, I have spent much of my work time and free time as well
+assuring myself that this crew shall be up to the tasks we have.
+
+There is not much I can tell you for nothing much has happened. We lost
+sight of land for the first time yesterday. We still follow the coast
+but we have moved further seaward to avoid the congestion of the
+traditional lanes. The moment was a trying one for the greenhands, who
+have never been so far asea. But there is promise amongst them and I
+feel confident that they shall work themselves out.
+
+The waters are good and the winds are better. We are making better time
+than we hoped and the captain waxes enthusiastic. The first mate is less
+pleasant but thus far I have not had much chance to run across him.
+
+I must get back to work but as always I shall think of you whensoever I
+may. You remain the light in my life and I count the days until we might
+be together again.
+
+My love eternal,
+
+Seth P. Kilcuddy
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+June 18th
+
+Dearest Evangeline,
+
+We have lost sight of land these seven days. The crew grows restless but
+that is to be expected at the start of a voyage. My services as one that
+metes out punishment have not yet been employed though I can see that
+there is discontent between the captain and his first mate. There has
+been no cause to hand out punishment and thankfully they both appear to
+agree on that though I have seen them argue between themselves when they
+feel they are not being observed.
+
+We saw our first blow. Big sperm whale, bull if I know my marine life.
+If this ship were equipped for such, I have little doubt that we would
+have gone for it. As such we took down the coordinates, prepared to pass
+them to the next ship we hail. I feel the captain would best like to
+hand off to a ship from our own company but the state of things such as
+they are, we are most likely to give over to the first we make contact
+with.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+June 19th
+
+I intended to finish this yesterday but we made contact with a ship and
+I regret that the events took a morbid turn. I hesitate to tell you of
+this but you have oft told me how you long to know everything and I fear
+I must mix the unhappy with the rest.
+
+The ship we hailed was a frigate out of the Southern Americas. The
+captains met and came to ours to have a meal as is custom. The captain
+spoke our tongue quite well. His crew was less educated in the English
+language but many were versed enough that we of the crew had pleasant
+repast. The crew were fun loving and joked of both their lack of
+understanding and our limited understanding of their own language.
+
+I say they were fun loving and that was true but for one man. He was
+smaller than his comrades and he seemed strangely withdrawn, as if there
+were something he were thinking of. Knowing how readily my own mind
+turns to you, I merely attributed it to a certain lovesickness. From his
+comrades I was able to determine that he had come from another ship
+which had befallen misfortune. He would have been considered unlucky in
+our own standings but though his shipmates spoke quietly to him as
+though he were a beast and they afeared of spooking him, they treated
+him with no other noticeable difference.
+
+Our young greenhand, Francis Morgan whom I have been writing letters
+for, took it into his mind to befriend the sailor. I did my best to warn
+him off. I do not always believe in the superstition that a sailor from
+a ship that ran across misfortune is now cursed but there was something
+oppressive about the man.
+
+But Morgan spoke a smattering of their language and tried to draw the
+man out. I do not know all of that which was said but it seemed to
+disturb the man and that in turn rubbed off on young Morgan.
+
+I thought little of it but considered talking it over with Morgan once
+we had a few more days at sea. He would earn himself no friends by
+consorting with a 'cursed' sailor.
+
+That is unfortunately not the end of our interactions with the ship.
+Once the captains had separated we remained moored close to one another
+through the night. Morgan was on the night duty and the next morning he
+told us a story.
+
+He claimed that just before dawn, he saw a figure leave the other ship.
+He says it dropped into the ocean as surely as if it jumped. He raised
+the cry and I was among the first to respond. Our sister ship had
+unmoored and was sailing off, too far gone to make a proper
+communication. We put down three of the lifeboats but no sign was found
+and Morgan was the only to have seen whatever there had been to see.
+
+I try not to cast suspicion on men but I understood some of what he and
+the South American had spoke of yesterday. Enough to understand that the
+foreigner had been convinced of something evil following him and enough
+to understand that he seemed convincing. I worry Morgan was influenced.
+He is young and he is new. I hope to have a talk with him before he can
+get his head too far into his own fancies.
+
+If the man did leave the ship, there is no way to prove it. The sea
+takes as she will and I for one have doubts as to what happened. But it
+will be best if Morgan keeps what he thought he saw to himself.
+
+I miss you terribly, my love, for I know you would know best how to
+handle this. You have always been a steadying point. As always I think
+of you and miss you more with each moment we are apart. I will send you
+these as soon as possible and I look forward to hearing from you
+whensoever you have the time.
+
+All my love and yours eternally,
+
+Seth P. Kilcuddy
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+June 25th
+
+Dearest Evangeline,
+
+There have been disturbing developments and I hesitate to write to you
+under these auspices but I must have this down on paper or I fear the
+record will be distorted. I know what I feel now and I know what I have
+seen but I fear how perceptions may change for me if things continue in
+this vein.
+
+It has been a hard week for us. The sea is not forgiving. As you may
+imagine, it was all surrounding Morgan. I made an effort to talk to him
+in regards to what had happened with the South American crew but every
+time I attempted to do so, something more pressing arose. Morgan grew
+more sullen and distracted. I attempted to draw him out but he showed
+little desire. As you know by now, I had been writing letters for him
+and it was through that that I was able to determine what has been going
+on with him.
+
+In his most recent letter, written for him three days since, he seemed
+to be bidding goodbye to his fiance. It concerned me and I spoke to the
+captain of it. Unfortunately, the first mate insisted on being brought
+in as well. As you know, I have my reservations about the first mate.
+
+Morgan was asked to meet with the captain in private. I requested
+permission to attend, hoping to be able to provide witness for the young
+man's character. I felt I knew him well after so many letters penned on
+his behalf. The captain agreed but to my displeasure, allowed the first
+mate in as well.
+
+"Morgan," the captain says to him once we are all seated. "The bosun has
+raised some concern for you. He feels that you may be suffering from
+depression and are considering something unfortunate."
+
+"It is nothing," Morgan said. Now that we were in close quarters again,
+I could not help but be impacted by how changed he was from our first
+acquaintances. Then he had seemed pleasant and approachable and
+optimistic as the captain. Now he seemed withdrawn, sullen and morbid.
+There was darkness in his eyes and I was sad to see it.
+
+"The crew seems to have noticed this as well," the captain said. "There
+is unhappy talk going around about you, Mr Morgan."
+
+"What talk?" I asked. This was new information as far as I was
+concerned.
+
+The captain looked at me with concern but the first mate appeared
+irritated. Myself, I just wished to know the full extent of what was
+happening with Morgan. As I have said, he did not seem a bad fellow and
+I hoped this, whatever it might be, was merely a passing inconsistency
+with him.
+
+"Mr. Morgan, it appears, has become convinced our trip is cursed."
+
+I do not need to tell you how quick and devastating a claim like that
+can be. My mind flashed on the South American whom Morgan had conversed
+with during the meeting of the captains. I thought on how he had looked,
+a haunted, distraught look. It was, I came to realize in that moment,
+very much the way Morgan looked now.
+
+"This is a cursed voyage," Morgan said. He spoke with conviction and I
+felt my skin grow cold at the words. I understood how terrible a claim
+like that could be.
+
+"That sort of talk is dangerous," the first mate said.
+
+"It is the truth," Morgan said. He began to talk, his words rambling yet
+somehow convincing. He spoke of the sailor, the one who had purportedly
+jumped into the waters. He spoke of a dark shape he had come to
+understand was following the ship. He spoke of noises heard late on
+watch, when the stars and the rear lanterns are all the light in the
+world. I could have found myself believing them.
+
+It seemed to cast a spell against which the captain and I were both
+helpless but the first mate was not affected. As Morgan waxed poetic,
+the first mate slammed his fist against the table and cut off the
+ramblings.
+
+"This is enough. This is fear mongering and there will be none of this.
+If you cannot keep this talk under wraps, you will be removed from duty,
+sequestered to the brig and when we go to port, you shall remain there."
+
+It was as if the captain and I had both come out from a fog bank to see
+a sheer cliff before the helm. We stared at one another in horror then
+our captain seemed to collect himself. Morgan closed his mouth and would
+say no more. The captain to both my surprise and relief, did not berate
+the first mate nor did he refute the man's edict.
+
+This was several days ago and I have not heard from Morgan since. It
+would surprise you how readily one can lose track of another sailor upon
+a ship. For my part, I have tried to keep the event from my mind but the
+first mate continues to look about with serious mien and I do feel
+concern for Morgan. To be sure, his claims would ruin this voyage, be
+they true or just fanciful ramblings.
+
+I know of little else to tell you. The first mate has not had to carry
+through on his threat and it seems that this is to be the end of it. I,
+for one, am glad to see the last of this lunacy.
+
+Always and eternally yours, in everything I do,
+
+Seth P. Kilcuddy
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+July 1st
+
+Dearest Evangeline,
+
+It has been almost a week since the last instance of disturbance and I
+yearned to write sooner yet circumstances have but deteriorated. We put
+into port in Virginia. At that time, Morgan had been quiet, his shifts
+seemingly uneventful. In light of recent occurrences, the captain has
+agreed that I should take over his night watch but I am coming to that
+shortly.
+
+Morgan was as peaceable as you please when we came to port. I was
+surprised to note there was very little hostility held against him amid
+the crew. I have seen a crew turn on a sailor they consider unlucky,
+culling him from the herd as surely as a farmer will butcher an extra
+rooster. Yet our crew seemed almost indifferent to this man and his
+superstitions.
+
+So it seemed as though the danger of Morgan was passed. There were no
+desertions at Virginia and the new supplies were well received. We heard
+of the South American ship we had passed but it was nothing more than
+expected.
+
+We left port in good spirits. Even the surly first mate was calmed and
+seemed to have his bearings once more.
+
+That lasted not nearly long enough. By the end of our second day to sea,
+we had once more lost sight of land and a change came over Morgan. He at
+once withdrew but this time he took with him several of the other crew.
+Primarily two of the greenhands whom I had been writing letters for. As
+with Morgan, they requested one last letter a piece from me and the
+subject and dictation was similar to that which Morgan had insisted I
+put to page for him.
+
+This alone was disturbing enough but I chanced to hear some of what was
+exchanged between Morgan and one of the senior crew. The gist was much
+the same as it had been when Morgan spoke to the captain and I. As
+before I found myself falling under the spell of this skilled orator.
+Much of what he spoke of seemed natural to me. I myself had no stomach
+for the art of whale killing and I found that his argument that our
+mission to further such a craft was wasted, this I found compelling
+though. I had seen the wonder of the whales with my own eyes and had
+seen the carnage left in a ship's wake following the butchery.
+
+But under the same thoughts I had others, ones I had long used to
+justify the work being done at sea. This is necessary, is it not, my
+darling? We have need and needs must be met. If there were an
+alternative, I am confident it would be found and will be found.
+
+It seems to me, writing this now, that perhaps Morgan's words were not
+entirely the same as they had been that day in the captain's quarters.
+Then he had talked of the dark shape following the ship and he spoke of
+it again on this occasion but it seemed more of an afterthought this
+time. His focus appeared to be on the evils of the whaling industry and
+how in making this supply run, we were extending the reaches of that
+evil.
+
+It was dangerous, nearly seditious talk yet I could not bring myself to
+report it. I knew full well that I should. Yet it held me in its sway as
+surely as if the world had stopped.
+
+As bewitched as I was or perhaps still am, I did come to Morgan the next
+day hence and bade him cease such talk. He treated me with pity and I
+found my temper, which you know well is rarely brought to fruition,
+rising and vain did I attempt to curb it.
+
+I felt the desire to distance myself and I did so, moving to the aft of
+the ship. 'Twas day and a cold, overcast one at that. No storms yet rose
+upon the horizon but the air tasted of them. I stood at the rear of the
+ship and did my level best to temper my growing irritation. As I did so,
+I happened to look down into the water. It appeared darker than it
+should but I turned to see the sun behind me. I had but been seeing the
+shadow of the ship.
+
+I told myself this many times over the days that followed but always I
+found myself at the rear of the ship, looking into the water for
+problems I should not search out.
+
+I have done everything I know to dissuade this feeling and I can think
+of nothing else so I have requested permission to switch shifts, to work
+the nights. The captain was pleased by it and allowed it readily. The
+first mate has approached me in regards to it as well, saying he
+believes that Morgan is talking with the others, trying to form his own
+following. I cannot imagine what for as Morgan still seems to think the
+ship and all its crew should merely set for land and never return.
+
+I grow concerned about this trip, my darling, but I do not say this that
+you might worry. The ship is well provisioned and we are making good
+time. I received your letters in Virginia and have sent the most recent
+to you. I am glad to hear things are progressing so well with your
+learning and I look forward to hearing more about it in detail when next
+we meet.
+
+Yours eternally,
+
+Seth P. Kilcuddy
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+July 12th
+
+Dearest Evangeline,
+
+We are becalmed. It has been three days since the winds last rippled our
+sails and I fear it will be more still before we are moved to action.
+The captain continues to display his optimism and I fear it is growing
+stale with the crew. There have been no fights but sullen behavior and
+surly looks are all too common.
+
+Morgan has kept his head down and for that I am thankful. Yet even with
+his head down and his mouth shut, the greenhand is attracting attention.
+Others have gravitated to him. I see them with him on the nights, a
+cluster around the fore while I remain at the stern. I try not to but I
+still look for the darkness in the water I noticed near a fortnight ago.
+Still I see it, in darkness and in light, an amorphous shape that flows
+along behind us. Once we had a good headwind and the shape dropped
+behind for some length of time, perhaps three, at the most four bells.
+
+I no longer think it merely a chance shadow, though we do continue at an
+eastern heading, which would put the light before us during most of the
+day. But the shadow lingers into the evening and at night it is black as
+tar. I do not know what it might be. I know marine life but this is
+nothing I have seen before in all my years before the mast. It moves not
+like a whale nor a shark and tis too big to be anything else, save a
+school of fish. Yet why follow us at all, were it any of those?
+
+I cannot long stay with that vein of thinking. There might be reasons
+but none I am willing to acknowledge.
+
+The captain is sure the calm will break. I feel there must be a break or
+something of that nature. I am not given over to superstition yet I feel
+that this is an unnatural calm. We are far from the normal trade routes
+yet though the trade winds are far, far away, there ought to be
+something. Storms ravage these waters and though I am told they are not
+due for months yet, the other veteran sailors act ill at ease when we
+speak of these things. The captain refuses to acknowledge it and the
+first mate grows tense if it is mentioned.
+
+I do not know when next I shall write. Many of the crew have forsaken my
+services as a scribe and more of them flock to Morgan and his words.
+
+Yet I find it difficult to write. Even with the free time I am allotted
+during this calm, I find myself drawn to the stern, standing at the
+aftmost stance and staring down into the waters. I do not know what it
+is down there but sometimes I can imagine ~~squidsharkwhalefish~~
+
+~~Men~~
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+July 20th
+
+Dearest Evangeline,
+
+We are yet becalmed. The mood on the ship grows more terse and yet the
+feeling of discontent comes not from the captain nor Morgan nor his
+growing following. It comes from but one source. The first mate. He has
+grown suspicious and talks little to Morgan or the others. I am one of
+the only that he will converse with.
+
+To be honest, I find the entire thing tedious. Stores are running low on
+the ship and I cannot see how any of the crew may fix it. We were meant
+to be in Jamaica by this date and we had not provisioned for more than
+such. Indeed, it seems some of our stores are wearing out faster than
+others. Clean water remains abundant, thank the heavens but our stores
+of salt tack have been depleting at an alarming rate.
+
+Morgan comes to speak with me as well, in the moments before dawn, when
+by some trick of the light, the lights at the rear seem to be entirely
+extinguished and the stars have faded in the faintest glow of the coming
+day. He talks little but it is always of the shadow in the water. He
+seems to understand what the shadow wants of us yet he will not say.
+Merely he asks for confirmation that I too see the shadow. I do not know
+why I am so reluctant to give this confirmation to him.
+
+I meant to finish our last letter but I fear I must leave this one as
+inconclusive as the first. Night is fast approaching and I must be at my
+post. I do miss you terribly and wish you were here. These are long
+nights ahead.
+
+Eternally yours in love,
+
+Seth P. ~~Morgan~~ Kilcuddy
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+July 25th
+
+~~This shall be my last letter~~
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+July 26th
+
+Evangeline,
+
+I have learned more of the shadow. I cannot bear to repeat all nor even
+any part of that which I now know. I know what I must do and none may
+stop me. I pray you can find it in yourself to understand what I do now.
+It must be done. I understand why I have been chosen and there is
+nothing left but to do what must be done. Do not think me cruel. I pray
+you go on with your life. I am sure you won't find me too difficult to
+miss.
+
+Seth P. Kilcuddy
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+August 1st
+
+From the Logbook of Joachim Hernandez, Captain of the USS *Terra Nova*
+
+Rose with the dawn. Good winds to see us north once more. Shall need a
+new sexton once we put to port. Mention this to Kinsey. Traveled north
+at a stately clip. No land yet sighted.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+August 2nd
+
+Ship spied on the horizon. She does not seem to move much and appears to
+be flying the US colors though from our distance it might well be the
+British. Shall see about hailing her come the morning.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+August 3rd
+
+The ship did not move. She is called *Angelis* and we have tried to hail
+her but no response immediately. Later. Boarded the ship. Only one man
+alive, a fellow named Cuthbert. Claims to be the first mate. No sign of
+the rest of the crew. We are not equipped to tow a ship her size and my
+crew is fearful of the ship herself. I have taken note of the bearings
+and shall seek to secure a transport for her when we put into port.
+
+The man Cuthbert seems intelligent though he claims that his entire crew
+simply walked into the water, stepping off the stern. We have secured
+some personal belongings from the ship, letters and ledgers that will
+hopefully tell us more of this. Now, we head to Philadelphia.
+
+Still, there is something about the man, a sickness perhaps. I will
+sequester him with the slaves below. Should they contract it, it will be
+no great loss and the colonials will be safe.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+August 10th
+
+Yellow fever strikes Philadelphia
+
+Epidemic is declared
+
+Alerted by Dr. Benjamin Rush, the city's government has declared an
+epidemic of yellow fever. The fever is considered highly contagious, as
+well as mortal\...
