@@ -4,7 +4,7 @@ title: (Vipassana?)
 description: (Vipassana?) by Anthony St. George
 author: Anthony St. George
 tags: [fiction]
-excerpt: ... Sometimes Jesus joins us for a game of ping pong ...
+excerpt: ... So, I'm walking my dog, Melmud ...
 date: 2021-03-05
 issue: summer-2021
 image: '/assets/img/summer2021_og/visspass.jpg'
