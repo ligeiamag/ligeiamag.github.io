@@ -1,0 +1,447 @@
+---
+layout: posts-no-author
+title: David Leo Rice Interview
+description: David Leo Rice discusses his book, Drifter
+author: Matt Lee
+tags: [interview]
+excerpt: ... I approach the world with the conviction that all places are haunted ...
+date: 2021-03-20
+issue: summer-2021
+interview: author of Drifter
+image: '/assets/img/summer2021/david.jpg'
+width: 640
+height: 428
+---
+
+Reading David Leo Rice is akin to rolling your eyes backwards and
+finding an ancient codex etched into your brain. The writing feels
+unstuck from time and place, but also eerily in tune with today's
+peculiar zeitgeist. His latest release *Drifter* collects a decade's
+worth of stories. Rice's work is impossible to classify. Straddling
+somewhere between metaphysical horror and absurdist comedy, the fictions
+in *Drifter* are disquieting, unnerving, and weirder than the weirdest
+issue of *Weird Tales*. Naturally, I'm a huge fan.
+
+In our conversation below, Rice offers insight about his creative
+process. We discuss confronting the unknowable, channeling existential
+dread, and the adventures of a talking chocolate bar.
+
+*Drifter* is available from [11:11
+Press](https://1111press.com/drifter-stories){:target="_blank"}. Read Rice's
+short story "Sanity House" from our Winter 2020 issue
+[here](https://www.ligeiamagazine.com/winter-2020/sanity-house-david-leo-rice/){:target="_blank"}.
+
+<figure class="mb-4 py-4">
+  <img src="{{ '/assets/img/seperator.png' | prepend: site.baseurl }}" class="mx-auto d-block" style="max-height:15px;" />
+</figure>
+
+**I want to start off by going way back. Can you recall the first short
+story you ever wrote as a kid?**
+
+My earliest writing memories are of collaborations with my best friend.
+We wrote tons of scripts for real and imaginary movies and plays, and
+some prose pieces that were probably more like fragments of an
+unrealized novel. We also had a story series called something like "Tom
+and the Talking Chocolate Bar." I can't remember what happened in it,
+just a general sense of giddy adventure when we'd write together, always
+longhand, with lots of crudely drawn pictures mixed in. The first "real"
+story I remember writing was in ninth grade. It was a dystopian
+futuristic tale called "The Veterans' Club," about a group of veterans
+from a war that none of them could remember. When the story opened, they
+were marooned in a blighted wasteland---apparently the war had been
+lost, though even that was pure conjecture. Most of the story followed
+their daily struggle to survive, while always feeling that there was
+some larger presence they couldn't outrun. At the very end, it becomes
+clear that this presence is suicide. I remember being really proud of
+the last line: "They had decided not to refill their oxygen tanks." It's
+kind of cheesy in retrospect, but something about how, at the time, that
+line seemed to fulfill the latent promise of the whole story came as a
+revelation, and sparked a quickening mood in me, while writing it, that
+I still try to cultivate today.
+
+**You should totally write an updated version of "Tom and the Talking
+Chocolate Bar" and send it to *Ligeia*!**
+
+It could be a sinister tale where it turns out that the chocolate bar
+has been talking, on and on, ignored for years, until an adult writer
+named Tom stumbles upon it and has to respond to whatever it's been
+saying. Perhaps, as a means of grounding its own unwanted consciousness
+in an origin story, the chocolate bar compels him to back-project
+memories of having conjured this story as a child, so that all of his
+memories of having dreamed of being a writer when he was young become
+contorted through that narrative. Perhaps his sole artistic
+achievement---so he thinks---is to build a narrative framework around
+the otherwise inexplicable presence of this talking chocolate bar,
+claiming it as a product of his youthful imagination even if the truth
+is much darker. I'll definitely write that story.
+
+**I can see a story like "The Veterans' Club" planting seeds for the
+terrain you cover in your mature work---dystopian futures, blighted
+landscapes, distorted memories.** **The stories in *Drifter* span a
+whole decade's worth of material. I remember first stumbling across one
+of your pieces in *Black Clock* back in 2012. How was the experience of
+revisiting work from the distant past? Do you see an evolution or
+progression in terms of your writing?**
+
+In general, the experience of revisiting older work is like that of the
+hypothetical Tom: I'm always trying to hear what the older (or younger,
+depending on how one sees time---the work seems old, but the self seems
+young) version of me was straining to express, and if there's any way
+that I can apply what I've learned about myself, and about writing, in
+the intervening years to better bring out what's in an older story,
+without changing it to reflect my current worldview. This is a tricky
+balance, I found, because I did want to polish every story here in as
+"contemporary" a way as I could, so that the collection as a whole would
+read like the product of my 2020/2021 self, but at the same time I
+wanted to preserve the essence of the stories, which, as you mentioned,
+date back to 2012 and even before. I hope the collection, when read as a
+whole, will serve as a record of the changing mental states during this
+very bizarre decade, both my own mental states and perhaps everyone
+else's, as well. Looking back on the 2010s, I feel lucky to have come of
+age as a writer during years of tremendous flux in the real and
+narrative worlds we share, and I think my approach to the weird, the
+horrific, and the uncanny has evolved, by necessity, as the decade wore
+on.
+
+In a more technical sense, one major trend in my work over that decade
+has been to continually refine my relation to the ineffable and the
+unspeakable. I want my stories to hint at realms of reality beyond what
+can be known, but, at the same time, I want them to be vivid rather than
+vague, and tangible rather than overly fluid. Maybe this is a way of
+saying that I've fought an internal battle between accessibility and
+inaccessibility, trying to get the right balance between concrete
+external expression, and numinous internal mystification.
+
+This battle has been the most exhilarating---and sometimes
+maddening---aspect of the process behind all these stories, each of
+which appeared at a different point along the way. And I think it also
+relates to larger trends in the decade in question, with the sense that
+somehow reality was getting away from us, collapsing into an infinite
+array of pseudo-realities, while, at the same time, the feeling that
+genuinely significant changes were going on kept intensifying. I
+therefore hope these stories succeed in conveying the sense that
+*something major* is afoot, but we can never say for sure what it is
+(and anything we do say might, by default, be a distraction).
+
+**For me the stories in *Drifter* definitely capture the zeitgeist of
+the past decade. Crumbling landscapes, infectious paranoia, hostile
+mobs, inexplicable transformations, people being manipulated by forces
+beyond their comprehension. The ever present unknowable, as you
+mentioned, seems to be what your writing hinges on. I do think you
+strike the right balance between ambiguity and explicitness. Even at
+their most surreal, another unsettling aspect of these stories is how
+they still feel eerily plausible, like they could be playing out in some
+forgotten corner of the country as we speak. What's your approach to
+keeping a story grounded when venturing into far out terrain?**
+
+The stories in *Drifter* grew out of this unremitting feeling that
+something unknowable is almost within reach, but it can never quite be
+known, nor can our sense of its presence be suppressed to the point
+where it no longer calls out to us. It's like Mitch Hedberg's joke
+about how maybe all the photos of Bigfoot are blurry because Bigfoot
+himself is blurry---the sense that we're confronting something
+intrinsically blurry resonates with the condition of the new millennium,
+where we never get any resolution either way: we never lose the
+perception that *something* bizarre is afoot, nor do we ever find out
+(in a way that feels durable and legitimate) exactly what it is... which
+must be why so many lurid and conflicting explanations keep cropping up.
+
+*Drifter* evolved along with this condition as an attempt to embrace and
+even celebrate its ambiguity, and to find pathos and excitement in the
+state of sensing (it's hard not to overuse this word) that something
+beyond the knowable is true, and is potentially happening nearby, in
+another town or part of the country, as you put it. Another aspect of
+this feeling, for me, is an internal ambivalence between, on the one
+hand, *hoping* that something wild and life-changing is about to break
+through, while, on the other hand, hoping that a semblance of
+predictability and security will prevail. The whole Covid saga has
+exemplified this conundrum, in that people seemed torn between a giddy
+excitement at the prospect of radical change and an understandable but
+in some ways atavistic desire to just "go back to normal" at any cost.
+Maybe my effort to hone my writing practice is a means of embracing
+rather than resisting this ambiguity: I've felt that if the stories
+themselves were sufficiently concrete, I could accept that my desire for
+concreteness in the outside world would never be satisfied, and that in
+some ways this might be a positive adaptation for the world we're surely
+still heading into.
+
+From a narrative point of view, I always try to ground the stories by
+starting with an intimation that grows out of a real time and place. I
+travel as much as possible and try to marinate in a wide variety of
+atmospheres, never directly looking for stories, but rather letting them
+emerge, almost like a natural resource. I approach the world with the
+conviction that all places are haunted in their own way, so if you just
+sync up to these hauntings, and let them speak to you, the stories
+almost write themselves. In this way, I hope, a core of reality refracts
+through the more fantastical and symbolic aspects of the fiction,
+helping it express in a more overt form what's already latent in our
+everyday world.
+
+**I was consistently amazed by the striking originality of your stories.
+A housesitter plagued by a giant tongue, a boy swimming through jello
+into a new dimension, an old man volunteering to ride a euthanasia
+rollercoaster. Even you just riffing off the cuff about a talking
+chocolate bar is compelling! I like what you said about letting a story
+organically emerge rather than consciously searching for one. Where does
+that initial spark for a story come from? An image? An experience? A
+line? Or do you just wake up one day and decide, "I'm going to write a
+story about the Brothers Squimbop!"**
+
+I'm not sure if this is a particular literary theory or just a general
+piece of wisdom from the ages, but I've always loved the idea that every
+good story has some combination of literal observation and metaphorical
+twist---it's the synthesis of these two modes that gives rise to the
+story and lets it take shape as a piece that's distinct from the larger
+flux of thought and imagination. My process with novels vs. short
+stories is different, because I think of the novels as environments that
+I'm slowly exploring and building out, whereas the stories I tend to
+envision more or less completely before I start working (even if they
+change along the way). But the central idea of conception occurring when
+an observation collides with a burst of imagination holds true in both
+cases. The notion of sudden inspiration may be true in a perceptual
+sense, in that I do often have the experience of a story seeming to
+emerge out of nowhere, but the reality, I suspect, is more that a new
+idea is making contact with a seedbed of older ideas, and finally
+activating them to the point where they can cohere into a story, rather
+than languishing as disconnected inklings without a central metaphor.
+
+Speaking of seedbeds, I've always been drawn to the idea of seediness,
+both as a type of real environment and as an aesthetic mode to work in.
+A seedy place or scenario feels *almost* pregnant, in the sense that
+these potent seeds are lying around, but they haven't quite taken root
+yet, for whatever reason. My approach to writing is thus to first notice
+the seeds through observation, and then induce conception through some
+imaginative intervention---whatever spark had been missing. Then, once
+this pregnancy has begun, the story develops in what feels like a
+natural way. Its final form is already latent within it, so the effort
+of writing feels more exploratory than generative, though this may be
+another metaphor to describe something that's otherwise too abstract to
+pinpoint. One way or another, my goal with any given piece is to become
+increasingly passive, in the sense that, as it develops, I want to feel
+more and more like I'm feeding something that's determined to become
+whatever it's going to be, rather than actively deciding what that is.
+
+Another huge source of observed inspiration is dreams, which for me
+function in the same way: they yield seedy images, personages, and
+situations, but then the waking labor is to find a way to incorporate
+these into a form that somebody else can sync up with and enjoy, which
+often requires exploding them and trying to consider more lucidly what's
+inside, since in a dream these essences are obvious, while in waking
+life, they never quite are. This process fails if the reader feels like
+they're just experiencing *my* dream (everyone knows how boring it is to
+hear someone else tell you about their dreams), while it succeeds if the
+reader feels like the story is inducing their own dream. This is a line
+that I'm always aware of, because I believe that dreaming consciousness
+can be experienced while awake, but the means of accessing it are very
+different than when we're asleep. It comes for free at night, but during
+the day it has to be earned. This is the active part of the writing
+process, before the more passive part can begin.
+
+**I'm glad you touched on the dreamlike quality permeating *Drifter*.
+The word "induce" is apt because I often felt strange shifts in my own
+consciousness while reading the book. Often it was akin to a waking
+nightmare, like sleep paralysis. Or a really fucked up fairy tale. I
+found more often than not the stories were seriously unsettling. "The
+Hate Room" and "Circus Sickness" in particular got under my skin.
+There's a potent sense of existential dread throughout the collection,
+punctuated with supernatural/cosmic horror undertones. What's something
+that scares you in real life and how do those fears bleed into your
+work?**
+
+Great to hear it got under your skin, though sorry for any unwelcome
+effects that may have had! I definitely think of horror as an ingredient
+in whatever I'm working on. For me, horror is a means of coming
+face-to-face with the real, in the sense that horror, like humor, is an
+effect that can't be faked---if something scares you, or makes you
+laugh, it's a genuine response because it involves a recognition that
+something true, often uncomfortably so, is being articulated. It reaches
+us beneath whatever we'd like to think, or like to be seen as thinking,
+and thus might be considered a dubious or primitive effect, but it
+derives tremendous power from the access it has to these base parts of
+us. Like sexual arousal, fear is involuntary, working on a level that
+our conscious minds can't control.
+
+This notion of tunneling under the conscious mind to touch on whatever
+lies beneath is part of how I try to subvert my own thought processes
+while writing, in order to attempt to make contact with a realm of
+cosmic horror that I "know but don't know," in the sense that it's
+always there, but I can't always say what it is. Cosmic horror is a key
+component of what I hope to get out of fiction, because it involves
+uncovering unwelcome facts about the basic nature of existence, facts
+that perhaps all of human culture and even consciousness itself function
+in order to cover up (and that we thus can never knowingly pinpoint). If
+circumstantial horror involves something going wrong within an otherwise
+stable system---a slasher stalking a summer camp, for example---then
+cosmic or existential horror involves something going right---the
+universe revealing its perfect, hidden nature, which may have nothing at
+all to do with what we, as humans, would like to imagine it is. For me,
+this zone is far scarier and more creatively compelling.
+
+I was discussing the stories in this collection with my father recently
+when he said, "None of these characters quite have what it takes to be
+alive, but their saving grace is that they sort of know this." That
+struck me, and resonates with your question about what scares me in real
+life, and how it bleeds into my work: what scares me is the fear that
+the life we're living, if we're even the slightest bit content with it,
+is a sham covering some much bleaker truth, which we can sort of
+perceive but don't want to look at. All of my work is marked by an
+ambivalence about whether, if we can sense this possibility, we ought to
+stare right at it---the climaxes of many of these stories involve, as my
+father pointed out, characters coming briefly into contact with a dark
+truth they can witness but never change---or if looking away as long as
+possible is actually the nobler path. When I was younger, I would have
+insisted that staring down this truth is the essence of courage, but now
+I'm not so sure. Maybe trying to be happy despite its presence is where
+true courage lies.
+
+In my daily life, I value comfort, coziness, and routine. I'm a total
+creature of habit, and I love to feel safe and secure wherever I am.
+Nevertheless, I'm always aware, either dimly or vividly, that something
+else may be going on underneath, eating away at the foundations of my
+contentment, and therefore defining that contentment as a defense
+mechanism against the unspeakable. As a focal point for these fears,
+books mediate both aspects. On the one hand, they're a source of great
+comfort: I associate books with fresh coffee, morning sunlight, and a
+comfy chair, while, at the same time, the most harrowing depths of
+horror, degradation, and ferocity that I've ever plumbed have also been
+accessed through books. This duality is what I'm always trying to touch
+on when I write, hoping to feed back into my own unresolved sense about
+the nature of books by producing more of them.
+
+In a much broader sense, I feel this ambivalence about all of art,
+because it's a fundamental component of what we call culture, even as it
+yearns to express the possibility that culture is no more than a
+society-wide attempt to hide from ourselves the burden of horrifying
+knowledge---of death, of nonbeing, of the vastness of the universe and
+our tininess within it---that we are all condemned to carry. Maybe
+denial vs. acceptance is one of the key themes that I'll explore
+throughout my life.
+
+**Your point about the dichotomy of books being a source of comfort and
+unease is spot on. I think *Drifter* captures that juxtaposition. A lot
+of the stories exist in the uncanny valley. There's something familiar
+but it's twisted in a way that catches you off guard. The apocalyptic
+superstore in "ULTRA MAX." Tourists idling beside an impossibly huge
+beached whale in "Out on the Coast." A plague of suburban suicides in
+"Sandman Crescent." Reading these stories, I kept thinking, "This is
+what America is going to be like in the future." Your work reflects much
+of the decay in our society. Do you feel like you're writing in the face
+of a dying empire? How can art help us navigate these strange times we
+live in?**
+
+That uncanniness about books as a response to the world is always on my
+mind: the uncertainty about whether channeling an all-pervasive sense of
+unease and impending doom into fiction is a means of engaging with those
+forces, or of pushing them away. I remember as a teenager having the
+thought that writing was the only means I could imagine of making myself
+a "moving target," in the sense of developing an active, dynamic back
+and forth with my impressions of the world, rather than just letting
+them slam into me and grind me down. I did karate a lot during those
+years, and there we learned that you should never be too rigid or too
+limp, but rather always fluid and adaptable to the situation around you,
+while maintaining an inner commitment to balance: that ethos probably
+informed my sense of how fiction can channel and respond to the world as
+much as anything else did.
+
+In terms of whether we're living in a dying empire, that's another
+lingering question from this past decade. Last year I started an essay
+series called "Unworkable Equilibrium," which tries to interrogate the
+seemingly paradoxical state in which---in America, anyway---we're
+surrounded by an atmosphere of impending collapse, even as the
+relatively safe, consumerist lifestyles of many millions of people
+continue uninterrupted (so much so that the narrative of collapse is
+itself sold back to us as another consumer option). This relates back to
+the question of fiction's place in the world, insofar as there's a
+growing disjunct between what we might call "narrative" and what we
+might call "reality," to the point where it grows almost impossible to
+say which is which, and to track how and where they diverge. Perhaps,
+then, sources that call themselves "fiction" have a unique opportunity
+to tell truths that other sources, claiming to tell the truth, no longer
+can.
+
+Overall, I feel agnostic: it seems certain that America as a dominant
+world empire is in decline, but whether a definitive crash will come in
+the next few years or the next few centuries is still hard to say. On
+the planetary level, I've always been interested in apocalypticism as a
+cultural force, which, so far, manifests as disappointed apocalypticism,
+in the sense that many cultures, throughout history, have predicted the
+end of the world without its yet arriving. There's something innately
+human about yearning for our own deaths to coincide with the death of
+everything, and a sense of deep FOMO in the fear that the world will go
+on without us. Also, apocalypticism is a grandiose manifestation of the
+desire for the supernatural to emerge from the banal: to see the signs
+of decay and decadence around us come together into a spectacular
+finale, rather than just wearing down and down and down. It's a search
+for redemption in that regard.
+
+As we live on in this interim, maybe all we can do is embrace what's
+around us, even while knowing that it's both degraded in quality and
+finite in duration. In stories like "ULTRA MAX" and "Out on the Coast,"
+the characters are immersed in signs of collapse---a dead landscape
+populated only by superstores, or the corpse of an impossibly large
+whale---and yet the inner drama for these characters involves dredging
+up the ability to love those things, and to witness them as beautiful
+and fulfilling, despite the awareness of how gruesome they are in the
+present, and how bad an omen they are for the future. That might be the
+best summation of where my thinking stands, in terms of what lies ahead:
+by many metrics, things don't look good, and yet the only viable
+response I can see is to celebrate what's still here, seeking to find
+whatever remains spiritualized within it. My hope is that this---as a
+means of seeing the world, and hence also of generating fiction to feed
+back into it---is a workable middle path between denial and despair.
+
+**As a writer who's been in the game for a while now, what advice might
+you offer to someone trying to break into publishing? What do you wish
+David Leo Rice had known ten years ago that you know now?**
+
+I remember reading an interview with Rudy Wurlitzer where he said, "All
+a writer can do is pray for patience." I like the idea that patience
+might be something external to you, a power you can pray to be granted
+but can't generate on your own. That rings true. If I think now of my
+own advice, as I look back on this decade, two ideas come to mind. The
+first is to probe your own insecurities and ambivalences, trying to find
+something genuinely unresolved in yourself that may also expand into a
+deeper irresolution in the time and place you live in, since this will
+connect you to your readers. If art is always about accessing the
+universal through the specific, then the best way for a writer to access
+the universal is to drill into the specifics of their own uncertainties,
+fears, and doubts about the world they inhabit, striving to see
+themselves as both a unique consciousness and also, in profound and
+disturbing ways, a generalized example of consciousness itself---this is
+the ground that, if anyone wants my advice, I'd say is most worth
+exploring.
+
+Secondly, I think it's crucial to ask yourself what's good and powerful
+in your work, as it develops. In my experience, aspiring writers are
+often really hard on their actual work, while nurturing a kind of
+overarching dream of *themselves* as good and exalted in a hypothetical
+future. This is the dream of being a writer, rather than the tangible
+process of writing a book. There's nothing wrong with this dream per se,
+but the only way to approach it in reality is to locate that sense of
+excitement and pride in the pages you produce. When I edit a draft of a
+project, I'm certainly hard on it, crossing out many lines and making
+notes about what needs to improve, but I also look carefully for which
+passages do manifest my ideas about what my writing should be, and put
+big check marks or smiley faces next to these parts, so I can, over the
+years, train myself to generate *more of this, and less of everything
+else.* Here too, the key is modulating between the general (I want to be
+a writer) and the specific (this paragraph is good, even if the next
+three aren't).
+
+If I could speak across time to my younger self, I'd tell him all of
+this, and also, most importantly, I'd tell him to just keep going, to do
+the work rather than not doing it. That's the only solid ground I know
+of, and you can't persevere along this path if you don't keep both feet
+solidly upon it.
+
+<figure class="mb-4 py-4">
+  <img src="{{ '/assets/img/seperator.png' | prepend: site.baseurl }}" class="mx-auto d-block" style="max-height:15px;" />
+</figure>
+
+<img src="{{ '/assets/img/summer2021/david.jpg' | prepend: site.baseurl }}" class="img-fluid mx-auto my-4 d-block" alt="David Leo Rice Photo"/>
+
+**David Leo Rice** is a writer from Northampton, MA, currently based in
+NYC. His novels include *A Room in Dodge City, A Room in Dodge City:
+Vol. 2, Angel House,* and *The New House*, coming in 2022. *Drifter*,
+which came out in June, is his debut story collection. He's online at:
+[www.raviddice.com](http://www.raviddice.com/){:target="_blank"}.

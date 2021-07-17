@@ -1,0 +1,235 @@
+---
+layout: posts
+title: Ramię
+description: Ramię by Andrew Felsher
+author: Andrew Felsher
+tags: [fiction]
+excerpt: ... I can't endure saying a word that's a word to her, for I want it to be the word that's beyond the words given and assigned to us ...
+date: 2021-03-09
+issue: summer-2021
+image: '/assets/img/summer2021_og/felsher.jpg'
+width: 640
+height: 426
+---
+
+I'd always thought words were subordinate to me, until my left arm
+became *Ramię.*
+
+Even though it was painless, just a tingling sensation and *R* pressing
+against my armpit hair, I remember locking myself in the bedroom.
+
+Sam said something like, "Even if it's a word, I won't mind. Come
+outside. Talk to me. We never talk."
+
+It has been a few years. We're still seeing each other and live in the
+same rent-stabilized apartment. There are no mice. No bed bugs. Just
+roaches. I don't know why she never left. She was probably thinking, if
+I leave, then it would be like turning my back on a writer whose body is
+entwined with language and that's totally indicative of a toxic
+relationship where there's no support, not to mention he does laundry,
+dishes, cleans the apartment, and takes the garbage all the way to the
+curb on the correct days.
+
+When it was all new to me, I had a high deductible health insurance
+plan, so I convinced myself this Polish-word-arm was just a
+circumstance, not so distinct from other circumstances such as a
+twitching eyelid or a migraine from caffeine withdrawals.
+
+At some point, many months after it happened, we were at my
+grandmother's apartment. She had heard about my condition from my
+parents, who forwarded a photograph of me resting the word on Sam's
+shoulder while on the tallest peak of Bear Mountain. My parents
+mistakenly told her it was in Russian but emphasized that a suit they
+had bought me had been custom designed by a tailor to hide the problem
+in case I secured interviews.
+
+After we ate a plate of my grandmother's latkes, she wanted to know what
+language Sam dreamed in, since her mother had always dreamed in Polish.
+The strange thing was that Sam, ever since we moved in together, had
+been dreaming in English yet once my appendage became *Ramię*, she
+realized that her dreams were only in Chinese. My grandmother smiled,
+dentures wobbling into place. Then she nodded and told us that when my
+now dead grandfather first found out that her big toe had been amputated
+when she was a teenager, he said, "Just a toe? That's nothing."
+
+She said he would have spoken in the same tone to me now if he were
+alive, confronted by this Russian arm of mine. Agitated, I corrected
+her, saying *Ramię* was not Russian but Polish and means something like
+arm. My grandmother stammered, fidgeted, and put on her thick glasses
+before moving in close to inspect the word's charcoal-like texture.
+
+"I would've wanted to learn Polish," she said, "but my mother wanted us
+to only speak English in the house."
+
+Then my grandmother reminded me of the story of my great-grandmother
+Anna who ran with her younger sister through the snow toward the train,
+escaping Poland. Soldiers were firing guns. Explosions shook the ground.
+A bullet passed through her wool dress that her mother had sewn before
+disappearing. It flew between her legs. She felt the scorching heat
+against her flesh, but it did not enter her body.
+
+As my grandmother paused, trying to unearth details that had faded over
+time, I wondered what the story sounded like in Polish, whether it
+contained some vital detail that would explain me, lettered like this.
+She then said that she wrote about this story in middle school using
+straight-forward English. Her teacher thought it was either a lie or
+plagiarized, given how well it read and the physical improbability of
+the sequence. Therefore, it didn't happen. Then she recalled a story of
+my great-grandfather from Kiev, who was on the ship to New York. When
+someone attempted to steal his cot, he said, "Do you see these hands?
+I've crushed men's skulls with these hands."
+
+I asked her what language my great-grandfather was using when he spoke
+of crushing skulls. She said it could have been Polish, Ukrainian,
+Russian, or Yiddish. When I asked if any of them had complications with
+their limbs becoming words, she chuckled and said that I've always had a
+sense of humor.
+
+Over the next few months, when I wasn't looking for a job, I often
+contemplated the implications of words and all their dimensions. I
+reached out to intellectuals, professors, and writers who had considered
+the limitations of language. Most of them were responsive and offered
+their sympathies but said they dealt mostly with theoretical abstraction
+suitable for well-researched essays but didn't know what to say about
+this particular, physical dilemma.
+
+Soon, I turned my back on obscurity and theories that situated my body
+amidst allegorical classics and performed at spoken word events, where
+raucous crowds stomped their feet and cheered, encouraging me to show
+the word, show the word, *be* the word, as if words I spoke only existed
+in relation to *Ramię* and did not exist for themselves. I learned it
+was best to hide and stay inside the apartment, only emerging out of
+absolute necessity, like for mail, garbage, or jury duty.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+Every now and then we had sex, pretending nothing had changed. She would
+let me move around to be on top or bottom, behind her, but when I
+inadvertently clobbered my leg on the corner of my *m* while trying to
+contort my body, lacerating my skin to the point where I needed to go to
+the emergency room to get a row of stitches, we decided it was best that
+I refrain from moving in the same ways. Since our insurance didn't cover
+inadvertent injury due to letters, we decided not to take such risks.
+
+In bed I became completely subordinate and passive, motionless like
+driftwood in her current. I'd stand up while the letters would be on an
+angle downward, the *ę* pressing against the corner of the mattress.
+Since it could not go directly inside her without damaging her insides,
+we wrapped it with a paper towel, cloth, athletic tape, and then at
+least two condoms. When she discovered the ogonek's potential, how it
+can rub against her clitoris while the end of the *e* is inside her,
+there was a renewed vitality to our sex life.
+
+Sam tried dragging me to concerts, museums, film screenings, parks, and
+dinners with friends. Invariably, I was shoved into predictable
+conversations about how it impacted my writing or how I showered,
+whether I could still drive a car or if there were any other words that
+were not in plain sight, or if I had encountered other people with words
+or punctuations.
+
+"There might be a sentence among us," someone blurted, crumbs erupting
+from the volcano of their mouth.
+
+I've been bombarded with requests for meetings from people all over the
+globe, many of whom long to be comprised of words themselves. Some
+contractors have even explained that they'd be willing to offer me a
+competitive rate to advise them on how to convert prisoners into words,
+preferably small enough to fit onto a spare piece of paper.
+
+"What if we can transform them into ink upon verdict," one wrote. "Just
+imagine the possibilities. A filing cabinet instead of a max security
+facility to house them."
+
+Earlier this week, I received two emails. The first asked if I'd be open
+to experiment with some kind of kinky, erotic game that had been
+designed by ambitious and innovative individuals. It would require my
+hardened protrusions, lubricant, ropes, chains, handcuffs, a thin layer
+of plastic to cover the letters, and an assortment of oddly shaped, high
+voltage gadgets. The process would be fully funded and take place at an
+immaculate estate in the Hamptons. They'd have a driver pick me up and
+drop me off. The next email was someone officially offering to fund a
+procedure that would remove the word, for they wanted to acquire it in
+full and keep it on display in their personal gallery. They even
+promised to allow me two visits per year free of charge, when I'd have
+private access. I rejected both offers and stayed in the impenetrable
+fortress of our rent-stabilized apartment that had no mice or bed bugs,
+only roaches and me.
+
+<figure class="my-4 py-3 ">
+  <img src="{{ '/assets/img/dinkus.png' | prepend: site.baseurl }}" class="d-block mx-auto" alt="Blank Space" style="max-height:15px;" />
+</figure>
+
+When Sam comes back from a lecture she had given about twentieth century
+East Asian feminist movements, she asks me if I heard back from any job
+applications. It's clear she has become increasingly fatigued and that
+I'm the only word among us. Feeling guilty, I tell her I hadn't heard
+from anywhere and show her the emails. She calculates that she'd be able
+to take a break and we'd have enough to purchase a townhouse in Brooklyn
+with a garden, exist without worry about our credit scores, and buy a
+cute car.
+
+Dejected, she makes a bowl of spicy noodle soup. The apartment smells of
+burning rubber and chili oil. If I say anything, in a word, phrase, a
+quote or pathetic cliché, I know she will hear its tone, how it rolls
+off my tongue with or without rhythm, and she will think that's a word
+he just said that I've heard before and understand, have learned, but
+what should I say to him now that he has said it here in this room at
+this point in time, given his proclivity for being impossible to talk to
+for extended periods of time, the lack of savings and terrible credit
+score, and no responses on any job application.
+
+I can't endure saying a word that's a word to her, for I want it to be
+*the* word that's beyond the words given and assigned to us, so
+impenetrable and undeniable in its wordness that she begs me to never
+speak again so that she can wrap herself continuously in that
+intoxicating something. That's what I want. I'm sure of it. To utter the
+perfect word that brings me to the edge, where I will have no choice but
+to plunge into the abyss, or where she will climax and only climax
+because of this word that's so relentlessly distinct from all other
+words, a word which endured every sensation I'd ever felt, that
+navigated the maze of my vocal cords, reached my tongue and escaped my
+big teeth, colliding with something, anything. But what word would it
+be?
+
+"What?" Sam says." Did you say something?"
+
+"I don't know."
+
+"I thought you said something." She slurps glass noodles with bean curd,
+seaweed, tofu, scrolling through news articles.
+
+"If I said something, then I said something. If I didn't, then that's no
+different."
+
+"I'm eating. Tell me later, when you remember."
+
+"I won't."
+
+"You won't what?"
+
+"Tell you."
+
+What a relief that she didn't hear the word, only sensed its presence. I
+don't know why I injected a word into the precarious assembly line of
+sound. I don't even remember the word itself. Later, she says something
+or doesn't. We yell at each other. She cries and screams, throwing a
+clay pot against the ground.
+
+When she leaves, I'm not sure if she'll come back. I think she will. She
+has before. But what if she doesn't? Should I tell myself it's not
+possible? I usually wait a few minutes, and then find her wandering
+Riverside Park.
+
+Once, I found her beside a tree, staring at the bark. When she saw me,
+she waved me to come over, upon which she explained that she had spotted
+two beetles having sex and smashed them. Then she rubbed the remnants of
+the smashed bugs against my letters, saying all that pasty stuff is
+disgusting.
+
+Now, when I reach the park, past the graffiti and netless basketball
+hoops, I find her plucking something like grass from the ground. She
+brings it to my nose. I smell fresh garlic. I know she found garlic
+here. I tell myself she found garlic here. We can name it garlic. Or we
+can name it after us, even though we've left roots behind.
