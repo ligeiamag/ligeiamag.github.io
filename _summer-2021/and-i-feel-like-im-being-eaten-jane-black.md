@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: And I Feel Like I'm Being Eaten
-description: This Human Form Where I Was Born by Jane Black
+description: And I Feel Like I'm Being Eaten by Jane Black
 author: Jane Black
 tags: [fiction]
 excerpt: ... In every city there is a place for people like me ...
