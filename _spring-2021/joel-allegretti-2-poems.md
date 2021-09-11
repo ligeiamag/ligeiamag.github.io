@@ -12,7 +12,7 @@ width: 416
 height: 640
 ---
 
-## A West Coast Seascape on Black Canvas
+## A West Coast Seascape on a Black Canvas
 <div class="stanza">
 <p class="poemline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>After an episode of &nbsp;</em>The Joy of Painting<em></em></p>
 </div>
