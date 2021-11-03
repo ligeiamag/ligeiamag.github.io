@@ -43,6 +43,8 @@ Laurel's disappearance are vague at best---"neither had ransom been
 asked nor a kidnap note received"---though McElroy's second novel is
 anything but.
 
+Following a mysterious tip, Hind progresses from one interlocking location to the next—a city pier, an office complex, a New England golf course, a health club, a university—with little to go off other than a series of enigmatic notes. The characters that Hind chases down are treated less like human beings and more like clues to be decoded, then discarded. The world of HK is one in which any word or action might contain hidden messages, potentially revealing answers to the seemingly endless stream of riddles we face. Hind becomes so wholly absorbed that he disregards his estranged wife and child in lieu of pursuing the Laurel case, even though Hind has no real relation to the missing child. His motivations are ambiguous. In fact, no one seems to care that the boy has gone missing except for Hind. About halfway through, the novel pivots when Hind has a change of heart, and he determines to reverse engineer a “dekidnapping,” literally working his way backwards to absolve his selfish tactics, to see his friends and family as people instead of clues he can use as means to an end.
+
 Filled with rich, multilayered sentences and keen philosophical
 observations, *Hind's Kidnap* is a challenging but rewarding read.
 Equally complex and comic, McElroy's mastery of language is on full
