@@ -1,8 +1,8 @@
 ---
 layout: posts
 title: Here is survival, intimate
-description: A short story by Amie Norman Walker — Here is survival, intimate
-author: Amie Norman Walker
+description: A short story by Amie — Here is survival, intimate
+author: Amie
 tags: [fiction]
 excerpt: ... I want to leave. I always do. There is never a moment in which I'm not considering it. I barely stand it some days ...
 date: 2019-06-06
