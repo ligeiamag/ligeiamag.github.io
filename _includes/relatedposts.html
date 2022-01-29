@@ -10,7 +10,7 @@
             {% assign sorted = site[page.collection] | where_exp:"item", "item.url != page.url" | sample: 2 %}
             {% for item in sorted %}
                 <!-- Card -->
-                <div class="card card-box shadow">
+                <div class="card card-box">
                   <!-- Card image -->
                     <a href="{{ site.baseurl }}{{ item.url }}">
                   <div class="tomato card-main-info">

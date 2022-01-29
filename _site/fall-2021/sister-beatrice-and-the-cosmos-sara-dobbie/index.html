@@ -44,7 +44,7 @@
     <div class="outerwrapper">
      <div class="firstwrapper">
       <main class="wrapper">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm fixed-top border-bottom mb-5">
+        <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top border-bottom mb-5">
   <div class="navbar-collapse collapse w-100 dual-collapse2 order-1 ">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item dropdown">
@@ -59,7 +59,17 @@
           <a class="dropdown-item" href="/contact/">Contact</a>
         </div>
       </li>
-      <li class="nav-item"><a class="nav-link" href="/archives/">Archives</a></li>
+      <li class="nav-item dropdown">
+       <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Archives</a>
+       <div class="dropdown-menu">
+         <a class="dropdown-item" href="/archives/">Issues</a>
+         <div class="dropdown-divider"></div>
+         <a class="dropdown-item" href="/poetry/">Poetry</a>
+         <a class="dropdown-item" href="/fiction/">Fiction</a>
+         <a class="dropdown-item" href="/nonfiction/">Nonfiction</a>
+         <a class="dropdown-item" href="/interviews/">Interviews</a>
+       </div>
+     </li>
     </ul>
   </div>
 <!-- Mobile Ligeia Logo -->
@@ -113,23 +123,40 @@
   <div class="container h-100">
     <div class="row h-100">
       <div class="col text-center my-auto pb-4">
-        <div class="m-2 p-2 m-md-3 p-md-3">
+        <!-- <div class="m-2 p-2 m-md-3 p-md-3"> -->
+        <div>
+          <!-- Tags are an array -->
+          
 
           
-          <h1 class="text-center display-4 mainpagename">
+
+          
+
+          <!-- <p class="mb-0"><a href="/fiction/" target="_blank" class="postscategory"> FICTION</a></p>
+          <p class="mb-0"><a class="postsissuereturn" href="/fall-2021">Fall 2021 | Issue 09 </a></p> -->
+
+          
+          <h1 class="text-center display-4 mainpagename pt-2">
             Sister Beatrice and the Cosmos
           </h1>
           
-          <p class="text-center authortitle mb-1">
+          <p class="text-center posts-intro-author mb-1 divided">
             <!-- Look the author details up from the site config. -->
             
+
             <!-- Output author details if some exist. -->
+            <!-- Figure out category page -->
+
+
+
             
             
-             <span class="entryby">By</span> Sara Dobbie
+             <span class="entryby">By</span> Sara Dobbie 
+            <br>
+            <span class="categorydate"> <a href="/fall-2021" class="post-intro-links">Fall 2021 </a> | <a href="/fiction/" target="_blank" class="post-intro-links"> Fiction</a></span>
           </p>
           
-          <p class="divided datetype"><a class="postsissuereturn" href="/fall-2021">fall 2021</a></p>
+
         </div>
       </div>
     </div>
@@ -421,24 +448,24 @@ blessing is a new beginning.</p>
             
             
                 <!-- Card -->
-                <div class="card card-box shadow">
+                <div class="card card-box">
                   <!-- Card image -->
-                    <a href="/fall-2021/jp-vallieres-interview/">
+                    <a href="/fall-2021/whats-in-a-face-evelyn-winters/">
                   <div class="tomato card-main-info">
                     <!-- Title -->
-                    <h3 class="card-header-title mb-3">JP Vallières Interview</h3>
+                    <h3 class="card-header-title mb-3">what’s in a face?</h3>
                     <!-- Subtitle -->
-                    <p class="card-header-subtitle">by Sean Sam</p>
+                    <p class="card-header-subtitle">by Evelyn Winters</p>
 
                   </div>
                    </a>
                   <div class="card-body d-flex flex-column">
                     <!-- Text -->
 
-                    <p class="card-text pb-3">... Blood represents two things in America: death and salvation ...</p>
+                    <p class="card-text pb-3">... I went shopping. I needed a purse. A new purse ...</p>
                     <!-- Link -->
 
-                    <p class="mt-auto text-right"><a href="/fall-2021/jp-vallieres-interview/" class="related-post-links">Read More<i class="fas fa-angle-double-right ml-2"></i></a></p>
+                    <p class="mt-auto text-right"><a href="/fall-2021/whats-in-a-face-evelyn-winters/" class="related-post-links">Read More<i class="fas fa-angle-double-right ml-2"></i></a></p>
 
                   </div>
                 </div>
@@ -447,24 +474,24 @@ blessing is a new beginning.</p>
 
                 
                 <!-- Card -->
-                <div class="card card-box shadow">
+                <div class="card card-box">
                   <!-- Card image -->
-                    <a href="/fall-2021/phlegm-world-aida-riddle/">
+                    <a href="/fall-2021/joseph-mcelroy-interview/">
                   <div class="tomato card-main-info">
                     <!-- Title -->
-                    <h3 class="card-header-title mb-3">Phlegm World</h3>
+                    <h3 class="card-header-title mb-3">Joseph McElroy Interview</h3>
                     <!-- Subtitle -->
-                    <p class="card-header-subtitle">by Aida Riddle</p>
+                    <p class="card-header-subtitle">by Matt Lee</p>
 
                   </div>
                    </a>
                   <div class="card-body d-flex flex-column">
                     <!-- Text -->
 
-                    <p class="card-text pb-3">... But you left her there on her knees, / hands buried in her hair, pathetically sob sob sobbing. You left with the sherry ...</p>
+                    <p class="card-text pb-3">... In this novel as in your life, you pay attention to what each sentence says ...</p>
                     <!-- Link -->
 
-                    <p class="mt-auto text-right"><a href="/fall-2021/phlegm-world-aida-riddle/" class="related-post-links">Read More<i class="fas fa-angle-double-right ml-2"></i></a></p>
+                    <p class="mt-auto text-right"><a href="/fall-2021/joseph-mcelroy-interview/" class="related-post-links">Read More<i class="fas fa-angle-double-right ml-2"></i></a></p>
 
                   </div>
                 </div>
@@ -504,7 +531,11 @@ blessing is a new beginning.</p>
     <div class="col-lg-3 col-6">
       <p>Archives</p>
       <ul>
-        <li><a href="/archives/">Web Archives</a></li>
+        <li><a href="/archives/">Issues</a></li>
+        <li><a href="/poetry/">Poetry</a></li>
+        <li><a href="/fiction/">Fiction</a></li>
+        <li><a href="/nonfiction/">Nonfiction</a></li>
+        <li><a href="/interviews/">Interviews</a></li>
       </ul>
     </div>
     <div class="col-lg-3 col-6">
@@ -522,7 +553,7 @@ blessing is a new beginning.</p>
 
   <div class="row">
     <div class="col mt-5">
-      <p><small>&copy; 2021 LIGEIA Magazine. Designed by <a href="https://www.seansam.com" target="_blank" class="authorsite">Sean Sam</a>.</small></p>
+      <p><small>&copy; 2022 LIGEIA Magazine. Designed by <a href="https://www.seansam.com" target="_blank" class="authorsite">Sean Sam</a>.</small></p>
     </div>
 
     </div>

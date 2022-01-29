@@ -2,27 +2,52 @@
   <div class="container h-100">
     <div class="row h-100">
       <div class="col text-center my-auto pb-4">
-        <div class="m-2 p-2 m-md-3 p-md-3">
+        <!-- <div class="m-2 p-2 m-md-3 p-md-3"> -->
+        <div>
+          <!-- Tags are an array -->
+          {% assign my_string = page.tags[0] %}
+
+          {% if my_string == 'interview' %}
+              {% assign my_url = "/interviews/" %}
+          {% elsif my_string == 'nonfiction' %}
+              {% assign my_url = "/nonfiction/" %}
+          {% elsif my_string == 'fiction' %}
+              {% assign my_url = "/fiction/" %}
+          {% elsif my_string == 'poetry' %}
+              {% assign my_url = "/poetry/" %}
+          {% endif %}
+
+          {% assign issueVolume = site.data.issuenumber[page.issue] %}
+
+          <!-- <p class="mb-0"><a href="{{ my_url | prepend: site.baseurl }}" target="_blank" class="postscategory"> {{ my_string | replace: 'view', 'views' | upcase }}</a></p>
+          <p class="mb-0"><a class="postsissuereturn" href="/{{ page.issue | prepend: site.baseurl }}">{{ page.issue | replace: '-', ' ' | capitalize }} | Issue {{ issueVolume.issue }} </a></p> -->
 
           {% if page.long %}
-          <h1 class="text-center mainpagename">
+          <h1 class="text-center mainpagename pt-2">
             {{ page.title }}
           </h1>
           {% else %}
-          <h1 class="text-center display-4 mainpagename">
+          <h1 class="text-center display-4 mainpagename pt-2">
             {{ page.title }}
           </h1>
           {% endif %}
-          <p class="text-center authortitle mb-1">
+          <p class="text-center posts-intro-author mb-1 divided">
             <!-- Look the author details up from the site config. -->
             {% assign author = site.data.authors[page.author] %}
+
             <!-- Output author details if some exist. -->
+            <!-- Figure out category page -->
+
+
+
             {% if page.subtitle %}  {{ page.subtitle }} <br/> {% endif %}
             {% if page.writer %} <span class="entryby"> By</span> {{ page.writer }} <br/> {% endif %}
-            {% if author %} <span class="entryby">{% if page.reviewer %} reviewed {% endif %}By</span> {{ author.name }}
+            {% if author %} <span class="entryby">{% if page.reviewer %} reviewed {% endif %}By</span> {{ author.name }} 
+            <br>
+            <span class="categorydate"> <a href="/{{ page.issue | prepend: site.baseurl }}" class="post-intro-links">{{ page.issue | replace: '-', ' ' | capitalize }} </a> | <a href="{{ my_url | prepend: site.baseurl }}" target="_blank" class="post-intro-links"> {{ my_string | replace: 'view', 'views' | capitalize }}</a></span>
           </p>
           {% endif %}
-          <p class="divided datetype"><a class="postsissuereturn" href="/{{ page.issue | prepend: site.baseurl }}">{{ page.issue | replace: '-', ' '}}</a></p>
+
         </div>
       </div>
     </div>

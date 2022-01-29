@@ -67,11 +67,19 @@ layout: null
     }
   ,
   {% endfor %}
-  {% for fall-2021 in site.fall-2021 %}
+  {% for fall-2021 in site.summer-2021 %}
   {
     "title"    : "{{ fall-2021.title | escape }}",
     "url"      : "{{ site.baseurl }}{{ fall-2021.url }}",
     "author"    : "{{ fall-2021.author | escape }}"
+    }
+  ,
+  {% endfor %}
+  {% for winter-2021 in site.winter-2021 %}
+  {
+    "title"    : "{{ winter-2021.title | escape }}",
+    "url"      : "{{ site.baseurl }}{{ winter-2021.url }}",
+    "author"    : "{{ winter-2021.author | escape }}"
     }
   {% if forloop.last == false %},{% endif %}
   {% endfor %}

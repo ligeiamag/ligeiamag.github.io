@@ -64,7 +64,7 @@ body {
   }
 }
 
-p, p.entrytitle, #results-container, .entryby, footer, .authortitle, #search-input, .issuename, form, table, th, td,  .issuename {
+p, p.entrytitle, #results-container, .entryby, footer, .authortitle, #search-input, .issuename, form, table, th, td,  .issuename, .posts-intro-author {
   font-family: 'linux_libertine', Georgia, serif;
 }
 
@@ -107,9 +107,16 @@ p.entrytype, h3, h2, .footer-menu, p.category {
   font-family: 'linux_libertine', Georgia, serif;
   font-weight: bold;
 }
+ 
 .authortitle {
   font-style: italic;
 }
+
+.categorydate {
+  font-size: 75%;
+  text-transform: uppercase;
+}
+
 
 /* Related Posts */
 p.category {
@@ -170,7 +177,6 @@ p.relatedpost {
 .bookquote  {
   padding-left: 1.5rem;
 }
-
 
 
 blockquote {
@@ -266,7 +272,7 @@ p.firstparagraph:first-child::first-letter {
 }
 
 .front-issue-name {
-  font-size: 90%;
+  font-size: 80%;
   letter-spacing: .05rem;
   font-family: 'linux_libertine', Georgia, serif;
   text-transform: uppercase;
@@ -426,6 +432,16 @@ a.frontpagelink  {
   text-decoration: none !important;
 }
 
+.post-intro-links {
+  border-bottom: none !important
+}
+
+.post-intro-links:hover {
+  border-bottom: 1px solid black !important;
+  transition: border-bottom 500ms !important;
+  color:#343a40 !important;
+}
+
 /* Footer Fonts and colors */
 
 
@@ -486,13 +502,19 @@ color: rgba(0,0,0,.7);
   }
 
 .link-posts a.postsissuereturn {
-  text-decoration: none;
   border-bottom: none;
   color: #be3d48;
   font-weight: bold;
   font-family: 'linux_libertine','linux_libertine_capismallcaps', Georgia, serif;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
+
+.link-posts a.postscategory {
+  font-family: 'linux_libertine','linux_libertine_capismallcaps', Georgia, serif;
+  font-size: 1rem;
+  border-bottom: 1px solid;
+}
+
  a.postsissuereturn:hover {
     border-bottom: 1px solid black;
 }
@@ -548,6 +570,69 @@ ul.footer-menu > li {
 .contributors li {
   font-family: 'linux_libertine', Georgia, serif;
 }
+
+/* ==========================================================================
+   Card css for archive pages
+   ========================================================================== */
+
+.card-subtitle {
+  font-size:.8rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+}
+
+/* ==========================================================================
+   Button Test
+   ========================================================================== */
+.new__btn {
+      position: relative;
+      padding: .2rem;
+      color: #000;
+      display: inline-block;
+      text-align: center;
+      width: 100%;
+       }
+
+a.new__btn:hover {
+  text-decoration: none;
+  color: #212529;
+}
+
+.new__btn:hover:after {
+    -webkit-transform: translate3d(3px,-3px,0);
+    transform: translate3d(3px,-3px,0);
+}
+
+.new__btn:hover:before {
+    -webkit-transform: translate3d(-3px,3px,0);
+    transform: translate3d(-3px,3px,0);
+}
+
+
+.new__btn:hover:after, .new__btn:hover:before {
+    -webkit-transition: -webkit-transform .2s ease-out;
+    transition: -webkit-transform .2s ease-out;
+    transition: transform .2s ease-out;
+    transition: transform .2s ease-out,-webkit-transform .2s ease-out;
+}
+
+.new__btn:after, .new__btn:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border: 2px solid #000;
+    -webkit-transition: -webkit-transform .2s ease-in;
+    transition: -webkit-transform .2s ease-in;
+    transition: transform .2s ease-in;
+    transition: transform .2s ease-in,-webkit-transform .2s ease-in;
+}
+
+/* ==========================================================================
+  End Button
+   ========================================================================== */
 
 /* Icon 1 */
 
@@ -817,11 +902,11 @@ hr.feature-style {
   background-color: #be3d48;
   color: #fff;
 }
-
+/*
 .card-box {
   border: 5px double #808080;
 }
-
+*/
 div.card-body p a.related-post-links {
   border-bottom: none;
   text-decoration: none;
