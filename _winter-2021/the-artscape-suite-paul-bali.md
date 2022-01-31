@@ -207,7 +207,7 @@ guard & Exit sign, flaking white-on-red:
 **Welcome to Susiland.**
 
 is *she* Susi, and this the way home to her solipsistic bed? Exit from
-the Commons that we stroll upon we each found a portal here, a hole
+the Commons that we stroll upon? we each found a portal here, a hole
 within our solo dream. the Alabaman longhairs all are neo-Nazareans, and
 we the new Ecclesia, by baby-steps. our pacing is a dynamo or site-prep.
 
