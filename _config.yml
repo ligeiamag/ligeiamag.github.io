@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ligeia Magazine
+title: LIGEIA Magazine
 email: editors@ligeiamagazine.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Ligeia Magazine is a literary site seeking voices beyond the conventional; grimy and proud of it, we live to discover overlooked curiosities.
+    LIGEIA Magazine is a literary site seeking voices beyond the conventional; grimy and proud of it, we live to discover overlooked curiosities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ligeiamagazine.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LigeiaMag

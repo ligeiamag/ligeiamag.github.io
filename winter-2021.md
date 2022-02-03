@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Winter 2021
-description: Issue 10 of Ligeia Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
+description: Issue 10 of LIGEIA Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
 image: '/assets/img/winter2021_og/cyber.jpg'
 width: 800
 height: 418

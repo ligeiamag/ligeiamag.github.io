@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Winter 2020
-description: Issue 06 of Ligeia Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
+description: Issue 06 of LIGEIA Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
 image: '/assets/img/winter2020_og/greg.jpg'
 width: 800
 height: 418

@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Summer 2021
-description: Issue 08 of Ligeia Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
+description: Issue 08 of LIGEIA Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
 image: '/assets/img/summer2021_og/coverimage.jpg'
 width: 800
 height: 418

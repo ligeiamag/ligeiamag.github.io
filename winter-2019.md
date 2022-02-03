@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Winter 2019
-description: Issue 02 of Ligeia Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
+description: Issue 02 of LIGEIA Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
 image: '/assets/img/winter2019_og/wounded.jpg'
 width: 800
 height: 418

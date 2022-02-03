@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Spring 2020
-description: Issue 03 of Ligeia Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
+description: Issue 03 of LIGEIA Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
 image: '/assets/img/spring2020_og/phyllis.jpg'
 width: 800
 height: 418

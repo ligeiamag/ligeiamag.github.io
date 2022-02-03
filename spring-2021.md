@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Spring 2021
-description: Issue 07 of Ligeia Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
+description: Issue 07 of LIGEIA Magazine. Read a great selection of poetry, fiction, nonfiction, and interviews.
 image: '/assets/img/spring2021_og/ideation.jpg'
 width: 800
 height: 418
