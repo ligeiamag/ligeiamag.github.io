@@ -9,7 +9,6 @@ height:
 
 {% include pagesintro.html %}
 
-
 <div class="container">
 
 <div class="row">
@@ -24,7 +23,7 @@ height:
                 <div class="card-body">
                     <p class="card-subtitle mb-2 text-muted"><a href="{{ item.issue | prepend: "/" | prepend: site.baseurl }}" target="_blank">{{ item.issue | replace: '-', ' ' | capitalize }}</a></p>
                     <p class="card-title mb-0"><a href="{{ item.url | prepend: site.baseurl }}" target="_blank"><strong>{{ item.title }}</strong></a></p>
-                    <p class="card-text pb-3">by {{ item.author }}</p>
+                    <p class="card-text pb-3">{% if item.reviewer %} reviewed {% endif %}by {{ item.author }}</p>
                     <p class="card-text pb-3">{{ item.excerpt }}</p>
                 </div>
             </div>
@@ -37,4 +36,6 @@ height:
 
 
 </div>
+
+
 

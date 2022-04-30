@@ -6,19 +6,7 @@ image: '/assets/img/winter2021_og/cyber.jpg'
 width: 800
 height: 418
 ---
-<div class="jumbotron jumbotron-fluid padding-main">
-	<div class="container h-100">
-		<div class="row h-100">
-			<div class="col text-center my-auto pb-4">
-				<div class="m-3 p-2 m-md-4 p-md-3">
-					<h1 class="text-center display-4  ligeia-title">
-            Ligeia
-          </h1>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+{% include issue-jumbotron.html %}
 <div class="container mt-4">
 
 <div class="row">
