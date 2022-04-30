@@ -4,7 +4,7 @@ title: Chelsea Bieker Interview
 description: In this conversation, Chelsea Bieker discusses her book, Heartbroke.
 author: Liv Albright
 tags: [interview]
-excerpt: ... The psychotic internal monologue is just a compendium of private thoughts on display ...
+excerpt: ... things that are sad and things that are funny, and often they can really go together ...
 date: 2022-04-01
 issue: spring-2022
 interview: author of Heartbroke
