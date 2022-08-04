@@ -2,10 +2,10 @@
 layout: poems
 tags: [poetry]
 title: what’s in a mouth
-author: Joyce Liu
+author: June Lin
 excerpt: ... i am the duck tongue queen of this Chinese-Canadian suburb, / and the ducks in the river behind my house fear me ...
 date: 2019-06-06
-description: 1 poem by Joyce Liu – what’s in a mouth
+description: 1 poem by June Lin – what’s in a mouth
 issue: summer-2021
 image: '/assets/img/summer2021_og/liu.jpg'
 width: 640
