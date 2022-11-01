@@ -220,6 +220,10 @@ p.entrytitle {
 p.poemline {
   margin-bottom: 0rem;
 }
+
+.paragraph-in-poem {
+  margin-left: -1rem;
+}
 .nick p {
     margin-bottom: 0rem;
 }

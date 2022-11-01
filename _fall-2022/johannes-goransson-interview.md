@@ -1,0 +1,299 @@
+---
+layout: posts-no-author
+title: Johannes Göransson Interview
+description: In this conversation, Johannes Göransson discusses the book Summer.
+author: Matt Lee
+tags: [interview]
+excerpt: "... The best art is always gratuitous ..."
+date: 2022-10-01
+issue: fall-2022
+interview: author of Summer
+image: '/assets/img/fall2022/goransson.jpg'
+width: 600
+height: 799
+---
+
+The "summer" of Johannes Göransson's latest collection *Summer* is a
+poisoned paradise. Bullets sprout amongst the lilacs. Garbage rains from
+heaven. Rioters erupt from the underworld. Animals wear masks. The poet
+stares into the sun.
+
+Written in the wake of personal tragedy and set against the backdrop of
+an apocalyptic Eden, *Summer* mixes mythology, autobiography, and pop
+music into a surreal meditation on grief and loss, climate change and
+extinction, art and debt. Göransson's verse oscillates between English
+and Swedish. Language becomes infected, collapses, and resurrects into
+new forms.
+
+"I have to write you a letter / about my body as if it were / split
+between foreign / words whispered by angels / and soldiers who march in
+/ through the eye / of a needle I write my body / with the eye of a
+needle I write / when I'm sick with gravity / in summer in summer I'm
+sick"
+
+As summer dissipated into autumn, I corresponded with Göransson. In our
+conversation below, we discuss translation, intertextuality, trauma, and
+how to combat literary elitism.
+
+*Summer* is available from [Tarpaulin Sky
+Press](https://tarpaulinsky.com/johannes-goransson/summer/){:target="_blank"}.
+
+<img src="{{ '/assets/img/fall2022/summer-cover.jpg' | prepend: site.baseurl }}" class="img-fluid mx-auto my-4 d-block" alt="Summer Cover Photo"/>
+
+<figure class="mb-4 py-4">
+  <img src="{{ '/assets/img/seperator.png' | prepend: site.baseurl }}" class="mx-auto d-block" style="max-height:15px;" />
+</figure>
+
+**I want to ask about childhood, as it's an important thread in the
+book. Can you recall when the urge to write poetry first struck you? Are
+there any poems you remember writing or reading in your youth that
+seeded your later work?**
+
+When I was 11-12 I started to really pay attention to the lyrics of pop
+songs. I was listening to bands like Depeche Mode, The Cure, Joy
+Division and, especially, the Swedish post-punk band Imperiet.
+Imperiet's songs---which were written by Joakim Thåström---were probably
+the single biggest reason I started writing poetry. When I started to
+write poetry, I was in essence translating and playing around with
+Imperiet lyrics. It was through them I also started to read Bruno K.
+Öijer (a Beat-influenced hugely famous Swedish poet I've since published
+with Action Books), whose poetry is really in my poetry-DNA as well. A
+little later (early teens) I discovered my mom's Leonard Cohen and Bob
+Dylan records and then Allen Ginsberg, Rimbaud, García Lorca, the Danish
+poet Michael Strunge, etc.
+
+***Summer* is an interlingual text peppered with Swedish words and
+phrases. When I was reading the book, the Swedish words disrupted the
+poems in unpredictable ways. I would try to decipher their meaning based
+on the context, but often I'd find my guesses were completely off when I
+looked up the translations. Trying to phonetically pronounce these words
+was a fun exercise and reminded me of poetry\'s sonic power. You
+describe the Swedish seeping into Summer as a "reverse wound," your
+native language reasserting itself, flowing into rather than out of the
+poems. Being a bilingual writer, is there ever a tension between these
+two languages, or do they play nicely together? Have you noticed either
+language mutating into new forms as you work?**
+
+For me, perhaps the most important part of the interlingual dynamic is
+that it forced---and still does when I give readings---my Swedish mouth
+to pronounce English words and my English words to say Swedish words. I
+feel like the mouth moves differently---like there are different
+settings for the mouth---and when asked to use the wrong setting, it
+gives rise to a new rhythm. I've mostly in the past written in prose,
+but somehow this new rhythm felt lyrical to me. It's counterintuitive
+because the lyric is supposed to be the most monoglossic genre, while
+prose (according to Bakhtin) can be heteroglossic.
+
+Your description is very apt, letting the Swedish into the poem created
+a sonic mutation.
+
+I can't speak for other bilingual writers, but for me, my bilingualism
+has meant that I don't ask language to be stable (because I know it
+isn't) and I embrace the glitches. I think that's true of all my books
+to some extent, but I really foregrounded it in *Summer*. Sometimes the
+relationship feels like a struggle and sometimes it's more fluid,
+playful, sonic. The early drafts of the book were all sonic play.
+
+I should add that this is not my first foray into translingual writing.
+About 15 years ago I published the book *Pilot (Johann the Carousel
+Horse)* with Fairytale Review, and it's kind of a prequel to *Summer*.
+It was generated by glitchy self-translations.
+
+***Summer* converses with many other writers---specifically there are
+tributes to Ann Jäderlund, Paul Andersson, Eva Kristina Olsson, Héctor
+Viel Temperley. A diverse array of other works weave their way
+in---*Giovanni\'s Room*, *Antigone*, the Persephone myth. What role does
+intertextuality play in your work? How did these particular writers find
+their way into *Summer*?**
+
+Yes, there are many artists in the book, in part because it's a book
+about art-making, and about reading and looking, about being shaped by
+art and shaping art, about eating it up and spitting it out. These were
+writers I was reading while I was writing the book or, in the case of
+Paul Andersson, I wrote a phrase and then realized that I had taken it
+from his poetry, which I haven't really read for 30 years but which made
+a profound impact on me as a teenager. So maybe I'm using "while I was
+writing" in a wide sense, as in I was always writing this poem. It was
+always writing me.
+
+There's a lot of pop music, just stuff I'm taking down from the radio
+like Orpheus in Cocteau's movie, when he takes dictation from the
+angels. I was listening to Baldwin's *Giovanni's Room* while driving my
+oldest daughter to Indianapolis for soccer and then I misheard "all the
+garbage of the Seine" as "all the garbage of the sun," and I thought of
+my daughter Arachne who had died in Indianapolis and then I thought,
+"I'm like Giovanni, who lives in a room where all the garbage of the sun
+pours in"; the line, of course, reminded me of Kim Hyesoon's *All the
+Garbage of the World, Unite!* (a book I published with Action Books, in
+Don Mee Choi's translation); and then I remembered how my best friend's
+Italian cousin called me "Giovannini" when we were kids; and I thought
+of that time I was standing by the Spanish Steps in Rome---where Paul
+Andersson lived as a junkie instead of writing poems---and saw the
+plaque for "Giovanni Keats." I loved Keats as a teenager (I first read
+it in Swedish translation), and he's definitely in *Summer*, maybe the
+model for the poisoned lyric. Poisoned with those sounds, what they make
+of the mouth. All of this is I suppose to say that you may be right that
+the intertextuality is a "weaving." Or maybe it's just the leftovers
+I've spit out, spit out as a poem.
+
+**You mentioned this idea of being poisoned by sound. *Summer* has
+plenty of toxins running through its veins. At the same time, it's also
+filled with loads of bucolic, pastoral imagery of flowers and animals.
+These contrasting images play up the tension between the majesty and
+ruthlessness of nature. "I know what nature is / I own its evil flower."
+The flower is beautiful to look at, but its poison can also kill you. I
+think it extends to writing---a poem can enlighten and eviscerate in
+equal measure.**
+
+Though the poem started out in summer, the "Summer" of this poem is not
+so much a season as a site of intensity, poisoned by the world. The
+"meadow" burns down (over and over), "all the garbage" leaks into the
+world, the room, the poem. Similarly, my daughter's death was caused by
+some (not known) toxin that made its way into her mother's body and
+caused a hole in her lung-diaphragm. I wanted the poem to be poisoned.
+
+**I'm curious about the concept of debt at play throughout the book.
+Unlike the naturalistic imagery you employ, debt is this unnatural
+invention unique to humanity. It's also abstract in a way. Earlier you
+mentioned the linguistic pun of skuld/oskuld, virgin/debt. Throughout
+*Summer*, there's an urgent desire to be rid of debt, to reclaim a sense
+of purity perhaps: "a rabble strong enough / to kill my debt / to make
+me a virgin." It got me thinking about debt in relation to art, a
+pursuit that has intrinsic spiritual value but can also be commodified
+to have monetary value. Do we make art to pay our karmic debt? Are we
+indebted to art for what it can teach us, the nourishment it can
+provide?**
+
+This is one of the central concerns of the book. Maybe it began in
+Arachne's aftermath and all the money that was involved, the debt I
+accrued because of what wasn't covered by insurance. But there are any
+number of debts in here. Art is often attacked as "gratuitous." Writing
+about art is full of charges of "gratuitous sex" or "gratuitous
+violence," a rhetoric that reveals a culture in which art has to be paid
+for with some kind of sentimental idea of personhood. The best art is
+always gratuitous. On some level, I felt I was being gratuitous,
+paradoxically, by writing about my grief (very sentimental!), but also
+because the interlingual energies seemed the essence of gratuitousness,
+and perhaps most of all, in my desire for summer. Summer is a purist
+ideal---with all the traps of abjection---but through the poem it
+becomes something else, a "Giovanni's room" where "all the garbage"
+pours in. Summer becomes its opposite: a site of intensity, death. I
+can't pay for it.
+
+**It's a shame "gratuitous" is considered an insult. I agree that often
+the best art is indulgent, unhinged, chaotic. There's an insidious
+undercurrent in much of the literary establishment that enshrines
+restraint, coherence, cleanliness above all else. They look down their
+noses at anything too messy or ambiguous or strange. Surreal writing is
+deemed "lazy," depictions of sex and violence are considered unnecessary
+or even harmful. Where do you think these conservative attitudes stem
+from? How can readers and writers alike work to combat these repressive
+modes of thought?**
+
+Where does the need to "balance the books" come from? I think Bataille
+pointing in the direction of capitalism, protestantism, is probably at
+least partially right. Also: the elitism of our privileged east coast
+cultural establishment. Generations of writers have been rewarded for
+learning how to be tasteful, and they've been turned into tastemakers
+and gatekeepers in turn. But poetry must run counter to good taste,
+which is antithetical to true art. You have to find that ecstatic,
+intensive space where everything chimes. This is true also for readers.
+
+**A similar sort of literary elitism tends to reject works in
+translation. Maybe it's due partly to the pretensions of Americanism,
+but I've even seen arguments that people should only read books in their
+native language because translations are inherently flawed. I couldn't
+disagree more. It's such a limiting way to engage with literature, and I
+have tremendous respect for writers who translate books. Why do you
+think certain circles shun works in translation? On the flip side, how
+would you encourage English speakers to seek out more writing by
+international authors and learn about the art of translation?**
+
+My book [*Transgressive
+Circulation*](http://www.noemipress.org/catalog/prose/goransson/){:target="_blank"}
+is all about this antipathy toward translation. One answer has to do
+with how we view poetry. Many like to think that the poem is some kind
+of pure act of communication---a noiseless, well wrought urn---and the
+mediation of translation introduces the threat of noise. As I'm fond to
+point out, translation generates too many versions of too many texts,
+from too many different lineages and cultures. I.e., translation
+generates excess. [As Michel Serres pointed
+out](https://hopscotchtranslation.com/2021/06/27/parasite-of-translation/){:target="_blank"},
+it is through noise we reach something new. And this is the other
+problem with translation. Through its excess, its noise, translation
+generates something new. This is a threat to the US status quo, so the
+people invested in maintaining the status must oppose translation. I
+think the key is to engage with foreign lit, write about foreign lit,
+and---this is important but also kind of controversial---bring the
+foreign lit into conversation with US poetry. Don't put it in a
+quarantine. Bring it into US poetry. This is very important. This is
+something I've spent a lot of time and energy on.
+
+**Circling back to *Summer*, much of the language is suffused with
+palpable violence (perhaps this can be said about a lot of your poetry).
+Mentions of war, riots, rifles, wounds, and blood abound. "I drink the
+milk / of a thousand bullets / I massacre language." I like this idea of
+destroying language to create something new. How has violence informed
+your work? What do you see as the relationship between violence and
+language, whether in *Summer* or in general?**
+
+Good question. Years ago when we ran the collective blog Montevidayo,
+Joyelle McSweeney (my wife) wrote a post about "the ambient violence" of
+my first book---how the violence is not just pervasive but even ambient,
+taking all kinds of shapes and moving in all kinds of directions. I
+think that description is pretty good. I think we live in a
+fundamentally violent world, and language certainly has the capacity to
+move like violence. When I started *Summer*, I thought "summer" was
+going to be a peaceful zone, a place I could keep the violence out of.
+But as the poem went along, I realized trying to keep it out was its own
+violence---and it became an ambiently violent space. Saturated by
+violence. The violence of a toxic world (which is what led to Arachne's
+death), a violent status quo, but also an imagined violence against this
+status quo. At times, I began to entertain different acts of violence as
+a revenge of sorts on the world, but I don't think it helped me.
+Ultimately, I don't know what to do with this toxicity, but I know I
+can't leave it out of the poems. It's in there. On every page.
+
+**I appreciate how open you've been about losing your daughter, both in
+*Summer* and in our conversation. The book left quite an imprint on me,
+as I recently became a father myself, and I could feel your pain and
+anguish resonating throughout the poems. I truly cannot imagine anything
+more nightmarish than the death of a child, so I commend you for writing
+about your grief, which I'm sure was not easy. In addition to personal
+tragedy, there's also an apocalyptic undercurrent in *Summer*.
+Ecological collapse and climate change seem to mirror the loss of a
+loved one. But "summer" being an idyllic place, a sort of Eden, there's
+also an optimistic bent. "I win I win I win." As a parent, a poet, and a
+longtime teacher, what advice can you offer other writers who wish to
+explore trauma, whether on a personal level or at a global scale? What
+gives you hope?**
+
+Thanks for your comments. I have to admit I don't believe in optimism, I
+believe in poetry: poetry's capacity to be a room where the dead can be
+present in their death. During Arachne's brief life, mostly spent by her
+side for hours in her hospital room, I sang to her and I read. I would
+sometimes---especially after her death---read poems on Twitter, and I
+was furious at the self-help poems with their uplifting epiphanies. I
+saw---and I still see---this poetry as an attempt to control and
+commodify grief, an effect that is so strong, so fierce, so anarchic
+that it can convulse not just poetry but an entire society. The things I
+read that helped me---Philip K. Dick, Ballard, Aase Berg---was writing
+that processed the intensity of having a body, including the strange
+feeling of both horror and---I can't help but say it though it might
+seem insane---love when holding one's daughter's dead body.
+
+<figure class="mb-4 py-4">
+  <img src="{{ '/assets/img/seperator.png' | prepend: site.baseurl }}" class="mx-auto d-block" style="max-height:15px;" />
+</figure>
+
+<img src="{{ '/assets/img/fall2022/goransson.jpg' | prepend: site.baseurl }}" class="img-fluid mx-auto my-4 d-block" alt="Johannes Göransson Photo"/>
+
+**Johannes Göransson** is the author of nine books of poetry and
+criticism, most recently *Summer* (2022), and is the translator of
+several books of poetry, including works by Aase Berg, Ann Jäderlund,
+Helena Boberg and Kim Yideum. His poems, translations and critical
+writings have appeared in a wide array of journals in the US and broad,
+including *Fence, Lana Turner, Spoon River Review, Modern Poetry in
+Translation* (UK), *Kritiker* (Denmark) and *Lyrikvännen* (Sweden). His
+is a professor in the English Department at the University of Notre Dame
+and, together with Joyelle McSweeney, edits Action Books.

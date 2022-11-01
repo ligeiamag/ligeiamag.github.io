@@ -89,6 +89,14 @@ layout: null
     "url"      : "{{ site.baseurl }}{{ spring-2022.url }}",
     "author"    : "{{ spring-2022.author | escape }}"
     }
+  ,
+  {% endfor %}
+  {% for fall-2022 in site.fall-2022 %}
+  {
+    "title"    : "{{ fall-2022.title | escape }}",
+    "url"      : "{{ site.baseurl }}{{ fall-2022.url }}",
+    "author"    : "{{ fall-2022.author | escape }}"
+    }
   {% if forloop.last == false %},{% endif %}
   {% endfor %}
   ]
