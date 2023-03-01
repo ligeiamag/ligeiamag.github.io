@@ -13,9 +13,9 @@ width: 649
 height: 983
 ---
 
-Should scholars call this a new Native American renaissance? Our art has been here—from the ages before colonization, the pictographs enveloping limestone, the totems and masks carefully constructed, often religious in import, all these years of creation existing like a living being, then suddenly mummified, becoming scientific curiosity for another culture, the body of art spread on a slab and dissected, collectors with their scalpels separating the organs, intent on preserving the artistic remains of this "dying” race, a mistakenly intentional vivisection on the living.
+Should scholars call this a new Native American renaissance? Our art has been here from the ages before colonization, in pictographs over limestone, in totems and masks carefully constructed, often religious in import, all those years of creation existing as a living being—then suddenly mummified, becoming scientific curiosity for another culture, the body of art spread on a slab, dissected, the collectors with their scalpels separating the organs, intent on preserving the remains of a "dying” race, a vivisection on the living.
 
-Native words too—obliterated at boarding schools. If language is the dress of thought, then it was not enough to kill the body, but the frames of its creativity, the essence of its utterances, also required destruction. So what to call the increase in indigenous publications? Why accept a classical framework?
+Native words too—obliterated at boarding schools. If language is the dress of thought, then it was not enough to kill the body. Its speech also required destruction. So what to call the increase in indigenous publications? Why accept a classical framework?
 
 Maybe focus on the art and artists instead. One such person to watch is Morgan Talty, whose debut collection, *Night of the Living Rez*, is set on the Penobscot reservation where he grew up. In this book, we meet a family with relatable struggles, burdened by signs of a mysterious trauma. Though the content includes brutality, Taltly treats his characters with understanding and affection.
 
