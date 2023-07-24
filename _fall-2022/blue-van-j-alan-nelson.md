@@ -5,7 +5,7 @@ description: Blue Van by J. Alan Nelson
 author: J. Alan Nelson
 tags: [fiction]
 excerpt: ... Where's my blue van ...
-date: 2022-10-01
+date: 2022-10-02
 issue: fall-2022
 image: '/assets/img/fall2022_og/blue-van.jpg'
 width: 500

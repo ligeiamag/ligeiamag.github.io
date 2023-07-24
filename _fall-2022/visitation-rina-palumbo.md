@@ -5,7 +5,7 @@ description: A short story by Rina Palumbo – Visitation
 author: Rina Palumbo
 tags: [fiction]
 excerpt: ... She knew a lie when she heard it ...
-date: 2022-10-01
+date: 2022-10-07
 issue: fall-2022
 image: '/assets/img/fall2022_og/palumbo.jpg'
 width: 571

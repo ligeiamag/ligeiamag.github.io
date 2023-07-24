@@ -2745,20 +2745,6 @@
   ,
   
   {
-    "title"    : "Blue Van",
-    "url"      : "/fall-2022/blue-van-j-alan-nelson/",
-    "author"    : "J. Alan Nelson"
-    }
-  ,
-  
-  {
-    "title"    : "Crushed and Growing",
-    "url"      : "/fall-2022/crushed-and-growing-norbert-kovacs/",
-    "author"    : "Norbert Kovacs"
-    }
-  ,
-  
-  {
     "title"    : "Estranger",
     "url"      : "/fall-2022/estranger-tyler-barney/",
     "author"    : "Tyler Barney"
@@ -2769,6 +2755,13 @@
     "title"    : "Johannes Göransson Interview",
     "url"      : "/fall-2022/johannes-goransson-interview/",
     "author"    : "Matt Lee"
+    }
+  ,
+  
+  {
+    "title"    : "Malo para el bebé (Bad for the Baby)",
+    "url"      : "/fall-2022/malo-para-el-bebe-charlene-elsby/",
+    "author"    : "Charlene Elsby &lt;br&gt; Translated by Leandro Radusky"
     }
   ,
   
@@ -2801,16 +2794,44 @@
   ,
   
   {
-    "title"    : "Rescue Animal",
-    "url"      : "/fall-2022/rescue-animal-daniel-derock/",
-    "author"    : "Daniel DeRock"
+    "title"    : "Strategy And Tactics",
+    "url"      : "/fall-2022/strategy-and-tactics-heikki-huotari/",
+    "author"    : "Heikki Huotari"
     }
   ,
   
   {
-    "title"    : "Strategy And Tactics",
-    "url"      : "/fall-2022/strategy-and-tactics-heikki-huotari/",
-    "author"    : "Heikki Huotari"
+    "title"    : "Blue Van",
+    "url"      : "/fall-2022/blue-van-j-alan-nelson/",
+    "author"    : "J. Alan Nelson"
+    }
+  ,
+  
+  {
+    "title"    : "Sand",
+    "url"      : "/fall-2022/sand-barbara-pabian/",
+    "author"    : "Barbara Pabian"
+    }
+  ,
+  
+  {
+    "title"    : "Crushed and Growing",
+    "url"      : "/fall-2022/crushed-and-growing-norbert-kovacs/",
+    "author"    : "Norbert Kovacs"
+    }
+  ,
+  
+  {
+    "title"    : "Red Flag",
+    "url"      : "/fall-2022/red-flag-vivian-holland/",
+    "author"    : "Vivian Holland"
+    }
+  ,
+  
+  {
+    "title"    : "Rescue Animal",
+    "url"      : "/fall-2022/rescue-animal-daniel-derock/",
+    "author"    : "Daniel DeRock"
     }
   ,
   
@@ -2839,20 +2860,6 @@
     "title"    : "You Were Born in the Fire",
     "url"      : "/fall-2022/you-were-born-in-the-fire-passant-eltarek/",
     "author"    : "Passant Eltarek"
-    }
-  ,
-  
-  {
-    "title"    : "Sand",
-    "url"      : "/fall-2022/sand-barbara-pabian/",
-    "author"    : "Barbara Pabian"
-    }
-  ,
-  
-  {
-    "title"    : "Red Flag",
-    "url"      : "/fall-2022/red-flag-vivian-holland/",
-    "author"    : "Vivian Holland"
     }
   ,
   

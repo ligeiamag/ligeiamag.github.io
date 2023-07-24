@@ -5,7 +5,7 @@ description: A short story by Daniel DeRock – Rescue Animal
 author: Daniel DeRock
 tags: [fiction]
 excerpt: ... Adrian practiced his acceptance speech in the shower ...
-date: 2022-10-01
+date: 2022-10-04
 issue: fall-2022
 image: '/assets/img/fall2022_og/derock.jpg'
 width: 480

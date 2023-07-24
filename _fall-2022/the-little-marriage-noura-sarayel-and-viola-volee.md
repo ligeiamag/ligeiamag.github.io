@@ -5,7 +5,7 @@ description: A short story by Noura Sarayel and Viola Volée – The Little Marr
 author: Noura Sarayel and Viola Volée
 tags: [fiction]
 excerpt: ... The life of a conscious thing consists entirely of consciousness ...
-date: 2022-10-01
+date: 2022-10-06
 issue: fall-2022
 image: '/assets/img/fall2022_og/sarayel-volee.jpg'
 width: 640

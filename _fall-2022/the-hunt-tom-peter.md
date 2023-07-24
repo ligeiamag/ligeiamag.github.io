@@ -5,7 +5,7 @@ description: "An fiction piece by Tom A. Peter - The Hunt"
 author: Tom A. Peter
 tags: [fiction]
 excerpt: ... the Langford family expressed their unconditional support of Timothy's desire not to die in a hospital bed, but in a jungle, fighting against impossible odds. ...
-date: 2022-10-01
+date: 2022-10-05
 issue: fall-2022
 image: '/assets/img/fall2022_og/tom-a-peter.jpg'
 width: 640

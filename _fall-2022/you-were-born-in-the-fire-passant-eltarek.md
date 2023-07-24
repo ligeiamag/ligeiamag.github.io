@@ -5,7 +5,7 @@ description: You Were Born in the Fire by Passant Eltarek
 author: Passant Eltarek
 tags: [fiction]
 excerpt: ... Your poise, your position, your every move looked very intentional, resembling a jump of a talented olympic swimmer ...
-date: 2022-10-01
+date: 2022-10-08
 issue: fall-2022
 image: '/assets/img/fall2022_og/eltarek.jpg'
 width: 640

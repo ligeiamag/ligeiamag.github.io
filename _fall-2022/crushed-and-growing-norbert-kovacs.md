@@ -5,7 +5,7 @@ description: Crushed and Growing by Norbert Kovacs
 author: Norbert Kovacs
 tags: [fiction]
 excerpt: ... My head gains shape and volume at a fresh lift of the skull ...
-date: 2022-10-01
+date: 2022-10-03
 issue: fall-2022
 image: '/assets/img/fall2022_og/kovacs.jpg'
 width: 640
