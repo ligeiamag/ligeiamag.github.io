@@ -52,7 +52,7 @@ My mother shared so much important information with me.
 She told me that when old people start eating junk food, it's because
 they realize time is running out.
 
-She told me that people----people all over the world----run out of time.
+She told me that people---people all over the world---run out of time.
 
 She told me to start thinking about the things I wanted to do in life,
 beginning right now.
@@ -94,7 +94,7 @@ They were trying something new.
 One of those boys was my father.
 
 "Wow," she commented to a friend at the time, pointing at them, "Take a
-look at the chemical warfare over there----it's so pathetic."
+look at the chemical warfare over there---it's so pathetic."
 
 "I love you," my mother once said to me, when I was small, "I love you
 so much.... I'm in love with you."
