@@ -105,6 +105,13 @@ layout: null
     "url"      : "{{ site.baseurl }}{{ spring-2023.url }}",
     "author"    : "{{ spring-2023.author | escape }}"
     }
+  {% endfor %}
+  {% for winter-2024 in site.winter-2024 %}
+  {
+    "title"    : "{{ winter-2024.title | escape }}",
+    "url"      : "{{ site.baseurl }}{{ winter-2024.url }}",
+    "author"    : "{{ winter-2024.author | escape }}"
+    }
   {% if forloop.last == false %},{% endif %}
   {% endfor %}
   ]

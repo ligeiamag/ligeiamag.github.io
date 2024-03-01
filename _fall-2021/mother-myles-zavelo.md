@@ -97,7 +97,7 @@ One of those boys was my father.
 look at the chemical warfare over there---it's so pathetic."
 
 "I love you," my mother once said to me, when I was small, "I love you
-so much.... I'm in love with you."
+so much...I'm in love with you."
 
 She used to tell me I was her best creation.
 

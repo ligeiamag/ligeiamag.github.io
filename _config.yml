@@ -53,6 +53,8 @@ collections:
     output: true
   spring-2023:
     output: true
+  winter-2024:
+    output: true
 permalink: pretty
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
