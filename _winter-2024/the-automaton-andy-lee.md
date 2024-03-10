@@ -12,6 +12,8 @@ width: 640
 height: 417
 ---
 
+## Part 1
+
 The automaton lifts its feet at a steady cadence to match the speed at
 which the carpet underneath it retracts into the distance. There are
 many other objects on the carpet, although not all of them are as
@@ -141,6 +143,10 @@ so agreed.*
 "Before you throw me down, let me touch something, perhaps your friend
 the tree---let me see just once how much better your memories are than
 mine."
+
+<br>
+
+## Part 2
 
 The automaton began stripping its parts. "Just a little lighter, and I
 can go a little longer," it said. One by one the discarded objects began
